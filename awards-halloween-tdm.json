@@ -1,0 +1,37 @@
+﻿{
+  "awards": [
+    {
+      "place": "win",
+      "name": "Монеты X500",
+      "size": 2,
+      "backgroundType": 1,
+      "rarity": 1,
+      "type": 23,
+      "internalId": 0,
+      "count": 500,
+      "imageName": "img_event_res_cases.png"
+    },
+    {
+      "place": "lose",
+      "name": "Монеты X150",
+      "size": 2,
+      "backgroundType": 1,
+      "rarity": 1,
+      "type": 23,
+      "internalId": 0,
+      "count": 150,
+      "imageName": "img_event_res_cases.png"
+    },
+    {
+      "place": "draw",
+      "name": "Монеты X150",
+      "size": 2,
+      "backgroundType": 1,
+      "rarity": 1,
+      "type": 23,
+      "internalId": 0,
+      "count": 150,
+      "imageName": "img_event_res_cases.png"
+    }
+  ]
+}

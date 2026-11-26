@@ -1,0 +1,267 @@
+﻿{
+  "pageId": 2,
+  "pageType": "regular",
+  "styleForPage": {
+    "sidebarName": "Наборы",
+    "iconName": "icp_bundles.png",
+    "bgImage": ""
+  },
+  "items": [
+    {
+      "itemId": 1,
+      "name": "Новичок",
+      "imageName": "",
+      "description": "Народная классика в комплекте с подкреплением из 100 000 валюты, а также 7 дней статуса VIP Silver. Удобный стартовый набор с отличной ценностью для уверенного движения с самых первых минут.",
+      "offerType": "bundle",
+      "price": [
+        200
+      ],
+      "salePercent": [
+        59
+      ],
+      "fakePrice": [
+        490
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        4,
+        6,
+        437,
+        5
+      ]
+    },
+    {
+      "itemId": 2,
+      "name": "Мажор",
+      "imageName": "",
+      "description": "Сбалансированный набор с легендарным автокейсом 3.0 и бонусом в 300 000 игровых рублей. Твой шанс выиграть топовый транспорт и мгновенно пополнить счет  валютой.",
+      "offerType": "bundle",
+      "price": [
+        1200
+      ],
+      "salePercent": [
+        50
+      ],
+      "fakePrice": [
+        2400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        7,
+        8
+      ]
+    },
+    {
+      "itemId": 3,
+      "name": "Легендарный дуэт",
+      "imageName": "",
+      "description": "Горшок и Князь. Забирай легендарный дуэт — наполни сезон духом бунтарства!\n\nКнязь: вызов транспорта на 25% дешевле.\nГоршок: +20% к скорости восстановлению выносливости после спринта",
+      "offerType": "bundle",
+      "price": [
+        9000
+      ],
+      "salePercent": [
+        0
+      ],
+      "fakePrice": [
+        0
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        475,
+        476
+      ]
+    },
+    {
+      "itemId": 4,
+      "name": "Анархия на дороге",
+      "imageName": "",
+      "description": "Два панка. Пять авто-кейсов. Устрой панк-заезд! Забирай набор со скидкой, и газ в пол!\n\nКнязь: вызов транспорта на 25% дешевле.\nГоршок: +20% к скорости восстановлению выносливости после спринта",
+      "offerType": "bundle",
+      "price": [
+        11000
+      ],
+      "salePercent": [
+        45
+      ],
+      "fakePrice": [
+        20000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        475,
+        476,
+        477
+      ]
+    },
+    {
+      "itemId": 5,
+      "name": "Легендарный дуэт",
+      "imageName": "",
+      "description": "Горшок и Князь. Забирай легендарный дуэт со скидкой — наполни сезон духом бунтарства!\n\nКнязь: вызов транспорта на 25% дешевле.\nГоршок: +20% к скорости восстановлению выносливости после спринта",
+      "offerType": "bundle",
+      "price": [
+        6500
+      ],
+      "salePercent": [
+        35
+      ],
+      "fakePrice": [
+        10000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        475,
+        476
+      ]
+    },
+    {
+      "itemId": 6,
+      "name": "Скорость на старте",
+      "imageName": "",
+      "description": "3 Кейса: Скорость и 5 Кейсов с билетами гонщика. Забирай со скидкой  и дай соперникам услышать рёв мотора!",
+      "offerType": "bundle",
+      "price": [
+        1990
+      ],
+      "salePercent": [
+        47
+      ],
+      "fakePrice": [
+        3750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        478,
+        479
+      ]
+    },
+    {
+      "itemId": 7,
+      "name": "Большая выгода",
+      "imageName": "",
+      "description": "Пять кейсов «Чёрный» и 60 дней VIP Platinum. Открывай кейсы, забирай награды и играй на платине!",
+      "offerType": "bundle",
+      "price": [
+        5690
+      ],
+      "salePercent": [
+        70
+      ],
+      "fakePrice": [
+        19000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        484,
+        486
+      ]
+    },
+    {
+      "itemId": 8,
+      "name": "Огромная выгода",
+      "imageName": "",
+      "description": "Чёрная пятница на максималках: 20 кейсов и 120 дней VIP Platinum! Больше открытий, больше шансов сорвать куш и четыре месяца привилегий",
+      "offerType": "bundle",
+      "price": [
+        17590
+      ],
+      "salePercent": [
+        77
+      ],
+      "fakePrice": [
+        76840
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        485,
+        487
+      ]
+    },
+    {
+      "itemId": 9,
+      "name": "MACAN X BLACK RUSSIA",
+      "imageName": "",
+      "description": "Стиль Macan — от образа до автомобиля. Забирай скин и фирменный BMW M5 со скидкой: появляйся эффектно, жми на газ и задавай ритм улицам!",
+      "offerType": "bundle",
+      "price": [
+        2990
+      ],
+      "salePercent": [
+        70
+      ],
+      "fakePrice": [
+        10000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        488,
+        489
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "sectionId": 2,
+      "title": "Панки в городе!",
+      "blockType": "grid_regular",
+      "layoutName": "kish3",
+      "startTime": 1792634400,
+      "endTime": 1793325600,
+      "order": 1,
+      "itemIds": [
+        1,
+        3
+      ]
+    },
+    {
+      "sectionId": 3,
+      "title": "Панки в городе!",
+      "blockType": "grid_regular",
+      "layoutName": "kish2",
+      "startTime": 1793325600,
+      "endTime": 1794448800,
+      "order": 1,
+      "itemIds": [
+        5,
+        4
+      ]
+    },
+    {
+      "sectionId": 4,
+      "title": "Панки в городе!",
+      "blockType": "grid_regular",
+      "layoutName": "kish1",
+      "startTime": 1794276000,
+      "endTime": 1795658400,
+      "order": 1,
+      "itemIds": [
+        1,
+        3
+      ]
+    },
+    {
+      "sectionId": 5,
+      "title": "Чёрная пятница",
+      "blockType": "grid_regular",
+      "layoutName": "blackFriday",
+      "startTime": 1795658400,
+      "endTime": 1796868000,
+      "order": 1,
+      "itemIds": [
+        7,
+        9,
+        8
+      ]
+    }
+  ]
+}

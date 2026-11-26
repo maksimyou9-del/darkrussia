@@ -1,0 +1,5052 @@
+﻿{
+  "pageId": 5,
+  "pageType": "regular",
+  "styleForPage": {
+    "sidebarName": "Аксессуары",
+    "iconName": "icp_accessories.png",
+    "bgImage": ""
+  },
+  "items": [
+    {
+      "itemId": 1,
+      "name": "Берет 80",
+      "imageName": "",
+      "description": "Темно-зеленый армейский берет с кокардой. Символ выправки и воинской дисциплины.",
+      "offerType": "universal",
+      "price": [
+        290,
+        232,
+        218
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        290,
+        290
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        312
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 2,
+      "name": "Советская Шапка",
+      "imageName": "",
+      "description": "Серый каракулевый головной убор в традиционном стиле. Символ суровых зим и классической ностальгии.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        313
+      ],
+      "startTime": [
+        0,
+        1792634400,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 3,
+      "name": "Очки Люкс",
+      "imageName": "",
+      "description": "Белая оправа со стильными круглыми элементами. Выразительный аксессуар для светских выходов.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        314
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 4,
+      "name": "Шлем Велосипедиста",
+      "imageName": "",
+      "description": "Спортивный шлем в сине-белой расцветке со звездным принтом. Атмосфера динамичного городского движения.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        315
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 5,
+      "name": "Надувной Жилет",
+      "imageName": "",
+      "description": "Объемный яркий оранжевый жилет. Незаменимый атрибут пляжного отдыха и безопасных водных приключений.",
+      "offerType": "universal",
+      "price": [
+        800,
+        480,
+        600,
+        480
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        800,
+        800,
+        800
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        316
+      ],
+      "startTime": [
+        0,
+        1790215200,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1790820000,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 6,
+      "name": "Очки Звездочки",
+      "imageName": "",
+      "description": "Очки с темными линзами и крупными золотыми звездами. Эпатажный вариант для зажигательных вечеринок.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        317
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 7,
+      "name": "Лапка Анимированная",
+      "imageName": "",
+      "description": "Красная эмблема звериной лапы с анимированным логотипом в центре. Заметный акцент для выделения из толпы.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        318
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 8,
+      "name": "Веселая тыква хеллоуинская",
+      "imageName": "",
+      "description": "Хэллоуинская тыква со светящимся хищным прищуром и улыбкой.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        319
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 9,
+      "name": "Маска Вампир",
+      "imageName": "",
+      "description": "Пугающая бледная маска с темными глазницами и широким оскалом. Атмосфера классических хорроров.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        320
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 10,
+      "name": "Кукла Вуду",
+      "imageName": "",
+      "description": "Рюкзак в виде тряпичной куклы с зашитым сердцем и пуговицами вместо глаз.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        321
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 11,
+      "name": "Призрачный портал",
+      "imageName": "",
+      "description": "Каменные врата со светящейся фиолетовой магией внутри.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        322
+      ],
+      "startTime": [
+        0,
+        1791424800,
+        1794708000,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1792029600,
+        1794967200,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 12,
+      "name": "Акула на голову праздничная",
+      "imageName": "",
+      "description": "Серая акула с открытой пастью, надетая на голову.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        323
+      ],
+      "startTime": [
+        0,
+        1794967200,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1795226400,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 13,
+      "name": "ГеймБой праздничный",
+      "imageName": "",
+      "description": "Рюкзак в виде ретро-игрушки. Ностальгический хит 90-х годов.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        240,
+        225
+      ],
+      "salePercent": [
+        0,
+        20,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        324
+      ],
+      "startTime": [
+        0,
+        1790215200,
+        1794189600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1790820000,
+        1794448800,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 14,
+      "name": "Мопс на спину праздничная",
+      "imageName": "",
+      "description": "Рюкзак в виде забавного мопса в желтой жилетке.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        325
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 15,
+      "name": "Летняя доска праздничная",
+      "imageName": "",
+      "description": "Яркий серфборд с красочным тропическим пейзажем для водных видов спорта.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        326
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 16,
+      "name": "Катюша праздничная",
+      "imageName": "",
+      "description": "Рюкзак в виде копии легендарной военной техники.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        327
+      ],
+      "startTime": [
+        0,
+        1794708000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794967200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 17,
+      "name": "Рюкзак солдатик",
+      "imageName": "",
+      "description": "Походный зеленый рюкзак с каской. Экипировка для настоящих исследователей.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        240,
+        225
+      ],
+      "salePercent": [
+        0,
+        20,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        328
+      ],
+      "startTime": [
+        0,
+        1789610400,
+        1794967200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1790215200,
+        1795226400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 18,
+      "name": "Маска оленя",
+      "imageName": "",
+      "description": "Объемная голова лесного оленя с ветвистыми рогами.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        329
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 19,
+      "name": "Белые рога",
+      "imageName": "",
+      "description": "Изящные ветвистые рога для создания сказочного зимнего образа.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        330
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 20,
+      "name": "Уши эльфа",
+      "imageName": "",
+      "description": "Остроконечные эльфийские уши с волшебным новогодним украшением.",
+      "offerType": "universal",
+      "price": [
+        300,
+        150,
+        225
+      ],
+      "salePercent": [
+        0,
+        50,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300.0,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        331
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 21,
+      "name": "Маска елочки",
+      "imageName": "",
+      "description": "Зеленый головной убор в форме украшенной новогодней ели со звездой на вершине.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        150,
+        225
+      ],
+      "salePercent": [
+        0,
+        25,
+        50,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300.0,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        332
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 22,
+      "name": "Рождественские рога",
+      "imageName": "",
+      "description": "Оленьи рожки с яркими праздничными шарами.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        150,
+        225
+      ],
+      "salePercent": [
+        0,
+        25,
+        50,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300.0,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        333
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 23,
+      "name": "Маска Деда Мороза",
+      "imageName": "",
+      "description": "Объемный головной убор сказочного волшебника в колпаке и с белой бородой.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225,
+        150
+      ],
+      "salePercent": [
+        0,
+        20,
+        25,
+        50
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300,
+        300.0
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        334
+      ],
+      "startTime": [
+        0,
+        1790820000,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1791424800,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 24,
+      "name": "Шапка-Ушанка",
+      "imageName": "",
+      "description": "Красная ушанка со светлым мехом и праздничным узором для зимних морозов.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        20,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        335
+      ],
+      "startTime": [
+        0,
+        1791424800,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1792029600,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 25,
+      "name": "Новогодний кекс",
+      "imageName": "",
+      "description": "Объемный кекс с белой глазурью и ягодами.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        336
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 26,
+      "name": "Новогодний мишка",
+      "imageName": "",
+      "description": "Голова бурого медведя в сине-белом новогоднем колпачке.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        337
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 27,
+      "name": "Маска Снегурочка",
+      "imageName": "",
+      "description": "Сказочный кокошник с резным орнаментом и лицом Снегурочки.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        338
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 28,
+      "name": "Маска Снеговика",
+      "imageName": "",
+      "description": "Объемная белоснежная маска в форме головы снеговика с носом-морковкой.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        339
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 29,
+      "name": "Сумка Снеговика",
+      "imageName": "",
+      "description": "Шестигранная белая сумка-чемоданчик с улыбающимся лицом снеговика.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        340
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 30,
+      "name": "Корона демона",
+      "imageName": "",
+      "description": "Острая темная корона с багровыми отблесками для повелителей тьмы.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        360,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        40,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        341
+      ],
+      "startTime": [
+        0,
+        1790820000,
+        1795485600,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1791424800,
+        1795658400,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 31,
+      "name": "Крылья ангела парящие",
+      "imageName": "",
+      "description": "Белоснежные перьевые крылья за спиной для светлых образов.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        240,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        60,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600.0,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        342
+      ],
+      "startTime": [
+        0,
+        1789610400,
+        1795658400,
+        1796004000,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1790215200,
+        1796004000,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 32,
+      "name": "Кейс",
+      "imageName": "",
+      "description": "Серый строительный чемодан в стиле известного бренда профессионального инструмента.",
+      "offerType": "universal",
+      "price": [
+        600,
+        360,
+        450,
+        240,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        40,
+        25,
+        60,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600.0,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        343
+      ],
+      "startTime": [
+        0,
+        1792029600,
+        1795658400,
+        1796004000,
+        1796263200,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1792634400,
+        1796004000,
+        1796263200,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 33,
+      "name": "Кейс черный",
+      "imageName": "",
+      "description": "Строгий черный металлический дипломат с надежной защелкой.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        344
+      ],
+      "startTime": [
+        0,
+        1792634400,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 34,
+      "name": "Кейс серый",
+      "imageName": "",
+      "description": "Серый металлический чемоданчик для перевозки важных документов.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        345
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 35,
+      "name": "Золотая корона",
+      "imageName": "",
+      "description": "Изношенная золотая корона со встроенными рубинами для ценителей древней роскоши.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        346
+      ],
+      "startTime": [
+        0,
+        1790820000,
+        1793152800,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1791424800,
+        1793412000,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 36,
+      "name": "Корона короля",
+      "imageName": "",
+      "description": "Величественная бархатная корона с драгоценными камнями и золотыми дугами.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        347
+      ],
+      "startTime": [
+        0,
+        1789610400,
+        1793412000,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1790215200,
+        1793671200,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 37,
+      "name": "Серебряная корона",
+      "imageName": "",
+      "description": "Изящный серебряный венец со строгим благородным блеском.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        348
+      ],
+      "startTime": [
+        0,
+        1792029600,
+        1792634400,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1792634400,
+        1792893600,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 38,
+      "name": "Лавровый венец",
+      "imageName": "",
+      "description": "Золотой венок из лавровых листьев для истинных триумфаторов и победителей.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        349
+      ],
+      "startTime": [
+        0,
+        1790215200,
+        1792893600,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1790820000,
+        1793152800,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 39,
+      "name": "Диадема",
+      "imageName": "",
+      "description": "Аристократическое серебряное украшение с синим сияющим камнем.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        350
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 40,
+      "name": "Очки Доллар",
+      "imageName": "",
+      "description": "Забавные круглые очки с зелеными значками доллара.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        351
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 41,
+      "name": "Очки День рождения",
+      "imageName": "",
+      "description": "Яркая розовая оправа с пирожными и праздничной надписью.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        352
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 42,
+      "name": "Праздничный колпак",
+      "imageName": "",
+      "description": "Колпак с яркими звездами и серпантином для незабываемых вечеринок.",
+      "offerType": "universal",
+      "price": [
+        500000,
+        375000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        353
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 43,
+      "name": "Неоновые очки",
+      "imageName": "",
+      "description": "Стильные очки-жалюзи со светящимися желто-зелеными линиями.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        354
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 44,
+      "name": "Неоновые очки",
+      "imageName": "",
+      "description": "Футуристичные очки-жалюзи с розовато-голубыми неоновыми полосками.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        355
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 45,
+      "name": "Неоновые очки",
+      "imageName": "",
+      "description": "Темная оправа с зелеными неоновыми линиями по краю.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        356
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 46,
+      "name": "Неоновые очки",
+      "imageName": "",
+      "description": "Темная оправа с красными неоновыми линиями по краю.",
+      "offerType": "universal",
+      "price": [
+        700000,
+        525000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        700000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        357
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 47,
+      "name": "Неоновые очки",
+      "imageName": "",
+      "description": "Спортивная оправа со синим светящимся контуром.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        358
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 48,
+      "name": "Неоновые очки",
+      "imageName": "",
+      "description": "Черная оправа с ярким оранжевым неоновым контуром.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        359
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 49,
+      "name": "Очки пиксели",
+      "imageName": "",
+      "description": "Культовая пиксельная оправа из легендарных интернет-мемов.",
+      "offerType": "universal",
+      "price": [
+        300,
+        240,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        20,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        360
+      ],
+      "startTime": [
+        0,
+        1792029600,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1792634400,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 50,
+      "name": "Шар сердце",
+      "imageName": "",
+      "description": "Перламутровый пурпурный шар с изящным просветом в форме сердца.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        361
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 51,
+      "name": "Шар звезда",
+      "imageName": "",
+      "description": "Праздничный гелиевый шарик в форме яркой золотой звезды.",
+      "offerType": "universal",
+      "price": [
+        500000,
+        375000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        362
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 52,
+      "name": "Шар музыка",
+      "imageName": "",
+      "description": "Воздушный шарик в форме зеленой музыкальной ноты.",
+      "offerType": "universal",
+      "price": [
+        500000,
+        375000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        363
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 53,
+      "name": "Шар сердце 2",
+      "imageName": "",
+      "description": "Объемный красный гелиевый шарик в форме сердца.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        364
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 54,
+      "name": "Шарик красный",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        365
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 55,
+      "name": "Очки 'Выпуклые глаза' клевые",
+      "imageName": "",
+      "description": "Круглая оправа с комично выпученными глазами.",
+      "offerType": "universal",
+      "price": [
+        200,
+        160,
+        150
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        200,
+        200
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        366
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 56,
+      "name": "Очки 'Обычные глаза' клевые",
+      "imageName": "",
+      "description": "Очки с забавным мультяшным взглядом.",
+      "offerType": "universal",
+      "price": [
+        200,
+        160,
+        150
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        200,
+        200
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        367
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 57,
+      "name": "Маска клоуна клевая",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        368
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 58,
+      "name": "Маска клоуна клевая",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        369
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 59,
+      "name": "Лицо тролля симпатичное",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        370
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 60,
+      "name": "Инопланетянин милый",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        371
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 61,
+      "name": "Троль с париком милый",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        600,
+        450,
+        240,
+        450,
+        360
+      ],
+      "salePercent": [
+        0,
+        25,
+        60,
+        25,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600.0,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        372
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 62,
+      "name": "Инопланетянин с париком милый",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        600,
+        450,
+        240,
+        360
+      ],
+      "salePercent": [
+        0,
+        25,
+        60,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600.0,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        373
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796522400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 64,
+      "name": "Нос клоуна красный",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        200,
+        160,
+        150
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        200,
+        200
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        375
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 65,
+      "name": "Парик клоуна красный",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        376
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 66,
+      "name": "Деревянный посох",
+      "imageName": "",
+      "description": "Изогнутая деревянная трость со стилизованными рогами и праздничной лентой.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        377
+      ],
+      "startTime": [
+        0,
+        1791424800,
+        1793671200,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1792029600,
+        1793930400,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 67,
+      "name": "Берет да, это дорого",
+      "imageName": "",
+      "description": "Голубой вязаный берет с узорами.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        378
+      ],
+      "startTime": [
+        0,
+        1789610400,
+        1794708000,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1790215200,
+        1794967200,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 68,
+      "name": "Карамельная конфета сладкая",
+      "imageName": "",
+      "description": "Красно-белая изогнутая праздничная карамельная трость.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        379
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 69,
+      "name": "Белая панама с сигарой",
+      "imageName": "",
+      "description": "Светлая шляпа-федора с темной лентой и дымящейся сигарой.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        380
+      ],
+      "startTime": [
+        0,
+        1790820000,
+        1794967200,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1791424800,
+        1795226400,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 70,
+      "name": "Черная панама с сигарой",
+      "imageName": "",
+      "description": "Темная шляпа-федора сдержанного стиля с сигарой.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        381
+      ],
+      "startTime": [
+        0,
+        1791424800,
+        1795226400,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1792029600,
+        1795485600,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 71,
+      "name": "Серая панама с сигарой",
+      "imageName": "",
+      "description": "Серый текстурный головной убор с сигарой для авторитетных образов.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        382
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 72,
+      "name": "Темная панама с сигарой",
+      "imageName": "",
+      "description": "Винтажная шляпа в коричневых тонах с зажженной сигарой.",
+      "offerType": "universal",
+      "price": [
+        400,
+        60,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        85,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400.0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        383
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 76,
+      "name": "Черная шапка",
+      "imageName": "",
+      "description": "Вязаная шапка с фирменным светлым узором.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        60,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        85,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400.0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        387
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 77,
+      "name": "Посох-зонт новогодний",
+      "imageName": "",
+      "description": "Трость в форме карамельной палочки с зеленым хвойным ветками.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        388
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 78,
+      "name": "Кандибобер красный",
+      "imageName": "",
+      "description": "Красная тюрбан-чалма с золотым украшением по центру.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        60,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        85,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400.0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        389
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 79,
+      "name": "Синий посох со льдом",
+      "imageName": "",
+      "description": "Темный магический посох со светящимися ледяными кристаллами.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        390
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 80,
+      "name": "Синий посох со снежинкой",
+      "imageName": "",
+      "description": "Тонкий металлический скипетр с навершием в виде большой резной снежинки.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        391
+      ],
+      "startTime": [
+        0,
+        1794708000,
+        1795658400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1794967200,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 81,
+      "name": "Голубой посох со льдом",
+      "imageName": "",
+      "description": "Изящная ледяная ветвь с замерзшими кристаллами.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        392
+      ],
+      "startTime": [
+        0,
+        1794967200,
+        1795658400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1795226400,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 82,
+      "name": "Новогодний топорик очень опасный",
+      "imageName": "",
+      "description": "Каменный томагавк в красно-белой праздничной обмотке с кристаллом.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        393
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 83,
+      "name": "Новогодняя палочка с кристаллом",
+      "imageName": "",
+      "description": "Праздничная сказочная трость с обмоткой и ледяным навершием.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        394
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 84,
+      "name": "Очки-сердечки их не разбить...",
+      "imageName": "",
+      "description": "Штурмовые очки с анимированными красными пиксельными сердцами.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        225,
+        375
+      ],
+      "salePercent": [
+        0,
+        30,
+        55,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500.0,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        395
+      ],
+      "startTime": [
+        0,
+        1790215200,
+        1795658400,
+        1796004000
+      ],
+      "endTime": [
+        0,
+        1790820000,
+        1796004000,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 86,
+      "name": "Рюкзак 'Санта-Клауса' вместительный",
+      "imageName": "",
+      "description": "Рюкзак в виде забавного миниатюрного Санта-Клауса.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        225,
+        375
+      ],
+      "salePercent": [
+        0,
+        25,
+        55,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500.0,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        397
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 87,
+      "name": "Новогодняя шапка с рогами",
+      "imageName": "",
+      "description": "Красный ушастый колпак с оленьими рогами, пушком и золотой звездой.",
+      "offerType": "universal",
+      "price": [
+        500,
+        350,
+        375,
+        225,
+        375
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        55,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500.0,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        398
+      ],
+      "startTime": [
+        0,
+        1792029600,
+        1795658400,
+        1796263200,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1792634400,
+        1796263200,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 88,
+      "name": "Очки моргающие глаза",
+      "imageName": "",
+      "description": "Узкие очки с анимированными фиолетовыми глазами.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        225
+      ],
+      "salePercent": [
+        0,
+        25,
+        55
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500.0
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        399
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 89,
+      "name": "Очки Пламя на тусу",
+      "imageName": "",
+      "description": "Темные очки с анимированным языком пламени в линзах.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        400
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 90,
+      "name": "Прямые очки с огнем",
+      "imageName": "",
+      "description": "Узкие футуристичные очки с огненной полосой.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        401
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 91,
+      "name": "Шапка гнома с бородой",
+      "imageName": "",
+      "description": "Красный колпак, переходящий в густую белую бороду.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        402
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 93,
+      "name": "Очки с салютом",
+      "imageName": "",
+      "description": "Очки со светящимися вспышками праздничного салюта в линзах.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        404
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 94,
+      "name": "Прямые очки матрица",
+      "imageName": "",
+      "description": "Футуристичный аксессуар с падающими зелеными пиксельными символами.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        405
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 95,
+      "name": "Очки падающие снежинки",
+      "imageName": "",
+      "description": "Темные очки с анимированным снегопадом.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        406
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 97,
+      "name": "Голубой посох со снежинкой и узором",
+      "imageName": "",
+      "description": "Длинный ажурный скипетр с навершием в форме снежинки.",
+      "offerType": "universal",
+      "price": [
+        600,
+        450,
+        360,
+        360
+      ],
+      "salePercent": [
+        0,
+        25,
+        40,
+        40
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        408
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796868000,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 98,
+      "name": "Очки санрайз у воды",
+      "imageName": "",
+      "description": "Очки с живописным закатом и пальмами в линзах.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        409
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 99,
+      "name": "Прямые очки WARNING",
+      "imageName": "",
+      "description": "Эпатажные очки с предупреждающей надписью.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        350
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        410
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 100,
+      "name": "Шляпа ведьмы обычная",
+      "imageName": "",
+      "description": "Конусообразный черный колпак с широкими полями.",
+      "offerType": "universal",
+      "price": [
+        500000,
+        375000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        411
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 101,
+      "name": "Шляпа с привидением",
+      "imageName": "",
+      "description": "Темно-синяя шляпа со звездами и вылетающим белым призраком.",
+      "offerType": "universal",
+      "price": [
+        700000,
+        525000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        700000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        412
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 102,
+      "name": "Шляпа с паучком",
+      "imageName": "",
+      "description": "Яркая красная шляпа с черным ремешком и висящим пауком.",
+      "offerType": "universal",
+      "price": [
+        1500000,
+        1125000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1500000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        413
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 104,
+      "name": "Шляпа ведьмы (светящяяся)",
+      "imageName": "",
+      "description": "Темный колпак с мерцающими гирляндами.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        240
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        415
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 105,
+      "name": "Шляпа ведьмы (светящяяся)",
+      "imageName": "",
+      "description": "Розовый колпак с ремешком и магическим эффектом.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        416
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 108,
+      "name": "Неоновая маска (красная)",
+      "imageName": "",
+      "description": "Маска со светящимися красными крестами на глазах.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        60
+      ],
+      "salePercent": [
+        0,
+        25,
+        85
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400.0
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        419
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 109,
+      "name": "Неоновая маска Синяя",
+      "imageName": "",
+      "description": "Маска с синим неоновым оскалом и крестиками.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        420
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 110,
+      "name": "Неоновая маска Зеленая",
+      "imageName": "",
+      "description": "Маска со светящимся зеленым неоновым контуром.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        421
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 111,
+      "name": "Неоновая маска Фиолетовая",
+      "imageName": "",
+      "description": "Маска со светящимся фиолетовым неоновым рисунком.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        422
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 112,
+      "name": "Неоновая маска Оранжевая",
+      "imageName": "",
+      "description": "Светящийся оранжевый неоновый атрибут.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        423
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 113,
+      "name": "Железная коса",
+      "imageName": "",
+      "description": "Темная стальная коса с изогнутым лезвием.",
+      "offerType": "universal",
+      "price": [
+        700000,
+        525000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        700000
+      ],
+      "priceCurrency": "soft",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        424
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 114,
+      "name": "Красная коса",
+      "imageName": "",
+      "description": "Органическая коса с кроваво-красным лезвием.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        425
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 119,
+      "name": "Маска Ведьмы",
+      "imageName": "",
+      "description": "Белая маска с черным крестом на лбу и подтеками под глазами.",
+      "offerType": "universal",
+      "price": [
+        150,
+        120,
+        113
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        150,
+        150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        430
+      ],
+      "startTime": [
+        0,
+        1792634400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 125,
+      "name": "Метла",
+      "imageName": "",
+      "description": "Классическое деревянное помело с прутьями.",
+      "offerType": "universal",
+      "price": [
+        200,
+        160,
+        150
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        200,
+        200
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        436
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 374,
+      "name": "Очки с носом крутые",
+      "imageName": "",
+      "description": "Аксессуар для персонажа",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        374
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 375,
+      "name": "Сезонный билет гонщика",
+      "imageName": "img_race_ticket_temp.png",
+      "description": "Тест",
+      "offerType": "universal",
+      "price": [
+        400,
+        300
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        383
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "sectionId": 1,
+      "title": "Популярное",
+      "blockType": "grid_regular",
+      "layoutName": "4x2",
+      "order": 1000,
+      "itemIds": [
+        84,
+        99,
+        95,
+        90,
+        31,
+        49,
+        33,
+        34
+      ]
+    },
+    {
+      "sectionId": 2,
+      "title": "Товары за рубли",
+      "blockType": "grid_regular",
+      "layoutName": "4x2",
+      "order": 1001,
+      "itemIds": [
+        100,
+        52,
+        42,
+        51,
+        101,
+        113,
+        46,
+        102
+      ]
+    },
+    {
+      "sectionId": 3,
+      "title": "Все товары",
+      "blockType": "grid_catalog",
+      "layoutName": "",
+      "filter": "accessories",
+      "order": 1002,
+      "itemIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        47,
+        48,
+        49,
+        50,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        93,
+        94,
+        95,
+        97,
+        98,
+        99,
+        104,
+        105,
+        108,
+        109,
+        110,
+        111,
+        112,
+        114,
+        119,
+        125,
+        374
+      ]
+    },
+    {
+      "sectionId": 4,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1789610400,
+      "endTime": 1790215200,
+      "order": 1,
+      "itemIds": [
+        31,
+        36,
+        67,
+        17
+      ]
+    },
+    {
+      "sectionId": 5,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1790215200,
+      "endTime": 1790820000,
+      "order": 2,
+      "itemIds": [
+        5,
+        84,
+        38,
+        13
+      ]
+    },
+    {
+      "sectionId": 6,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1790820000,
+      "endTime": 1791424800,
+      "order": 3,
+      "itemIds": [
+        30,
+        35,
+        69,
+        23
+      ]
+    },
+    {
+      "sectionId": 7,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1791424800,
+      "endTime": 1792029600,
+      "order": 4,
+      "itemIds": [
+        11,
+        66,
+        70,
+        24
+      ]
+    },
+    {
+      "sectionId": 8,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1792029600,
+      "endTime": 1792634400,
+      "order": 5,
+      "itemIds": [
+        32,
+        87,
+        37,
+        49
+      ]
+    },
+    {
+      "sectionId": 9,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1792634400,
+      "endTime": 1792893600,
+      "order": 6,
+      "itemIds": [
+        2,
+        33,
+        119,
+        37
+      ]
+    },
+    {
+      "sectionId": 10,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1792893600,
+      "endTime": 1793152800,
+      "order": 7,
+      "itemIds": [
+        3,
+        34,
+        55,
+        38
+      ]
+    },
+    {
+      "sectionId": 11,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793152800,
+      "endTime": 1793412000,
+      "order": 8,
+      "itemIds": [
+        4,
+        35,
+        56,
+        39
+      ]
+    },
+    {
+      "sectionId": 12,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793412000,
+      "endTime": 1793671200,
+      "order": 9,
+      "itemIds": [
+        6,
+        36,
+        64,
+        57
+      ]
+    },
+    {
+      "sectionId": 13,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793671200,
+      "endTime": 1793930400,
+      "order": 10,
+      "itemIds": [
+        7,
+        66,
+        125,
+        58
+      ]
+    },
+    {
+      "sectionId": 14,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793930400,
+      "endTime": 1794189600,
+      "order": 11,
+      "itemIds": [
+        8,
+        68,
+        1,
+        59
+      ]
+    },
+    {
+      "sectionId": 15,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794189600,
+      "endTime": 1794448800,
+      "order": 12,
+      "itemIds": [
+        9,
+        77,
+        13,
+        60
+      ]
+    },
+    {
+      "sectionId": 16,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794448800,
+      "endTime": 1794708000,
+      "order": 13,
+      "itemIds": [
+        10,
+        79,
+        15,
+        374
+      ]
+    },
+    {
+      "sectionId": 17,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794708000,
+      "endTime": 1794967200,
+      "order": 14,
+      "itemIds": [
+        11,
+        80,
+        16,
+        67
+      ]
+    },
+    {
+      "sectionId": 18,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794967200,
+      "endTime": 1795226400,
+      "order": 15,
+      "itemIds": [
+        12,
+        81,
+        17,
+        69
+      ]
+    },
+    {
+      "sectionId": 19,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1795226400,
+      "endTime": 1795485600,
+      "order": 16,
+      "itemIds": [
+        14,
+        82,
+        18,
+        70
+      ]
+    },
+    {
+      "sectionId": 20,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1795485600,
+      "endTime": 1795658400,
+      "order": 17,
+      "itemIds": [
+        30,
+        83,
+        19,
+        71
+      ]
+    },
+    {
+      "sectionId": 21,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1795658400,
+      "endTime": 1796004000,
+      "order": 18,
+      "itemIds": [
+        31,
+        84,
+        20,
+        72
+      ]
+    },
+    {
+      "sectionId": 22,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796004000,
+      "endTime": 1796263200,
+      "order": 19,
+      "itemIds": [
+        32,
+        86,
+        21,
+        76
+      ]
+    },
+    {
+      "sectionId": 23,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796263200,
+      "endTime": 1796522400,
+      "order": 20,
+      "itemIds": [
+        61,
+        87,
+        22,
+        78
+      ]
+    },
+    {
+      "sectionId": 24,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796522400,
+      "endTime": 1796868000,
+      "order": 21,
+      "itemIds": [
+        62,
+        88,
+        23,
+        108
+      ]
+    },
+    {
+      "sectionId": 25,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796868000,
+      "endTime": 1797040800,
+      "order": 22,
+      "itemIds": [
+        97,
+        89,
+        24,
+        109
+      ]
+    },
+    {
+      "sectionId": 26,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797040800,
+      "endTime": 1797300000,
+      "order": 23,
+      "itemIds": [
+        5,
+        90,
+        25,
+        110
+      ]
+    },
+    {
+      "sectionId": 27,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797300000,
+      "endTime": 1797559200,
+      "order": 24,
+      "itemIds": [
+        2,
+        91,
+        26,
+        111
+      ]
+    },
+    {
+      "sectionId": 28,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797559200,
+      "endTime": 1797818400,
+      "order": 25,
+      "itemIds": [
+        3,
+        93,
+        27,
+        112
+      ]
+    },
+    {
+      "sectionId": 29,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797818400,
+      "endTime": 1798077600,
+      "order": 26,
+      "itemIds": [
+        4,
+        94,
+        28,
+        37
+      ]
+    },
+    {
+      "sectionId": 30,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798077600,
+      "endTime": 1798336800,
+      "order": 27,
+      "itemIds": [
+        6,
+        95,
+        29,
+        38
+      ]
+    },
+    {
+      "sectionId": 31,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798336800,
+      "endTime": 1798596000,
+      "order": 28,
+      "itemIds": [
+        7,
+        98,
+        40,
+        39
+      ]
+    },
+    {
+      "sectionId": 32,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798596000,
+      "endTime": 1798855200,
+      "order": 29,
+      "itemIds": [
+        8,
+        99,
+        41,
+        57
+      ]
+    },
+    {
+      "sectionId": 33,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798855200,
+      "endTime": 1799114400,
+      "order": 30,
+      "itemIds": [
+        9,
+        33,
+        43,
+        58
+      ]
+    },
+    {
+      "sectionId": 34,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799114400,
+      "endTime": 1799373600,
+      "order": 31,
+      "itemIds": [
+        10,
+        34,
+        44,
+        59
+      ]
+    },
+    {
+      "sectionId": 35,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799373600,
+      "endTime": 1799632800,
+      "order": 32,
+      "itemIds": [
+        11,
+        35,
+        45,
+        60
+      ]
+    },
+    {
+      "sectionId": 36,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799632800,
+      "endTime": 1799892000,
+      "order": 33,
+      "itemIds": [
+        12,
+        36,
+        47,
+        374
+      ]
+    },
+    {
+      "sectionId": 37,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799892000,
+      "endTime": 1800151200,
+      "order": 34,
+      "itemIds": [
+        14,
+        66,
+        48,
+        67
+      ]
+    },
+    {
+      "sectionId": 38,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800151200,
+      "endTime": 1800410400,
+      "order": 35,
+      "itemIds": [
+        30,
+        68,
+        49,
+        69
+      ]
+    },
+    {
+      "sectionId": 39,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800410400,
+      "endTime": 1800669600,
+      "order": 36,
+      "itemIds": [
+        31,
+        77,
+        50,
+        70
+      ]
+    },
+    {
+      "sectionId": 40,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800669600,
+      "endTime": 1800928800,
+      "order": 37,
+      "itemIds": [
+        32,
+        79,
+        53,
+        71
+      ]
+    },
+    {
+      "sectionId": 41,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800928800,
+      "endTime": 1801188000,
+      "order": 38,
+      "itemIds": [
+        61,
+        80,
+        54,
+        72
+      ]
+    },
+    {
+      "sectionId": 42,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1801188000,
+      "endTime": 1801447200,
+      "order": 39,
+      "itemIds": [
+        62,
+        81,
+        65,
+        76
+      ]
+    },
+    {
+      "sectionId": 43,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1801447200,
+      "endTime": 1801706400,
+      "order": 40,
+      "itemIds": [
+        97,
+        82,
+        104,
+        78
+      ]
+    }
+  ]
+}

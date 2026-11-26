@@ -1,0 +1,381 @@
+﻿{
+  "pagesInShop": [
+    {
+      "jsonName": "donateShop/pages/page-special.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/pages/page-bundles.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/pages/page-services.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/pages/page-currencies.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/pages/page-cars.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/pages/page-skins.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/pages/page-accessories.json",
+      "startTime": 0,
+      "endTime": 0
+    },
+    {
+      "jsonName": "donateShop/vip.json",
+      "startTime": 0,
+      "endTime": 0
+    }
+
+  ],
+  "preview_scenes": {
+    "rotationForce": 120,
+    "transport": "vehicle_preview",
+    "skins": "ped_preview",
+    "accessories": "accs_preview"
+  },
+
+  "awardFilter": [
+    {
+      "awardId": 5,
+      "jsonName": "vehicles.json"
+    },
+    {
+      "awardId": 4,
+      "jsonName": "cases.json"
+    },
+    {
+      "awardId": 11,
+      "jsonName": "inventory.json",
+      "exeption": [134],
+      "exeptionPath": ["skins.json"]
+    }
+  ],
+
+  "filterGroups": [
+    {
+      "name": "cars",
+      "filters": [
+        {
+          "awardId": 5,
+          "property": "license",
+          "title": "Тип лицензии",
+          "values": [
+            {
+              "description": "A",
+              "value": 0
+            },
+            {
+              "description": "B",
+              "value": 1
+            },
+            {
+              "description": "C",
+              "value": 2
+            },
+            {
+              "description": "Водный транспорт",
+              "value": 5
+            }
+          ]
+        },
+
+        {
+          "awardId": 5,
+          "property": "driveType",
+          "title": "Привод",
+          "values": [
+            {
+              "description": "Передний",
+              "value": "FWD"
+            },
+            {
+              "description": "Задний",
+              "value": "RWD"
+            },
+            {
+              "description": "Полный",
+              "value": "AWD"
+            }
+          ]
+        },
+        {
+          "awardId": 5,
+          "property": "rarity",
+          "title": "Редкость",
+          "values": [
+            {
+              "description": "Обычный",
+              "color": "#FF737373",
+              "value": 1
+            },
+            {
+              "description": "Необычный",
+              "color": "#FF2EAC58",
+              "value": 2
+            },
+            {
+              "description": "Редкий",
+              "color": "#FF1B98FF",
+              "value": 3
+            },
+            {
+              "description": "Эпический",
+              "color": "#FF753AE3",
+              "value": 4
+            },
+            {
+              "description": "Легендарный",
+              "color": "#FFFFC700",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "awardId": 5,
+          "property": "vehicleSubType",
+          "title": "Кузов",
+          "values": [
+            {
+              "description": "Седан",
+              "value": 1
+            },
+            {
+              "description": "Купе",
+              "value": 2
+            },
+            {
+              "description": "Кабриолет",
+              "value": 3
+            },
+            {
+              "description": "Хэтчбек",
+              "value": 4
+            },
+            {
+              "description": "Универсал",
+              "value": 5
+            },
+            {
+              "description": "Внедорожник",
+              "value": 6
+            },
+            {
+              "description": "Микроавтобус",
+              "value": 7
+            },
+            {
+              "description": "Мотоцикл",
+              "value": 8
+            },
+            {
+              "description": "Квадроцикл",
+              "value": 9
+            },
+            {
+              "description": "Спецтехника",
+              "value": 12
+            },
+            {
+              "description": "Водный транспорт",
+              "value": 13
+            }
+          ]
+          },
+          {
+          "awardId": 5,
+          "property": "piStock",
+          "title": "Гоночный класс",
+          "values": [
+            {
+              "description": "D",
+              "value": "D"
+            },
+            {
+              "description": "C",
+              "value": "C"
+            },
+            {
+              "description": "B",
+              "value": "B"
+            },
+            {
+              "description": "A",
+              "value": "A"
+            },
+            {
+              "description": "S",
+              "value": "S"
+            },
+            {
+              "description": "X",
+              "value": "X"
+            }
+          ]
+          },
+          {
+          "awardId": 5,
+          "property": "epp",
+          "title": "Езда по полям (ЕПП)",
+          "values": [
+            {
+              "description": "Нет",
+              "value": 0
+            },
+            {
+              "description": "Да",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "skins",
+      "filters": [
+        {
+          "awardId": 11,
+          "property": "rarity",
+          "title": "Редкость",
+          "values": [
+            {
+              "description": "Необычный",
+              "color": "#FF2EAC58",
+              "value": 2
+            },
+            {
+              "description": "Редкий",
+              "color": "#FF1B98FF",
+              "value": 3
+            },
+            {
+              "description": "Эпический",
+              "color": "#FF753AE3",
+              "value": 4
+            },
+            {
+              "description": "Легендарный",
+              "color": "#FFFFC700",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "awardId": 11,
+          "property": "gender",
+          "title": "Пол",
+          "values": [
+            {
+              "description": "Мужской",
+              "value": 0
+            },
+            {
+              "description": "Женский",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "accessories",
+      "filters": [
+        {
+          "awardId": 11,
+          "property": "rarity",
+          "title": "Редкость",
+          "values": [
+            {
+              "description": "Обычный",
+              "color": "#FF737373",
+              "value": 1
+            },
+            {
+              "description": "Необычный",
+              "color": "#FF2EAC58",
+              "value": 2
+            },
+            {
+              "description": "Редкий",
+              "color": "#FF1B98FF",
+              "value": 3
+            },
+            {
+              "description": "Эпический",
+              "color": "#FF753AE3",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "awardId": 11,
+          "property": "accessoryData.bone",
+          "title": "Часть тела",
+          "values": [
+            {
+              "description": "Спина",
+              "value": 1
+            },
+            {
+              "description": "Голова",
+              "value": 2
+            },
+            {
+              "description": "Левое плечо",
+              "value": 3
+            },
+            {
+              "description": "Левая кисть",
+              "value": 5
+            },
+            {
+              "description": "Правая кисть",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "awardId": 11,
+          "property": "accessoryData.slot",
+          "title": "Слот",
+          "values": [
+            {
+              "description": "1",
+              "value": 0
+            },
+            {
+              "description": "2",
+              "value": 1
+            },
+            {
+              "description": "3",
+              "value": 2
+            },
+            {
+              "description": "4",
+              "value": 3
+            },
+            {
+              "description": "5",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

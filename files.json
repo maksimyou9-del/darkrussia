@@ -1,0 +1,12 @@
+{
+    "files": [
+        {
+            "name": "files.zip",
+            "path": "files.zip",
+            "size": 3514621175,
+            "md5": "0cf195a4beb006cd531d4e3504190483",
+            "sha256": "06b951135354f4fb335227e7b7aa092895255543d30cefd0940badf160d8a324",
+            "url": "https://huggingface.co/datasets/Maksodsd/darkrussia/resolve/main/files.zip"
+        }
+    ]
+}

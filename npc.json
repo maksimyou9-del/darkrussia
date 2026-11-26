@@ -1,0 +1,186 @@
+﻿{
+    "methods": [
+        {"methodId": 1, "comment": "Закрывает диалог"},
+        {
+            "methodId"  : 2,
+            "comment"   : "Открывает страницу диалога по id, указываем dialod id в properties",
+            "properties": 2
+        },
+        {
+            "methodId"  : 3,
+            "comment"   : "Прокладывает gps маршрут и ставит метку на карте, указываем координаты точки в properties",
+            "properties": [2742.69, -2465.75, 22.35]
+        },
+        {
+            "methodId"  : 4,
+            "comment"   : "Открывает правила из modals.json, указываем id окна в properties",
+            "properties": 10
+        },
+        {
+            "methodId"  : 5,
+            "comment"   : "Открывает окно поиска матча к мини-игре, указываем id мини-игры из matchmaker.json",
+            "properties": 13
+        },
+        {
+            "methodId"  : 6,
+            "comment"   : "Открывает указанный интерфейс магазина, указываем id магазина из store.json",
+            "properties": 2
+        }
+    ],
+    "npc"    : [
+        {
+            "npcSpawn": {
+                "id"          : 5500154,
+                "type"        : "npc",
+                "coords"      : [
+                    [ 2748.6140, -2436.9204, 21.7810,  92.0206],
+                    [  824.2478,   779.9888, 13.1397, 248.2005],
+                    [-2416.5244,   189.2349, 26.0951,   0.5719],
+                    [ 1814.8448,  2504.2150, 14.6258,  75.4750],
+                    [-2681.907 ,  1997.013 ,  9.94  , 341.278 ],
+                    [-2171.24, 1564.01, 9.88, 230.72 ]
+                ],
+                "noCollision" : {"isEnabled": true, "radius": 30},
+                "name"        : "Событие - {FFFF00}Продавец кошмаров\n{FFFFFF}Подойди для {FFFF00}взаимодействия",
+                "useNameCords": "false",
+                "cameraPos"   : {
+                    "StartPos"   : [-2170.90, -2379.75, 6.40],
+                    "StartLookAt": [-2150.75, -2381.82, 5.32]
+                },
+                "dialog"      : [
+                    {
+                        "id": 1,
+                        "title": "Мадам Кларисса",
+                        "description": "Подойди, деточка, не бойся! Ты знаешь, что в ваш город приехала уникальная ярмарка-шапито? Там ждут таких смелых и любопытных ребят, как ты. Вот, возьми билетик и приходи на представление. Уверена, тебе понравится, хе-хе-хе.<br><br><font color='#ffff00'>Прими участие в событии “Продавец кошмаров” — собирай Монеты, играй в мини-игры, проходи сюжет. До %s </font>",
+                        "speaker": {"type": "npc", "skin": 5500154},
+                        "sound": "Event/hw26_madam_info-001.ogg",
+                        "buttons": [
+                            {"name": "Отметить на карте", "color": "green", "methodId":3, "properties": [-2117.970458, -2388.626708, 5.133314]},
+                            {"name": "Закрыть",           "color": "red", "methodId":1  }
+                        ],
+                        "is_last": true
+                    }
+                ]
+            }
+        },
+        {
+            "npcMinigame1": {
+                "isEnabled"   : true,
+                "id"          : 5500148,
+                "type"        : "npc",
+                "coords"      : [-2160.99, -2368.63, 5.41, 245.38],
+                "name"        : "Мини-игра - {FFFF00}Проклятая деревня\n{FFFFFF}Подойдите для {FFFF00}взаимодействия",
+                "useNameCords": "false",
+                "cameraPos"   : {
+                    "StartPos"   : [-2158.50, -2366.87, 6.50],
+                    "StartLookAt": [-2161.38, -2369.67, 5.00]
+                },
+                "noCollision" : {"isEnabled": false, "radius": 30},
+                "dialog"      : [
+                    {
+                        "id": 1,
+                        "title": "Колдун Вуду",
+                        "description": "Приветствую! Мое имя — Миднайт, я мастер оккультных практик. Но в этот раз что-то пошло не так. Мои зомби вышли из-под контроля и стали опасны. Разберись с ними — и я щедро тебя награжу!",
+                        "speaker": {"type": "npc", "skin": 5500148},
+                        "sound": "Event/hw26_voodoo_info-001.ogg",
+                        "buttons": [
+                            {"name": "Начать игру", "color": "green", "methodId":5, "properties": 16},
+                            {"name": "Правила",     "color": "grey" , "methodId":4, "properties": 32},
+                            {"name": "Закрыть",     "color": "red" , "methodId":1}
+                        ],
+                        "is_last": true
+                    }
+                ]
+            }
+        },
+        {
+            "npcMinigame2": {
+                "isEnabled"   : true,
+                "id"          : 5500153,
+                "type"        : "npc",
+                "coords"      : [-2135.41, -2415.83, 6.65, 25.06],
+                "name"        : "Мини-игра - {FFFF00}Гонка на выживание\n{FFFFFF}Подойдите для {FFFF00}взаимодействия",
+                "useNameCords": "false",
+                "cameraPos"   : {
+                    "StartPos"   : [-2138.42, -2415.97, 7.50],
+                    "StartLookAt": [-2135.02, -2414.52, 7.00]
+                },
+                "noCollision" : {"isEnabled": false, "radius": 30},
+                "dialog"      : [
+                    {
+                        "id": 1,
+                        "title": "Злобный клоун",
+                        "description": "А вот и ты! А-ха-ха-ха! Хочешь поучаствовать в моей гонке на выживание?! Бешеная скорость! Никаких правил! Битва до последнего подшипника! Струсишь или рискнешь?! Ха-ха-ха!",
+                        "speaker": {"type": "npc", "skin": 5500153},
+                        "sound": "Event/hw26_clown_info-001.ogg",
+                        "buttons": [
+                            {"name": "Начать игру", "color": "green", "methodId":5, "properties":15},
+                            {"name": "Правила",     "color": "grey", "methodId":4, "properties": 30},
+                            {"name": "Закрыть",     "color": "red" , "methodId":1}
+                        ],
+                        "is_last": true
+                    }
+                ]
+            }
+        },
+        {
+            "npcMinigame3": {
+                "isEnabled"   : true,
+                "id"          : 5500056,
+                "type"        : "npc",
+                "coords"      : [-2133.67, -2377.90, 5.10, 125.11],
+                "name"        : "Мини-игра - {FFFF00}Нехорошая квартира\n{FFFFFF}Подойдите для {FFFF00}взаимодействия",
+                "useNameCords": "false",
+                "cameraPos"   : {
+                    "StartPos"   : [-2134.39, -2381.22, 6.00],
+                    "StartLookAt": [-2134.87, -2376.90, 5.40]
+                },
+                "noCollision" : {"isEnabled": false, "radius": 30},
+                "dialog"      : [
+                    {
+                        "id": 1,
+                        "title": "Охотник на нечисть",
+                        "description": "Эй, постой! Вижу, ты не из пугливых, так что мне может пригодиться твоя помощь. Есть тут одна нехорошая квартира, о которой ходит страшная молва… Разберись, в чем там дело, а я в долгу не останусь!",
+                        "speaker": {"type": "npc", "skin": 5500056},
+                        "sound": "Event/hw26_hunter_info-001.ogg",
+                        "buttons": [
+                            {"name": "Начать игру", "color": "green", "methodId":5, "properties":17},
+                            {"name": "Правила",     "color": "grey", "methodId":4, "properties": 31},
+                            {"name": "Закрыть",     "color": "red" , "methodId":1}
+                        ],
+                        "is_last": true
+                    }
+                ]
+            }
+        },
+        {
+            "npcEventStore": {
+                "isEnabled"   : true,
+                "id"          : 5500059,
+                "type"        : "npc",
+                "coords"      : [-2118.02, -2414.96, 5.44, 36.11],
+                "name"        : "Магазин - {FFFF00}Лавка Древностей\n{FFFFFF}Подойдите для {FFFF00}взаимодействия",
+                "useNameCords": "false",
+                "cameraPos"   : {
+                    "StartPos"   : [-2118.39, -2410.00, 6.50],
+                    "StartLookAt": [-2119.71, -2417.09, 5.44]
+                },
+                "noCollision" : {"isEnabled": true, "radius": 30},
+                "dialog"      : [
+                    {
+                        "id": 1,
+                        "title": "Антиквар Фогг",
+                        "description": "О, приятно вас видеть! Добро пожаловать в мою Лавку древностей! Здесь вы найдете поистине редкие, уникальные и эксклюзивные товары! Не упускайте такую возможность!",
+                        "speaker": {"type": "npc", "skin": 5500059},
+                        "sound": "Event/hw26_antiq_info-001.ogg",
+                        "buttons": [
+                            {"name": "Магазин", "color": "green", "methodId":6, "properties":2},
+                            {"name": "Закрыть",     "color": "red" , "methodId":1}
+                        ],
+                        "is_last": true
+                    }
+                ]
+            }
+        }        
+                ]
+}

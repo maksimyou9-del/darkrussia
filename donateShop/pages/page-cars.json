@@ -1,0 +1,8533 @@
+{
+  "pageId": 3,
+  "pageType": "regular",
+  "styleForPage": {
+    "sidebarName": "Транспорт",
+    "iconName": "icp_cars.png",
+    "bgImage": ""
+  },
+  "items": [
+    {
+      "itemId": 1,
+      "name": "BMW M3 E90",
+      "market_name": "Boomer E90",
+      "imageName": "",
+      "description": "Культовая звезда гоночных видеоигр и музыкальных клипов 2000-х годов. Настоящая легенда улиц с высокооборотистым V8 и узнаваемым силуэтом, предлагающая высокий статус и ценность.",
+      "offerType": "universal",
+      "price": [
+        1500,
+        975,
+        1125
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1500,
+        1500
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        19
+      ],
+      "carColor1": 1,
+      "carColor2": 25
+    },
+    {
+      "itemId": 2,
+      "name": "BMW M5 E34",
+      "market_name": "Boomer 5 E34",
+      "imageName": "",
+      "description": "Главный символ эпохи быстрых седанов и культового криминального кино 90-х годов. Легендарный представитель баварского автопрома со строгой геометрией, доступный по привлекательной стоимости.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        210
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        20
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 3,
+      "name": "Nissan Skyline R34",
+      "market_name": "Sunline 34",
+      "imageName": "",
+      "description": "Икона японского стритрейсинга и знаменитая звезда мирового гоночного кинематографа. Настоящий пропуск в культовое автомобильное сообщество с легендарным именем и высокой ценностью.",
+      "offerType": "universal",
+      "price": [
+        340,
+        255,
+        255
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        340,
+        340
+      ],
+      "startTime": [
+        0,
+        1792288800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        21
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 4,
+      "name": "Lada Vesta SW",
+      "market_name": "Nevesta 2.0",
+      "imageName": "",
+      "description": "Главная модель современного отечественного автопрома и популярный герой автоблогов. Практичный универсал со стильной Х-графикой кузова для уверенных ежедневных поездок.",
+      "offerType": "universal",
+      "price": [
+        350,
+        262,
+        263
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        350,
+        350
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        22
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 5,
+      "name": "Renault Logan",
+      "market_name": "Roggane",
+      "imageName": "",
+      "description": "Символ надежности городского такси и неутомимый труженик мегаполисов. Проверенная временем легенда повседневных автодорог с высокой выносливостью и доступным ценником.",
+      "offerType": "universal",
+      "price": [
+        358,
+        268,
+        269
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        358,
+        358
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        23
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 6,
+      "name": "Audi A4 B7",
+      "market_name": "Aura 4",
+      "imageName": "",
+      "description": "Сдержанный немецкий стиль, хорошо знакомый по городским улицам 2000-х годов. Прекрасный баланс доступной стоимости, сбалансированной плавности хода и узнаваемого имени.",
+      "offerType": "universal",
+      "price": [
+        375,
+        281,
+        281
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        375,
+        375
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        24
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 7,
+      "name": "KIA Rio",
+      "market_name": "River",
+      "imageName": "",
+      "description": "Популярный символ молодежного городского движения и динамичной жизни в плотном потоке. Практичный седан со стремительным силуэтом по умеренной стоимости.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        25
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 8,
+      "name": "BMW M5 E39",
+      "market_name": "Boomer 5 E39",
+      "imageName": "",
+      "description": "Знаменитая модель с культовым статусом в мировой автокультуре и звезда фильмов двухтысячных. Выгодная цена за признанную легенду немецкого инженерного искусства.",
+      "offerType": "universal",
+      "price": [
+        400,
+        300,
+        300
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        400,
+        400
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        26
+      ]
+    },
+    {
+      "itemId": 9,
+      "name": "Hyundai Solaris",
+      "market_name": "Sunarise",
+      "imageName": "",
+      "description": "Настоящий народный любимец и главный герой повседневных городских улиц. Проверенная временем модель с тихим ходом и минимальным расходом по скромной стоимости.",
+      "offerType": "universal",
+      "price": [
+        415,
+        311,
+        311
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        415,
+        415
+      ],
+      "startTime": [
+        0,
+        1794708000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794967200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        27
+      ]
+    },
+    {
+      "itemId": 10,
+      "name": "Volkswagen Polo",
+      "market_name": "Dulo",
+      "imageName": "",
+      "description": "Эталон европейской практичности и неизменный фаворит городского каршеринга. Доступный билет в мир немецких автотрадиций со строгим лаконичным дизайном.",
+      "offerType": "universal",
+      "price": [
+        425,
+        319,
+        319
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        425,
+        425
+      ],
+      "startTime": [
+        0,
+        1794967200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795226400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        28
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 11,
+      "name": "Skoda Rapid",
+      "market_name": "Faster",
+      "imageName": "",
+      "description": "Символ разумного выбора и практичного подхода к жизни. Функциональная модель с огромным багажным пространством и отличной надежностью по выгодной стоимости.",
+      "offerType": "universal",
+      "price": [
+        435,
+        326,
+        326
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        435,
+        435
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        29
+      ]
+    },
+    {
+      "itemId": 12,
+      "name": "Mercedes-Benz S600 W140",
+      "market_name": "S600 W140",
+      "imageName": "",
+      "description": "Легендарный символ влияния и авторитета из 90-х годов, запечатленный во множестве кинолент. Монументальный представитель истории автопрома по доступной стоимости.",
+      "offerType": "universal",
+      "price": [
+        450,
+        338,
+        338
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        450,
+        450
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        30
+      ]
+    },
+    {
+      "itemId": 13,
+      "name": "Ford Focus 3",
+      "market_name": "Hocus Mocus 3",
+      "imageName": "",
+      "description": "Знаковая модель уличной автокультуры 2010-х годов и частый герой городских соревнований. Динамичный хэтчбек со спортивным характером и точным управлением.",
+      "offerType": "universal",
+      "price": [
+        465,
+        209,
+        349
+      ],
+      "salePercent": [
+        0,
+        55,
+        25
+      ],
+      "fakePrice": [
+        0,
+        465,
+        465
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        31
+      ]
+    },
+    {
+      "itemId": 14,
+      "name": "BMW E38",
+      "market_name": "Boomer E38",
+      "imageName": "",
+      "description": "Участник культовых кинематографических сцен 90-х годов с узким узнаваемым силуэтом. Возможность прикоснуться к классическому представительскому классу.",
+      "offerType": "universal",
+      "price": [
+        475,
+        356,
+        214,
+        356
+      ],
+      "salePercent": [
+        0,
+        25,
+        55,
+        25
+      ],
+      "fakePrice": [
+        0,
+        475,
+        475,
+        475
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        32
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 15,
+      "name": "BMW M3 E46",
+      "market_name": "Boomer 3 E46",
+      "imageName": "",
+      "description": "Главный герой культовых гоночных видеоигр 2000-х и икона кольцевых соревнований. Настоящая легенда уличной сцены с эталонной развесовкой и отличной ценностью.",
+      "offerType": "universal",
+      "price": [
+        525,
+        394,
+        236
+      ],
+      "salePercent": [
+        0,
+        25,
+        55
+      ],
+      "fakePrice": [
+        0,
+        525,
+        525
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        33
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 16,
+      "name": "Acura TSX",
+      "market_name": "TSX",
+      "imageName": "",
+      "description": "Японская эстетика для уличного движения с выразительным спортивным характером. Прекрасный вариант с выдержанным стилем и привлекательной стоимостью.",
+      "offerType": "universal",
+      "price": [
+        575,
+        431,
+        431
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        575,
+        575
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        34
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 17,
+      "name": "UAZ Patriot",
+      "market_name": "Motherland",
+      "imageName": "",
+      "description": "Символ суровых экспедиций и романтики далеких путешествий по дикой природе. Мощный рамный внедорожник с высокой проходимостью по любым маршрутам.",
+      "offerType": "universal",
+      "price": [
+        600,
+        450,
+        450
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        600,
+        600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        35
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 18,
+      "name": "UAZ Patriot Pickup",
+      "market_name": "Motherland Pickup",
+      "imageName": "",
+      "description": "Рабочая лошадка для фермеров, строителей и путешественников. Вместительный и надежный пикап с бортовой платформой для сложных задач.",
+      "offerType": "universal",
+      "price": [
+        625,
+        469,
+        469
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        625,
+        625
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        36
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 19,
+      "name": "Mercedes-Benz w211",
+      "market_name": "W211",
+      "imageName": "",
+      "description": "Узнаваемая эстетика бизнес-класса начала двухтысячных годов со сдвоенными овальными фарами. Известная модель с высоким уровнем комфорта и доступной стоимостью.",
+      "offerType": "universal",
+      "price": [
+        625,
+        469,
+        469
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        625,
+        625
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        37
+      ],
+      "carColor1": 8,
+      "carColor2": 10,
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 20,
+      "name": "Volkswagen Golf GTI",
+      "market_name": "Goal",
+      "imageName": "",
+      "description": "Культовый прародитель всего класса заряженных хэтчбеков и звезда уличных гонок. Признанная легенда автомобильной истории с фирменным лаконичным стилем.",
+      "offerType": "universal",
+      "price": [
+        700,
+        525,
+        525
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        700,
+        700
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        38
+      ],
+      "carColor1": 4,
+      "carColor2": 4,
+      "startTime": [
+        0,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 21,
+      "name": "Toyota Chaser Tourer v 100",
+      "market_name": "Chase V100",
+      "imageName": "",
+      "description": "Икона японского дрифта и стенс-культуры с богатым спортивным наследием. Настоящий билет в сообщество фанатов культового движения с мощным турбомотором.",
+      "offerType": "universal",
+      "price": [
+        700,
+        525,
+        525
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        700,
+        700
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        39
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 22,
+      "name": "Nissan Teana J32",
+      "market_name": "Tiаna 32 J",
+      "imageName": "",
+      "description": "Символ спокойного и плавного передвижения по улицам мегаполиса. Атмосфера уюта и расслабленности со спортивным мягким салоном по отличной стоимости.",
+      "offerType": "universal",
+      "price": [
+        750,
+        563,
+        562
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        750,
+        750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        40
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 23,
+      "name": "BMW X5 E53",
+      "market_name": "Boomer F5",
+      "imageName": "",
+      "description": "Первый баварский кроссовер, ставший киногероем и ярким атрибутом статуса двухтысячных годов. Заманчивое предложение за культовое спортивное имя.",
+      "offerType": "universal",
+      "price": [
+        750,
+        563,
+        562
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        750,
+        750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        41
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 24,
+      "name": "Nissan Qashqai",
+      "market_name": "Qishqa",
+      "imageName": "",
+      "description": "Основоположник мировой моды на компактные городские паркетники. Практичное решение с высоким клиренсом для повседневных городских задач.",
+      "offerType": "universal",
+      "price": [
+        800,
+        600,
+        600
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        800,
+        800
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        42
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 25,
+      "name": "Toyota Camry 55",
+      "market_name": "Camrita 55",
+      "imageName": "",
+      "description": "Настоящий символ стабильности, деловых поездок и неизменного авторитета на дороге. Легендарная бизнес-модель с высоким ресурсом агрегатов.",
+      "offerType": "universal",
+      "price": [
+        800,
+        600,
+        600
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        800,
+        800
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        43
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 26,
+      "name": "Nissan Silvia S15",
+      "market_name": "Sliva S15",
+      "imageName": "",
+      "description": "Звезда японских фильмов о дрифте и признанная икона управляемого заноса. Сбалансированная стоимость за легендарную управляемость на треке.",
+      "offerType": "universal",
+      "price": [
+        850,
+        638,
+        638
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        850,
+        850
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        44
+      ],
+      "carColor1": 17,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 27,
+      "name": "Ford Focus RS",
+      "market_name": "Hocus Mocus RS",
+      "imageName": "",
+      "description": "Легенда мирового раллийного движения, адаптированная под городские улицы. Полноценная спортивная история с агрессивным ярким спойлером.",
+      "offerType": "universal",
+      "price": [
+        900,
+        675,
+        675
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        900,
+        900
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        45
+      ],
+      "carColor1": 2,
+      "carColor2": 2,
+      "startTime": [
+        0,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 28,
+      "name": "Mitsubishi Lancer EVO X",
+      "market_name": "Mitsu EVA",
+      "imageName": "",
+      "description": "Раллийная икона с богатой победной историей на мировых чемпионатах. Серьезная модель в линейке спортивных авто с технологичным полным приводом.",
+      "offerType": "universal",
+      "price": [
+        1000,
+        750,
+        750
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1000,
+        1000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        46
+      ],
+      "carColor1": 3,
+      "carColor2": 3,
+      "startTime": [
+        0,
+        1795658400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 29,
+      "name": "BMW M5 E60",
+      "market_name": "Boomer 5 E60",
+      "imageName": "",
+      "description": "Легендарная модель эпохи атмосферных V10, созданная с применением технологий Формулы-1. Настоящий шедевр инженерной мысли с ярким звуком.",
+      "offerType": "universal",
+      "price": [
+        1050,
+        788,
+        788
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1050,
+        1050
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        47
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 30,
+      "name": "Subaru WRX STI",
+      "market_name": "Syberia WinR",
+      "imageName": "",
+      "description": "Культовый символ мирового ралли с яркой спортивной историей. Легендарное наследие автоспорта с симметричным полным приводом.",
+      "offerType": "universal",
+      "price": [
+        1100,
+        825
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        48
+      ],
+      "carColor1": 2,
+      "carColor2": 2,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 31,
+      "name": "Geely Emgrand 7",
+      "market_name": "Grand 7",
+      "imageName": "",
+      "description": "Современный представитель доступного автопрома с лаконичным европейским стилем. Практичная и опрятная модель для городских поездок.",
+      "offerType": "universal",
+      "price": [
+        1100,
+        825,
+        825
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1100,
+        1100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        49
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 32,
+      "name": "Toyota Camry 2019",
+      "market_name": "Camrita 3.5",
+      "imageName": "",
+      "description": "Настоящий символ делового успеха и уверенности на любых дорогах. Популярная модель бизнес-класса на новой современной платформе.",
+      "offerType": "universal",
+      "price": [
+        1200,
+        900
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1200
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        50
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 33,
+      "name": "KIA K5",
+      "market_name": "Elegant 5",
+      "imageName": "",
+      "description": "Яркий представитель новой волны современного городского стиля. Солидный фастбек с футуристичным дизайном и световой полосой.",
+      "offerType": "universal",
+      "price": [
+        1250,
+        812,
+        938
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1250,
+        1250
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        51
+      ]
+    },
+    {
+      "itemId": 34,
+      "name": "Ford Mustang GT",
+      "market_name": "F Must GT",
+      "imageName": "",
+      "description": "Настоящая американская икона кино, музыки и культуры свободы. Легендарный масл-кар с мощным мотором V8 и богатейшей историей.",
+      "offerType": "universal",
+      "price": [
+        1300,
+        845,
+        975
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1300,
+        1300
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        52
+      ],
+      "carColor1": 0,
+      "carColor2": 1
+    },
+    {
+      "itemId": 35,
+      "name": "Toyota Supra A80",
+      "market_name": "Supra",
+      "imageName": "",
+      "description": "Главная легенда эпохи расцвета японского автопрома и уличных гоночных фильмов. Ценный экземпляр в мировой автомобильной культуре.",
+      "offerType": "universal",
+      "price": [
+        1350,
+        878,
+        1013
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1350,
+        1350
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        53
+      ],
+      "carColor1": 3,
+      "carColor2": 3
+    },
+    {
+      "itemId": 36,
+      "name": "Mercedes-Benz A45 AMG",
+      "market_name": "A45",
+      "imageName": "",
+      "description": "Заряженный компактный хэтчбек с пронзительным спортивным характером. Возможность прикоснуться к легендарной гоночной серии AMG.",
+      "offerType": "universal",
+      "price": [
+        1400,
+        910,
+        1050
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1400,
+        1400
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        54
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 37,
+      "name": "MINI Countryman",
+      "market_name": "Little Coop",
+      "imageName": "",
+      "description": "Британская харизма и неотъемлемая часть современной модной культуры. Запоминающаяся модель со стильным кузовом для ярких поездок.",
+      "offerType": "universal",
+      "price": [
+        1425,
+        926,
+        1069
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1425,
+        1425
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        55
+      ],
+      "carColor1": 3,
+      "carColor2": 0
+    },
+    {
+      "itemId": 38,
+      "name": "Volkswagen Passat",
+      "market_name": "Trassar",
+      "imageName": "",
+      "description": "Европейская классика делового стиля и строгой сдержанности. Солидная модель с выверенной эргономикой и сбалансированной стоимостью.",
+      "offerType": "universal",
+      "price": [
+        1450,
+        942,
+        1088
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1450,
+        1450
+      ],
+      "startTime": [
+        0,
+        1794708000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794967200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        56
+      ]
+    },
+    {
+      "itemId": 39,
+      "name": "Alfa Romeo Guilia",
+      "market_name": "Julia",
+      "imageName": "",
+      "description": "Страстная итальянская эстетика с богатейшим гоночным наследием. Модель с неповторимым скульптурным дизайном и спортивной душой.",
+      "offerType": "universal",
+      "price": [
+        1500,
+        975,
+        1125
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1500,
+        1500
+      ],
+      "startTime": [
+        0,
+        1794967200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795226400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        57
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 40,
+      "name": "BMW X5M E70",
+      "market_name": "Boomer F5 E70",
+      "imageName": "",
+      "description": "Мощный символ статуса и брутальности конца 2000-х годов. Авторитетный спортивный кроссовер с ураганной динамикой.",
+      "offerType": "universal",
+      "price": [
+        1600,
+        240,
+        1200
+      ],
+      "salePercent": [
+        0,
+        85,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1600,
+        1600
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        58
+      ]
+    },
+    {
+      "itemId": 41,
+      "name": "Infiniti Q60S",
+      "market_name": "Trinity 60",
+      "imageName": "",
+      "description": "Японское купе с выразительной современной эстетикой и плавными линиями кузова. Заметный стиль на городских дорогах по отличной стоимости.",
+      "offerType": "universal",
+      "price": [
+        1600,
+        1200,
+        240,
+        1200
+      ],
+      "salePercent": [
+        0,
+        25,
+        85,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1600,
+        1600,
+        1600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        59
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 42,
+      "name": "Land Rover Range Rover III",
+      "market_name": "Range Lander 3",
+      "imageName": "",
+      "description": "Символ британского аристократизма и премиального стиля жизни. Высокий представительский уровень с роскошным салоном.",
+      "offerType": "universal",
+      "price": [
+        1600,
+        1200,
+        240,
+        1200
+      ],
+      "salePercent": [
+        0,
+        25,
+        85,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1600,
+        1600,
+        1600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        60
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 43,
+      "name": "Lexus RCF",
+      "market_name": "Luxe RCF",
+      "imageName": "",
+      "description": "Агрессивный спорткар из страны восходящего солнца с выразительным рельефным дизайном. Ценное пополнение любого автопарка.",
+      "offerType": "universal",
+      "price": [
+        1700,
+        1275,
+        255
+      ],
+      "salePercent": [
+        0,
+        25,
+        85
+      ],
+      "fakePrice": [
+        0,
+        1700,
+        1700
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        61
+      ],
+      "carColor1": 8,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 44,
+      "name": "Volvo V60 T6",
+      "market_name": "60 V",
+      "imageName": "",
+      "description": "Скандинавская философия безопасности и семейных ценностей. Премиальный универсал со строгим стилем по разумной стоимости.",
+      "offerType": "universal",
+      "price": [
+        1750,
+        1313,
+        1138
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        1750,
+        1750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        62
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 45,
+      "name": "Infiniti FX50S",
+      "market_name": "Trinity XF50",
+      "imageName": "",
+      "description": "Культовая модель 2000-х годов, ставшая важной частью современной поп-культуры. Узнаваемый спортивный кроссовер с отличной репутацией.",
+      "offerType": "universal",
+      "price": [
+        1850,
+        1388,
+        1202
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        1850,
+        1850
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        63
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 46,
+      "name": "Xpeng P7",
+      "market_name": "China Car P7",
+      "imageName": "",
+      "description": "Яркий представитель новой волны технологичного электротранспорта. Инновационная модель с безрамочными дверями и стильным салоном.",
+      "offerType": "universal",
+      "price": [
+        2000,
+        1500,
+        1300
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2000,
+        2000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        64
+      ],
+      "carColor1": 8,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 47,
+      "name": "Nissan Pathfinder 2022",
+      "market_name": "Black Finder",
+      "imageName": "",
+      "description": "Семейный внедорожник для дальних путешествий с высокой вместительностью. Отличный баланс трехрядного пространства и доступности.",
+      "offerType": "universal",
+      "price": [
+        2100,
+        1575,
+        1365
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2100,
+        2100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        65
+      ],
+      "carColor1": 15,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 48,
+      "name": "Li9",
+      "market_name": "Lision 9",
+      "imageName": "",
+      "description": "Флагман гибридного транспорта, быстро завоевавший популярность в поп-культуре. Солидный уровень современного мультимедийного комфорта.",
+      "offerType": "universal",
+      "price": [
+        3750,
+        2813
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        66
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 49,
+      "name": "Tesla Roadster",
+      "market_name": "Electra Roadster",
+      "imageName": "",
+      "description": "Элитная модель и главный символ новой электрической эры высоких скоростей. Особый показатель статуса и спортивной динамики.",
+      "offerType": "universal",
+      "price": [
+        25000,
+        18750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        25000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        67
+      ],
+      "carColor1": 3,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 50,
+      "name": "Bugatti Centodieci",
+      "market_name": "Centodia Centodia",
+      "imageName": "",
+      "description": "Вершина инженерного искусства и мировой автомобильной роскоши. Флагманский трофей высшей категории с мощным мотором W16.",
+      "offerType": "universal",
+      "price": [
+        70000,
+        52500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        70000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        68
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 51,
+      "name": "Haval F7X",
+      "market_name": "Val F7X",
+      "imageName": "",
+      "description": "Популярный купе-кроссовер в стиле современной автомобильной моды. Доступный способ подчеркнуть динамичный городской образ.",
+      "offerType": "universal",
+      "price": [
+        1250,
+        812,
+        938
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1250,
+        1250
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        69
+      ],
+      "carColor1": 2,
+      "carColor2": 0
+    },
+    {
+      "itemId": 52,
+      "name": "Volvo XC90",
+      "market_name": "XC90",
+      "imageName": "",
+      "description": "Флагман скандинавского дизайна, воплощающий идеи уюта и безопасности. Премиальный 7-местный кроссовер со строгим статусом.",
+      "offerType": "universal",
+      "price": [
+        2100,
+        1575,
+        1365
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2100,
+        2100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        70
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 53,
+      "name": "Chevrolet Camaro ZL1",
+      "market_name": "Comaric",
+      "imageName": "",
+      "description": "Звезда голливудских блокбастеров и культовый американский спорткар. Яркая модель с хищным прищуром оптики и киноисторией.",
+      "offerType": "universal",
+      "price": [
+        2300,
+        1725,
+        1495
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2300,
+        2300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        71
+      ],
+      "carColor1": 6,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 54,
+      "name": "BMW 3-Series G20",
+      "market_name": "Boomer 3 G20",
+      "imageName": "",
+      "description": "Современный эталон спортивных седанов с огромным наследием в автоспорте. Отличный показатель высокого стиля и немецкой точности.",
+      "offerType": "universal",
+      "price": [
+        2350,
+        1763,
+        1528
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2350,
+        2350
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        72
+      ],
+      "carColor1": 7,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 55,
+      "name": "BMW Z4 M40i",
+      "market_name": "Boomer 4 Кабриолет",
+      "imageName": "",
+      "description": "Классический формат открытого родстера, идеальный на живописных трассах. Заметная модель с ярким спортивным дизайном.",
+      "offerType": "universal",
+      "price": [
+        2450,
+        1838,
+        1592
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2450,
+        2450
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        73
+      ],
+      "carColor1": 2,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 56,
+      "name": "Dodge Charger SRT",
+      "market_name": "Charger",
+      "imageName": "",
+      "description": "Легендарный американский масл-кар с духом нелегальных ночных гонок. Внушительная модель с широким кузовом и мощным звуком.",
+      "offerType": "universal",
+      "price": [
+        2500,
+        1875,
+        1625
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2500,
+        2500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        74
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 57,
+      "name": "BMW M5 F10",
+      "market_name": "Boomer 5 F10",
+      "imageName": "",
+      "description": "Бизнес-седан со спортивным прошлым и богатой культурой. Узнаваемый символ высокого авторитета и стабильности на дорогах.",
+      "offerType": "universal",
+      "price": [
+        2550,
+        1913,
+        1658
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2550,
+        2550
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        75
+      ],
+      "carColor1": 8,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 58,
+      "name": "Ford Mustang Mach E",
+      "market_name": "F Must E",
+      "imageName": "",
+      "description": "Новое прочтение американской легенды в современном электрическом формате. Главный тренд современной автомобильной моды.",
+      "offerType": "universal",
+      "price": [
+        2600,
+        1950,
+        1690
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2600,
+        2600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        76
+      ],
+      "carColor1": 3,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 59,
+      "name": "Jeep Wrangler JL",
+      "market_name": "Rangler",
+      "imageName": "",
+      "description": "Настоящий символ свободы, дикого запада и бескомпромиссных приключений. Рамный внедорожник со сказочным техническим наследием.",
+      "offerType": "universal",
+      "price": [
+        2650,
+        1988
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        2650
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        77
+      ],
+      "carColor1": 16,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 60,
+      "name": "BMW M4 F84",
+      "market_name": "Boomer 4 F84",
+      "imageName": "",
+      "description": "Яркий представитель современной уличной гоночной культуры. Заряженная модель, неизменно притягивающая внимание на дорогах.",
+      "offerType": "universal",
+      "price": [
+        2750,
+        2063
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        2750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        78
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 61,
+      "name": "Ford Raptor F-150",
+      "market_name": "F Pickup",
+      "imageName": "",
+      "description": "Американская икона пустынных гонок и тяжелых пикапов. Внушительная модель с небывалыми внедорожными возможностями.",
+      "offerType": "universal",
+      "price": [
+        2880,
+        2160
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        2880
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        79
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 62,
+      "name": "Toyota Supra A90",
+      "market_name": "Supra 90YO",
+      "imageName": "",
+      "description": "Современное продолжение культовой японской легенды с идеальными пропорциями. Заметное спортивное купе с высокой ценностью.",
+      "offerType": "universal",
+      "price": [
+        2950,
+        2213
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        2950
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        80
+      ],
+      "carColor1": 3,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 63,
+      "name": "Zeekr 001",
+      "market_name": "Zek",
+      "imageName": "",
+      "description": "Хит новой футуристичной автокультуры в кузове шутинг-брейк. Высокий уровень технологичности и современного стиля.",
+      "offerType": "universal",
+      "price": [
+        3000,
+        2250
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        81
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 64,
+      "name": "Audi Q8",
+      "market_name": "Aura O8",
+      "imageName": "",
+      "description": "Премиальный купе-кроссовер, подчеркивающий статус современной городской элиты. Флагманский уровень представительского класса.",
+      "offerType": "universal",
+      "price": [
+        3000,
+        2250
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        82
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 65,
+      "name": "Dodge Demon SRT",
+      "market_name": "Demon",
+      "imageName": "",
+      "description": "Легенда драгрейсинга с экстремальным спортивным характером. Внушительная модель с мотором в 840 л.с. и гоночным потенциалом.",
+      "offerType": "universal",
+      "price": [
+        3050,
+        2288
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3050
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        83
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 66,
+      "name": "Mercedes-Benz C63s",
+      "market_name": "C63s",
+      "imageName": "",
+      "description": "Заряженная немецкая модель с диким характером и богатой спортивной историей. Выдающийся представитель своего класса.",
+      "offerType": "universal",
+      "price": [
+        3100,
+        2325
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        84
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 67,
+      "name": "Lincoln Navigator",
+      "market_name": "Link Navigate",
+      "imageName": "",
+      "description": "Символ американского успеха и монументального стиля жизни. Внушительный внедорожник с высочайшим авторитетом.",
+      "offerType": "universal",
+      "price": [
+        3250,
+        2438
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3250
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        85
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 68,
+      "name": "Mercedes-Benz GT63s",
+      "market_name": "GT63s",
+      "imageName": "",
+      "description": "Флагманский статус и спортивная эстетика высшей лиги. Серьезное пополнение автопарка с непревзойденной динамикой.",
+      "offerType": "universal",
+      "price": [
+        3500,
+        2625
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        86
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 69,
+      "name": "AUDI S5 Coupe 2020",
+      "market_name": "Aura Aura 5C 2020",
+      "imageName": "",
+      "description": "Немецкая эстетика и спортивная элегантность в каждой линии. Отличный показатель высокого стиля и утонченного вкуса.",
+      "offerType": "universal",
+      "price": [
+        3500,
+        2625
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        87
+      ],
+      "carColor1": 3,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 70,
+      "name": "Audi Q7 2020",
+      "market_name": "Aura O7",
+      "imageName": "",
+      "description": "Вместительный семейный кроссовер премиального уровня. Достойная модель для поездок высокой категории комфорта.",
+      "offerType": "universal",
+      "price": [
+        3500,
+        2625
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        88
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 71,
+      "name": "Cadillac Escalade",
+      "market_name": "Escaludore OLD",
+      "imageName": "",
+      "description": "Классический символ американского богатства и кинокультуры. Монументальный внедорожник со строгим непререкаемым статусом.",
+      "offerType": "universal",
+      "price": [
+        3600,
+        2700
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        89
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 72,
+      "name": "Mercedes-Benz E63",
+      "market_name": "E63",
+      "imageName": "",
+      "description": "Легендарная модель бизнес-класса с душой настоящего спорткара. Важный шаг к вершинам автомобильной иерархии.",
+      "offerType": "universal",
+      "price": [
+        3750,
+        2813
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        90
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 73,
+      "name": "BMW M4 G82",
+      "market_name": "Boomer 4 G82",
+      "imageName": "",
+      "description": "Смелая и эпатажная модель современной автомобильной эпохи. Заряженное купе с дерзким агрессивным дизайном.",
+      "offerType": "universal",
+      "price": [
+        3850,
+        2888
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3850
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        91
+      ],
+      "carColor1": 16,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 74,
+      "name": "Toyota Land Cruiser 200",
+      "market_name": "LC 200",
+      "imageName": "",
+      "description": "Главная легенда прочности, надежности и неизменного авторитета. Несокрушимый рамный внедорожник с высокой ценностью.",
+      "offerType": "universal",
+      "price": [
+        3900,
+        2925
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3900
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        92
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 75,
+      "name": "Nissan GT-R R35",
+      "market_name": "N GT-R 35",
+      "imageName": "",
+      "description": "Легендарный японский суперкар, прозванный Годзиллой в уличной культуре. Признанное мировое превосходство и мощь.",
+      "offerType": "universal",
+      "price": [
+        3950,
+        2963
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3950
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        93
+      ],
+      "carColor1": 4,
+      "carColor2": 4,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 76,
+      "name": "Lexus IS500F Performance",
+      "market_name": "Luxe 500F Pform",
+      "imageName": "",
+      "description": "Редкий формат седана с атмосферным V8 для знатоков автокультуры. Высокий показатель уникального стиля и редкой формы.",
+      "offerType": "universal",
+      "price": [
+        4000,
+        3000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        94
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 77,
+      "name": "BMW X6M F16",
+      "market_name": "Boomer F6",
+      "imageName": "",
+      "description": "Основоположник моды на спортивные купе-кроссоверы. Заметный элемент статуса с агрессивным спортивным характером.",
+      "offerType": "universal",
+      "price": [
+        4100,
+        3075
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        95
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 78,
+      "name": "Porsche Panamera S",
+      "market_name": "Panama",
+      "imageName": "",
+      "description": "Немецкое наследие в формате спортивного представительского фастбека. Высокий уровень авторитета на любой дороге.",
+      "offerType": "universal",
+      "price": [
+        4200,
+        3150
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4200
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        96
+      ],
+      "carColor1": 6,
+      "carColor2": 6,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 79,
+      "name": "Audi RS6 C7 Дорест",
+      "market_name": "Aura Road 6",
+      "imageName": "",
+      "description": "Культовый статус среди поклонников быстрых спортивных универсалов. Легенда уличной сцены с высокой ценностью.",
+      "offerType": "universal",
+      "price": [
+        4250,
+        3188
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4250
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        97
+      ],
+      "carColor1": 3,
+      "carColor2": 3,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 80,
+      "name": "ЗИЛ 4104",
+      "market_name": "ИЛ 41",
+      "imageName": "",
+      "description": "Историческая ценность и символ правительственной эпохи. Замечательный представительский экземпляр для автопарка.",
+      "offerType": "universal",
+      "price": [
+        4250,
+        3188
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4250
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        98
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 81,
+      "name": "BMW M6 F12",
+      "market_name": "Boomer 6 F12",
+      "imageName": "",
+      "description": "Роскошное купе с открытым верхом для ярких загородных поездок. Солидный показатель высокого уровня и престижа.",
+      "offerType": "universal",
+      "price": [
+        4350,
+        3263
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4350
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        99
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 82,
+      "name": "Chevrolet Tahoe RST",
+      "market_name": "Taco",
+      "imageName": "",
+      "description": "Брутальный американский внедорожник из главных голливудских фильмов. Мощная модель со строгой осанкой.",
+      "offerType": "universal",
+      "price": [
+        4450,
+        3338
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4450
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        100
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 83,
+      "name": "Porsche 911 Carrera",
+      "market_name": "911 S",
+      "imageName": "",
+      "description": "Главная икона мировой спортивной автокультуры с легендарным силуэтом. Знаковый статус и непревзойденный стиль.",
+      "offerType": "universal",
+      "price": [
+        4500,
+        3375
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        101
+      ],
+      "carColor1": 6,
+      "carColor2": 6,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 84,
+      "name": "Volkswagen Touareg 2022",
+      "market_name": "Tour Gen",
+      "imageName": "",
+      "description": "Технологичный символ успешной городской жизни. Солидная модель с высочайшим уровнем современного комфорта.",
+      "offerType": "universal",
+      "price": [
+        4650,
+        3488
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4650
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        102
+      ],
+      "carColor1": 2,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 85,
+      "name": "Mercedes-Benz GLS 400d",
+      "market_name": "Geep 400LS",
+      "imageName": "",
+      "description": "Представительский уровень S-класса в формате полноразмерного кроссовера. Первый класс передвижения в любых условиях.",
+      "offerType": "universal",
+      "price": [
+        4575,
+        3431
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4575
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        103
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 86,
+      "name": "BMW M5 F90",
+      "market_name": "Boomer 5 F90",
+      "imageName": "",
+      "description": "Легендарный спортивный седан, ставший иконой уличных соревнований. Серьезная модель с высочайшим авторитетом.",
+      "offerType": "universal",
+      "price": [
+        4750,
+        3563
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        104
+      ],
+      "carColor1": 2,
+      "carColor2": 2,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 87,
+      "name": "Audi RS7 C8",
+      "market_name": "Aura Road 7",
+      "imageName": "",
+      "description": "Стремительный спортбэк с хищным дизайном и высшим статусом. Заметный флагман в любом городском потоке.",
+      "offerType": "universal",
+      "price": [
+        4750,
+        3563
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        105
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 88,
+      "name": "Range Rover SVR",
+      "market_name": "RR Jip",
+      "imageName": "",
+      "description": "Заряженный кроссовер с чисто британским характером. Громкое заявление о статусе и высоких возможностях.",
+      "offerType": "universal",
+      "price": [
+        5000,
+        3750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        106
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 89,
+      "name": "Audi RS6 C7 Рест",
+      "market_name": "Aura Road 6 Sport",
+      "imageName": "",
+      "description": "Легендарное имя в мире практичного спортивного автопрома. Зарекомендовавший себя флагман с богатой историей.",
+      "offerType": "universal",
+      "price": [
+        5000,
+        3750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        107
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 90,
+      "name": "Mercedes-Benz CLS63 AMG",
+      "market_name": "Banana 63",
+      "imageName": "",
+      "description": "Культовая модель 2010-х годов с узнаваемым грациозным силуэтом. Высокий статус и неповторимый эстетический образ.",
+      "offerType": "universal",
+      "price": [
+        5150,
+        4120,
+        3863
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5150,
+        5150
+      ],
+      "startTime": [
+        0,
+        1792288800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        108
+      ]
+    },
+    {
+      "itemId": 91,
+      "name": "BMW X7 M50i",
+      "market_name": "Boomer F7",
+      "imageName": "",
+      "description": "Флагманский уровень для комфортных путешествий. Внушительный трехрядный кроссовер с высшим комфортом.",
+      "offerType": "universal",
+      "price": [
+        5250,
+        4200,
+        3938
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5250,
+        5250
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        109
+      ]
+    },
+    {
+      "itemId": 92,
+      "name": "Audi R8 V10",
+      "market_name": "Aura Road 8",
+      "imageName": "",
+      "description": "Среднемоторная легенда из популярных фильмов и видеоигр. Полноценный суперкар с гоночным прошлым и стилем.",
+      "offerType": "universal",
+      "price": [
+        5500,
+        4400,
+        4125
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5500,
+        5500
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        110
+      ],
+      "carColor1": 6,
+      "carColor2": 6
+    },
+    {
+      "itemId": 93,
+      "name": "Lexus LX570",
+      "market_name": "Luxe 4x4",
+      "imageName": "",
+      "description": "Символ абсолютной уверенности и высоких возможностей. Флагманский рамный внедорожник со строгим статусом.",
+      "offerType": "universal",
+      "price": [
+        5728,
+        4582,
+        4296
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5728,
+        5728
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        111
+      ]
+    },
+    {
+      "itemId": 94,
+      "name": "Mercedes-Benz E63s",
+      "market_name": "E63s",
+      "imageName": "",
+      "description": "Вершина линейки спортивных седанов бизнес-класса. Признанный показатель высшего финансового авторитета.",
+      "offerType": "universal",
+      "price": [
+        5750,
+        4600,
+        4313
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5750,
+        5750
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        112
+      ]
+    },
+    {
+      "itemId": 95,
+      "name": "Cadillac Escalade 2021",
+      "market_name": "Escaludore NEW",
+      "imageName": "",
+      "description": "Новейший символ роскоши, технологичности и монументальности. Флагманский американский внедорожник высшего класса.",
+      "offerType": "universal",
+      "price": [
+        5750,
+        4600,
+        4313
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5750,
+        5750
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        113
+      ]
+    },
+    {
+      "itemId": 96,
+      "name": "Audi e-tron GT",
+      "market_name": "Aura Tronus GT",
+      "imageName": "",
+      "description": "Электрический спорткар нового поколения с футуристичным дизайном. Инновационный статус и стремительная динамика.",
+      "offerType": "universal",
+      "price": [
+        6000,
+        4800,
+        4500
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        6000,
+        6000
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        114
+      ],
+      "carColor1": 1,
+      "carColor2": 0
+    },
+    {
+      "itemId": 97,
+      "name": "BMW i8 drive",
+      "market_name": "Boomer 8 Roadster",
+      "imageName": "",
+      "description": "Футуристичная икона 2010-х годов из кинолент о будущем. Заметная модель с подъемными дверями-бабочками.",
+      "offerType": "universal",
+      "price": [
+        6300,
+        5040,
+        4725
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        6300,
+        6300
+      ],
+      "startTime": [
+        0,
+        1794967200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795226400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        115
+      ],
+      "carColor1": 2,
+      "carColor2": 1
+    },
+    {
+      "itemId": 98,
+      "name": "BMW X5M G05",
+      "market_name": "Boomer F5 G05",
+      "imageName": "",
+      "description": "Современная вершина спортивных кроссоверов с агрессивным характером. Максимальный авторитет и мощная осанка.",
+      "offerType": "universal",
+      "price": [
+        6500,
+        5200,
+        4875
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        6500,
+        6500
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        116
+      ],
+      "carColor1": 1,
+      "carColor2": 0
+    },
+    {
+      "itemId": 99,
+      "name": "Mercedes-Benz GT-R",
+      "market_name": "M GT-R",
+      "imageName": "",
+      "description": "Настоящий гоночный болид, адаптированный под обычные дороги. Знаковый трофей с высшей спортивной ценностью.",
+      "offerType": "universal",
+      "price": [
+        6750,
+        5400,
+        5063
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        6750,
+        6750
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        117
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 100,
+      "name": "McLaren 600 LT",
+      "market_name": "600 LT",
+      "imageName": "",
+      "description": "Трековая легенда с прочной пространственной рамой для настоящих гонщиков. Высокая спортивная ценность и уникальный стиль.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        5600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        118
+      ],
+      "carColor1": 6,
+      "carColor2": 6,
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 101,
+      "name": "BMW 7 series 750Li",
+      "market_name": "Boomer",
+      "imageName": "",
+      "description": "Флагман представительского класса с королевским уровнем комфорта. Роскошная модель, подчеркивающая статус бизнес-империи.",
+      "offerType": "universal",
+      "price": [
+        7150,
+        5363,
+        5720
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7150,
+        7150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        119
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 102,
+      "name": "Porsche Cayenne S",
+      "market_name": "Canyone Canyone",
+      "imageName": "",
+      "description": "Спортивный статус в формате легендарного кроссовера. Заметное приобретение с выдержанным стилем.",
+      "offerType": "universal",
+      "price": [
+        7350,
+        5513,
+        5880
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7350,
+        7350
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        120
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 103,
+      "name": "Audi RS6 C8",
+      "market_name": "Aura Road 6S",
+      "imageName": "",
+      "description": "Современная икона уличной автокультуры и практичных спорткаров. Флагманский универсал с мощным характером.",
+      "offerType": "universal",
+      "price": [
+        7400,
+        5550,
+        5920
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7400,
+        7400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        121
+      ],
+      "carColor1": 3,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 104,
+      "name": "Tesla Model S",
+      "market_name": "Electra S",
+      "imageName": "",
+      "description": "Законодатель моды в мире современных премиальных электрокаров. Флагманская модель с технологическим лидерством.",
+      "offerType": "universal",
+      "price": [
+        7500,
+        5625,
+        6000
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7500,
+        7500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        122
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 105,
+      "name": "Lamborghini Urus",
+      "market_name": "Lumus",
+      "imageName": "",
+      "description": "Суперкар в формате кроссовера и яркий символ современной поп-культуры. Ценный трофей со спортивным характером.",
+      "offerType": "universal",
+      "price": [
+        7650,
+        5738,
+        6120
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7650,
+        7650
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        123
+      ],
+      "carColor1": 6,
+      "carColor2": 6,
+      "startTime": [
+        0,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 106,
+      "name": "Lamborghini Huracan P",
+      "market_name": "Uragan",
+      "imageName": "",
+      "description": "Итальянская гоночная легенда для уличных трасс. Символ чистого адреналина и высокого спортивного статуса.",
+      "offerType": "universal",
+      "price": [
+        8250,
+        6188,
+        6600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        8250,
+        8250
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        124
+      ],
+      "carColor1": 2,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 107,
+      "name": "Chevrolet Corvette C8",
+      "market_name": "Cornet C8",
+      "imageName": "",
+      "description": "Новая страница в истории американских среднемоторных суперкаров. Заметное пополнение любого автопарка.",
+      "offerType": "universal",
+      "price": [
+        8500,
+        6375,
+        6800
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        8500,
+        8500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        125
+      ],
+      "carColor1": 6,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 108,
+      "name": "Mercedes-Benz G65 AMG",
+      "market_name": "Gelik 65",
+      "imageName": "",
+      "description": "Легендарная модель с мотором V12, ставшая символом власти в поп-культуре. Знаковый статус и неповторимый стиль.",
+      "offerType": "universal",
+      "price": [
+        8525,
+        6394,
+        6820
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        8525,
+        8525
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        126
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 109,
+      "name": "BMW M8 F92",
+      "market_name": "Boomer 8 F92",
+      "imageName": "",
+      "description": "Флагманское купе для высшей лиги автолюбителей. Вершина спортивного стиля с премиальным уровнем уюта.",
+      "offerType": "universal",
+      "price": [
+        8600,
+        6450,
+        6880
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        8600,
+        8600
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        127
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 110,
+      "name": "Ferrari 488 GTB",
+      "market_name": "488 Good",
+      "imageName": "",
+      "description": "Итальянская гоночная эстетика и романтика автоспорта. Высшая категория стиля и страстного характера.",
+      "offerType": "universal",
+      "price": [
+        8750,
+        6563,
+        7000
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        8750,
+        8750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        128
+      ],
+      "carColor1": 3,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 111,
+      "name": "Porsche Taycan",
+      "market_name": "Taigan",
+      "imageName": "",
+      "description": "Новый эталон в мире электрических спорткаров. Вложение в самые современные технологии и стремительный разгон.",
+      "offerType": "universal",
+      "price": [
+        9150,
+        6863,
+        7320
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        9150,
+        9150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        129
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 112,
+      "name": "Aston Martin DB11",
+      "market_name": "AMerlin 11",
+      "imageName": "",
+      "description": "Британская аристократия и неподражаемый стиль Агента 007. Утонченный культурный статус и высокая эстетика.",
+      "offerType": "universal",
+      "price": [
+        9250,
+        6938,
+        7400
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        9250,
+        9250
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        130
+      ],
+      "carColor1": 1,
+      "carColor2": 2,
+      "startTime": [
+        0,
+        1795658400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 113,
+      "name": "BMW M8 F93",
+      "market_name": "Boomer 8 F93",
+      "imageName": "",
+      "description": "Четырехдверный флагман для комфортных и быстрых поездок. Идеальное сочетание статуса и ураганной скорости.",
+      "offerType": "universal",
+      "price": [
+        9500,
+        7125,
+        7600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        9500,
+        9500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        131
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801706400
+      ]
+    },
+    {
+      "itemId": 114,
+      "name": "Lamborghini Aventador S",
+      "market_name": "Emperador",
+      "imageName": "",
+      "description": "Легендарная икона мира суперкаров с подъемными дверями. Один из самых узнаваемых автомобилей в истории.",
+      "offerType": "universal",
+      "price": [
+        10000,
+        7500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        10000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        132
+      ],
+      "carColor1": 6,
+      "carColor2": 6,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 115,
+      "name": "Tesla Model X",
+      "market_name": "Electra X",
+      "imageName": "",
+      "description": "Технологичный флагман с поднимающимися дверями. Солидный показатель успеха и инноваций.",
+      "offerType": "universal",
+      "price": [
+        10000,
+        7500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        10000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        133
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 116,
+      "name": "Mercedes-Benz G63 AMG",
+      "market_name": "Gelik 63",
+      "imageName": "",
+      "description": "Культовый символ богатства и авторитета в современной поп-культуре. Легендарный внедорожник с выдержанным стилем.",
+      "offerType": "universal",
+      "price": [
+        11500,
+        8625
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        11500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        134
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 117,
+      "name": "Mercedes-Benz EQS580",
+      "market_name": "G6",
+      "imageName": "",
+      "description": "Представительский электрокар будущего с непревзойденной аэродинамикой. Высшая точка инноваций и комфорта.",
+      "offerType": "universal",
+      "price": [
+        12000,
+        9000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        12000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        135
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 118,
+      "name": "Mercedes-Benz Maybach S650",
+      "market_name": "S650",
+      "imageName": "",
+      "description": "Символ абсолютной роскоши и высшего общества. Непревзойденный представительский уровень для лидеров.",
+      "offerType": "universal",
+      "price": [
+        12500,
+        9375
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        12500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        136
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 119,
+      "name": "Ferrari 488 Pista",
+      "market_name": "488 Pizza",
+      "imageName": "",
+      "description": "Экстремальная трековая модель с гоночными технологиями. Легендарный спортивный статус и чистая скорость.",
+      "offerType": "universal",
+      "price": [
+        13000,
+        9750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        13000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        137
+      ],
+      "carColor1": 3,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 120,
+      "name": "Aurus Senat",
+      "market_name": "Senator",
+      "imageName": "",
+      "description": "Представительский флагман государственного уровня с гибридной установкой. Высший авторитет на любых дорогах.",
+      "offerType": "universal",
+      "price": [
+        15000,
+        11250
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        15000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        138
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 121,
+      "name": "Rolls-Royce Wraith",
+      "market_name": "Diamond",
+      "imageName": "",
+      "description": "Символ высшего света и незыблемого богатства. Абсолютный аристократический статус и выдержанный стиль.",
+      "offerType": "universal",
+      "price": [
+        17500,
+        13125
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        17500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        139
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 122,
+      "name": "Rolls-Royce Cullinan",
+      "market_name": "Amber",
+      "imageName": "",
+      "description": "Самый статусный внедорожник в мире с духом высшего аристократизма. Главный показатель успеха и авторитета.",
+      "offerType": "universal",
+      "price": [
+        20000,
+        15000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        20000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        140
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 123,
+      "name": "Mercedes-Benz G 63 AMG Brabus",
+      "market_name": "Gelik 63 Grabus",
+      "imageName": "",
+      "description": "Доработанная легенда с максимальным авторитетом на любых дорогах. Вершина внедорожной иерархии и мощи.",
+      "offerType": "universal",
+      "price": [
+        22000,
+        16500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        22000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        141
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 124,
+      "name": "Rolls-Royce Phantom",
+      "market_name": "Sapphire",
+      "imageName": "",
+      "description": "Главный мировой символ богатства, процветания и величия. Абсолютная вершина мирового автопрома.",
+      "offerType": "universal",
+      "price": [
+        25000,
+        18750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        25000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        142
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 125,
+      "name": "Bentley Continental GT",
+      "market_name": "Materic",
+      "imageName": "",
+      "description": "Британская классика роскошных путешествий в формате гран-туризмо. Высочайшее уважение и статус на трассе.",
+      "offerType": "universal",
+      "price": [
+        27500,
+        20625
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        27500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        143
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 126,
+      "name": "Bentley Mulliner Bacalar",
+      "market_name": "Millioner",
+      "imageName": "",
+      "description": "Редчайший представитель открытых коллекционных моделей. Главное украшение любого автопарка со скульптурным кузовом.",
+      "offerType": "universal",
+      "price": [
+        32000,
+        24000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        32000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        144
+      ],
+      "carColor1": 6,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 127,
+      "name": "BMW M1 E26",
+      "market_name": "Boomer M1",
+      "imageName": "",
+      "description": "Первая легенда спортивного подразделения 70-х годов в клиновидном кузове. Раритетная автомобильная история.",
+      "offerType": "universal",
+      "price": [
+        35000,
+        26250
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        35000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        145
+      ],
+      "carColor1": 3,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 128,
+      "name": "Bugatti Chiron",
+      "market_name": "Richon",
+      "imageName": "",
+      "description": "Шедевр мировой инженерии с невероятной скоростью. Внушительный трофей высшей категории и показатель лидерства.",
+      "offerType": "universal",
+      "price": [
+        40000,
+        30000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        40000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        146
+      ],
+      "carColor1": 7,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 129,
+      "name": "Bugatti Divo",
+      "market_name": "Divero",
+      "imageName": "",
+      "description": "Трековый гиперкар с уникальной аэродинамикой. Флагманский статус с бескомпромиссным характером.",
+      "offerType": "universal",
+      "price": [
+        50000,
+        37500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        50000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        147
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 130,
+      "name": "Bugatti La Noire",
+      "market_name": "La Noire",
+      "imageName": "",
+      "description": "Загадочный и статусный гиперкар с темным облегченным кузовом. Высшая точка роскоши и бескомпромиссного превосходства.",
+      "offerType": "universal",
+      "price": [
+        70000,
+        52500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        70000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        148
+      ],
+      "carColor1": 2,
+      "carColor2": 2,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 131,
+      "name": "Racer Sport Скутер",
+      "market_name": "Moto Light",
+      "imageName": "",
+      "description": "Самый доступный транспорт для старта. Символ свободной и беззаботной городской юности для маневренных поездок.",
+      "offerType": "universal",
+      "price": [
+        10,
+        7,
+        8,
+        7
+      ],
+      "salePercent": [
+        0,
+        30,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        10,
+        10,
+        10
+      ],
+      "startTime": [
+        0,
+        1792288800,
+        1795658400,
+        1801447200
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000,
+        1801706400
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        149
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 132,
+      "name": "Aprilla MXV 450",
+      "market_name": "Moto MXV",
+      "imageName": "",
+      "description": "Легкий кроссовый мотоцикл с длинноходной подвеской. Бюджетный способ начать движение по пересеченной местности.",
+      "offerType": "universal",
+      "price": [
+        45,
+        31,
+        34
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        45,
+        45
+      ],
+      "startTime": [
+        0,
+        1794189600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794448800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        150
+      ],
+      "carColor1": 1,
+      "carColor2": 1
+    },
+    {
+      "itemId": 133,
+      "name": "Мотоцикл Минск 125",
+      "market_name": "Мотоцикл Москва",
+      "imageName": "",
+      "description": "Легендарный душевный мотоцикл эпохи. Настоящая классика с легкой ноткой ностальгии и простым обслуживанием.",
+      "offerType": "universal",
+      "price": [
+        150,
+        113,
+        105
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        150,
+        150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        151
+      ],
+      "carColor1": 3,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 134,
+      "name": "Ducati SuperSport S",
+      "market_name": "Moto SuperSport",
+      "imageName": "",
+      "description": "Доступный билет в мир итальянской мотокультуры и спортивного стиля по привлекательной стоимости.",
+      "offerType": "universal",
+      "price": [
+        915,
+        686,
+        686
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        915,
+        915
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        152
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 135,
+      "name": "Ducati XDiavel S",
+      "market_name": "Moto Diavel",
+      "imageName": "",
+      "description": "Мускулистый крузер с дерзким характером. Выдающийся представитель двухколесного транспорта со стильным видом.",
+      "offerType": "universal",
+      "price": [
+        1500,
+        975,
+        1125
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1500,
+        1500
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        153
+      ],
+      "carColor1": 3,
+      "carColor2": 3
+    },
+    {
+      "itemId": 136,
+      "name": "Yamaha FZ-10",
+      "market_name": "Moto Yama",
+      "imageName": "",
+      "description": "Агрессивный городской мотоцикл с футуристичным дизайном. Отличный баланс стиля, мощности и доступности.",
+      "offerType": "universal",
+      "price": [
+        2250,
+        1688,
+        1462
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2250,
+        2250
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        154
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 137,
+      "name": "Yamaha YZF-R6",
+      "market_name": "Moto Yama R6",
+      "imageName": "",
+      "description": "Легенда мирового мотогоночного спорта с высоким оборотистым мотором. Достойная модель для высоких скоростей.",
+      "offerType": "universal",
+      "price": [
+        2500,
+        1875,
+        1625
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2500,
+        2500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        155
+      ],
+      "carColor1": 6,
+      "carColor2": 6,
+      "startTime": [
+        0,
+        1795658400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 138,
+      "name": "BMW S 1000 RR",
+      "market_name": "Moto S1000",
+      "imageName": "",
+      "description": "Немецкий флагман среди супербайков с трековой электроникой. Серьезная двухколесная модель со спортивным стилем.",
+      "offerType": "universal",
+      "price": [
+        3500,
+        2625
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        156
+      ],
+      "carColor1": 2,
+      "carColor2": 2,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 139,
+      "name": "Suzuki GSX-R750",
+      "market_name": "GSX 750",
+      "imageName": "",
+      "description": "Признанная икона среди спортивных байков с идеальным балансом. Достойное пополнение коллекции скорости.",
+      "offerType": "universal",
+      "price": [
+        4000,
+        3000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        157
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 140,
+      "name": "Kawasaki Ninja H2R",
+      "market_name": "Moto Nindzya",
+      "imageName": "",
+      "description": "Экстремальный трековый гипербайк мощностью 310 л.с. Главный символ двухколесной скорости и технологий.",
+      "offerType": "universal",
+      "price": [
+        5000,
+        3750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        158
+      ],
+      "carColor1": 4,
+      "carColor2": 4,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 141,
+      "name": "UAZ 452 Бравый",
+      "market_name": "Буханка Бравая серия",
+      "imageName": "",
+      "description": "Народная легенда и символ незабываемых поездок. Доступная модель с богатой историей и высокой проходимостью.",
+      "offerType": "universal",
+      "price": [
+        700,
+        525,
+        525
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        700,
+        700
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        159
+      ],
+      "carColor1": 1,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 142,
+      "name": "Вездеход монстр",
+      "market_name": "Вездеход монстр",
+      "imageName": "",
+      "description": "Необычный проект на огромных колесах для покорения любых болот и снегов. Выделяющийся транспорт вне дорог.",
+      "offerType": "universal",
+      "price": [
+        750,
+        563,
+        562
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        750,
+        750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        160
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 143,
+      "name": "Niva 4x4 Storm (рыб.)",
+      "market_name": "Storm 4x4",
+      "imageName": "",
+      "description": "Подготовленная версия народной легенды для экспедиций. Отличная модель внедорожного сегмента с экспедиционным обвесом.",
+      "offerType": "universal",
+      "price": [
+        2000,
+        1500,
+        1300
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2000,
+        2000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        161
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 144,
+      "name": "Ford 1933 HotRod",
+      "market_name": "HotRoad 1933",
+      "imageName": "",
+      "description": "Американская ретро-культура в формате классического хот-рода. Уникальный стиль с открытым мощным мотором.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        3500,
+        5250
+      ],
+      "salePercent": [
+        0,
+        50,
+        25
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        162
+      ],
+      "carColor1": 17,
+      "carColor2": 0
+    },
+    {
+      "itemId": 145,
+      "name": "Lykan HyperSport",
+      "market_name": "Livan Sport",
+      "imageName": "",
+      "description": "Редкий восточный суперкар, известный по голливудским блокбастерам. Кинематографичный статус и острая форма.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        5600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        163
+      ],
+      "carColor1": 17,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 146,
+      "name": "Hummer Humvee",
+      "market_name": "Big Hum",
+      "imageName": "",
+      "description": "Легенда армейской техники и символ сурового военного стиля. Внушительное приобретение с портальными мостами.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        3500,
+        5250
+      ],
+      "salePercent": [
+        0,
+        25,
+        50,
+        25
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        164
+      ],
+      "carColor1": 99,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 147,
+      "name": "Subaru BRZ",
+      "market_name": "Syberia BR",
+      "imageName": "",
+      "description": "Доступное спортивное купе для уличной культуры и легкого заноса. Отличная начальная точка в мире спорткаров.",
+      "offerType": "universal",
+      "price": [
+        2000,
+        1500,
+        1300
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2000,
+        2000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        165
+      ],
+      "carColor1": 3,
+      "carColor2": 3,
+      "startTime": [
+        0,
+        1795658400,
+        1798077600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798336800
+      ]
+    },
+    {
+      "itemId": 148,
+      "name": "Dodge RAM",
+      "market_name": "Dogger 4x4",
+      "imageName": "",
+      "description": "Американская пикап-культура в самом лучшем проявлении. Солидный и мощный представитель с просторной кабиной.",
+      "offerType": "universal",
+      "price": [
+        4000,
+        3000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        4000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        166
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 149,
+      "name": "Porsche 911 Singer",
+      "market_name": "Singer 11",
+      "imageName": "",
+      "description": "Легендарный рестмод с идеальной отделкой каждого элемента. Дорогой ценный трофей с атмосферой классики.",
+      "offerType": "universal",
+      "price": [
+        6000,
+        4800,
+        4500
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        6000,
+        6000
+      ],
+      "startTime": [
+        0,
+        1794708000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794967200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        167
+      ],
+      "carColor1": 16,
+      "carColor2": 0
+    },
+    {
+      "itemId": 150,
+      "name": "Lamborghini Gallardo",
+      "market_name": "Colorado",
+      "imageName": "",
+      "description": "Яркая икона суперкаров 2000-х годов с клиновидным силуэтом. Достойный представитель итальянского стиля.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        3500
+      ],
+      "salePercent": [
+        0,
+        25,
+        50
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        168
+      ],
+      "carColor1": 6,
+      "carColor2": 0,
+      "startTime": [
+        0,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 151,
+      "name": "Lotus Exige Halloween",
+      "market_name": "Halloween Car",
+      "imageName": "",
+      "description": "Компактный спорткар в праздничной стилистике. Отличная модель для создания яркого настроения на трассе.",
+      "offerType": "universal",
+      "price": [
+        5000,
+        3750
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        5000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        169
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 152,
+      "name": "Jaguar XK120",
+      "market_name": "Panthera Old",
+      "imageName": "",
+      "description": "Классическое британское наследие 50-х годов с элегантными формами. Ретро-эстетика высокого уровня со стилем.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        3500,
+        5250
+      ],
+      "salePercent": [
+        0,
+        25,
+        50,
+        25
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        170
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 153,
+      "name": "Mercedes-Benz 300SL Coupe",
+      "market_name": "Old Coupe",
+      "imageName": "",
+      "description": "Легенда великой эпохи автопрома с дверями крыло чайки. Причастность к мировой истории дизайна и культуры.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        5600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        171
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 154,
+      "name": "ВАЗ 2170 (ППС)",
+      "market_name": "АЗ 2170 (ППС)",
+      "imageName": "",
+      "description": "Служебный автомобиль для отыгрыша ролей в правоохранительных органах. Рабочий транспорт со спецсигналами.",
+      "offerType": "universal",
+      "price": [
+        20000,
+        15000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        20000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        172
+      ],
+      "carColor1": 1,
+      "carColor2": 7,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 155,
+      "name": "ГАЗ ТИГР",
+      "market_name": "АЗ ТИГР",
+      "imageName": "",
+      "description": "Тяжелый служебный броневик для специальных заданий. Высокая надежность, броня и полная защищенность.",
+      "offerType": "universal",
+      "price": [
+        30000,
+        22500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        30000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        173
+      ],
+      "carColor1": 99,
+      "carColor2": 99,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 156,
+      "name": "Mercedes-Benz Sprinter СМП",
+      "market_name": "M Sprint СМП",
+      "imageName": "",
+      "description": "Специализированный медицинский транспорт для спасательных служб. Важная роль в городском игровом процессе.",
+      "offerType": "universal",
+      "price": [
+        30000,
+        22500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        30000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        174
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 157,
+      "name": "Volkswagen Polo (ППС)",
+      "market_name": "Dulo (ППС)",
+      "imageName": "",
+      "description": "Городской патрульный седан для работы в органах правопорядка. Оснащенный спецтранспорт со спецсвязью.",
+      "offerType": "universal",
+      "price": [
+        35000,
+        26250
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        35000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        175
+      ],
+      "carColor1": 1,
+      "carColor2": 7,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 158,
+      "name": "BMW M5 F90 (ДПС)",
+      "market_name": "Boomer 5 F90 (ДПС)",
+      "imageName": "",
+      "description": "Быстрый перехватчик для спецслужб с мотором в 600 л.с. Полноценная погоня на высоких скоростях в потоке.",
+      "offerType": "universal",
+      "price": [
+        50000,
+        37500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        50000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        176
+      ],
+      "carColor1": 1,
+      "carColor2": 7,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 159,
+      "name": "Volkswagen Station Delux",
+      "market_name": "V Minibus Halloween",
+      "imageName": "",
+      "description": "Легенда культуры хиппи и символ свободы 60-х годов. Популярный праздничный микроавтобус с доброй атмосферой.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        5600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        177
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 160,
+      "name": "Raesr Tachyon Бэд-мобиль",
+      "market_name": "Taycon Halloween",
+      "imageName": "",
+      "description": "Уникальный суперкар в стиле легендарного героя. Эпатажный образ с капсульной кабиной.",
+      "offerType": "universal",
+      "price": [
+        7000,
+        5250,
+        5600
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7000,
+        7000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        178
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 161,
+      "name": "Morris Minor Новогодний",
+      "market_name": "Borris Minor",
+      "imageName": "",
+      "description": "Праздничный ретро-автомобиль с новогодним декором. Отличный тематический экземпляр для праздников.",
+      "offerType": "universal",
+      "price": [
+        6000,
+        4800,
+        4500
+      ],
+      "salePercent": [
+        0,
+        20,
+        25
+      ],
+      "fakePrice": [
+        0,
+        6000,
+        6000
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        179
+      ]
+    },
+    {
+      "itemId": 162,
+      "name": "Mercury Coupe Новогодний",
+      "market_name": "Mercy Coupe",
+      "imageName": "",
+      "description": "Американская кастомная классика 40-х годов в праздничном исполнении. Солидный вариант со сказочным стилем.",
+      "offerType": "universal",
+      "price": [
+        10000,
+        7500
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        10000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        180
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 163,
+      "name": "ГАЗель 3221",
+      "market_name": "АЗ 3221",
+      "imageName": "",
+      "description": "Знакомый каждому символ городского пассажирского транспорта. Доступная модель для ролевой работы на линиях.",
+      "offerType": "universal",
+      "price": [
+        750,
+        563,
+        562
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        750,
+        750
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        181
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 164,
+      "name": "Ford Transit 2020",
+      "market_name": "F Transfer",
+      "imageName": "",
+      "description": "Популярный коммерческий фургон для работы и бизнеса. Практичный рабочий инструмент с высокой крышей.",
+      "offerType": "universal",
+      "price": [
+        1250,
+        812,
+        938
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1250,
+        1250
+      ],
+      "startTime": [
+        0,
+        1792288800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1792893600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        182
+      ]
+    },
+    {
+      "itemId": 165,
+      "name": "Opel Vivaro 2022",
+      "market_name": "Guitara",
+      "imageName": "",
+      "description": "Современный европейский коммерческий фургон. Практичное решение с эргономичным и удобным салоном.",
+      "offerType": "universal",
+      "price": [
+        1900,
+        1425,
+        1235
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        1900,
+        1900
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        183
+      ],
+      "carColor1": 14,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 166,
+      "name": "Volkswagen Multivan",
+      "market_name": "V Multibus",
+      "imageName": "",
+      "description": "Бизнес-версия легендарного микроавтобуса с трансформируемым салоном. Хороший баланс статуса, комфорта и цены.",
+      "offerType": "universal",
+      "price": [
+        2000,
+        1500,
+        1300
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2000,
+        2000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        184
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 167,
+      "name": "Mercedes-Benz Sprinter",
+      "market_name": "M Sprint",
+      "imageName": "",
+      "description": "Надежный коммерческий транспорт немецкого качества. Солидная вместительность и высокая выносливость.",
+      "offerType": "universal",
+      "price": [
+        2500,
+        1875,
+        1625
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2500,
+        2500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        185
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800669600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800928800
+      ]
+    },
+    {
+      "itemId": 168,
+      "name": "Mercedes-Benz V-klasse",
+      "market_name": "M Multibus",
+      "imageName": "",
+      "description": "Премиальный минивэн для VIP-перевозок и максимального комфорта. Высокий уровень представительских поездок.",
+      "offerType": "universal",
+      "price": [
+        3150,
+        2363
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        3150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        186
+      ],
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 169,
+      "name": "Гидроцикл морской",
+      "imageName": "",
+      "description": "Доступное и динамичное судно для быстрой езды по волнам. Отличный старт для судовладельцев.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        210
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        187
+      ],
+      "carColor1": 2,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1800928800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801188000
+      ]
+    },
+    {
+      "itemId": 170,
+      "name": "Моторная лодка",
+      "imageName": "",
+      "description": "Простая и практичная лодка для водного отдыха и рыбалки. Доступный способ выйти на открытую воду.",
+      "offerType": "universal",
+      "price": [
+        1250,
+        812,
+        938
+      ],
+      "salePercent": [
+        0,
+        35,
+        25
+      ],
+      "fakePrice": [
+        0,
+        1250,
+        1250
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        188
+      ],
+      "carColor1": 16,
+      "carColor2": 1
+    },
+    {
+      "itemId": 171,
+      "name": "Speedy Yacht",
+      "imageName": "",
+      "description": "Спортивный катер для морских прогулок. Большой шаг в мир высококлассного водного транспорта.",
+      "offerType": "universal",
+      "price": [
+        2000,
+        1500,
+        1300
+      ],
+      "salePercent": [
+        0,
+        25,
+        35
+      ],
+      "fakePrice": [
+        0,
+        2000,
+        2000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        189
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 172,
+      "name": "Marine Yacht",
+      "imageName": "",
+      "description": "Двухпалубное судно для круизов и морских прогулок. Солидный представитель собственного флота.",
+      "offerType": "universal",
+      "price": [
+        7500,
+        5625,
+        6000
+      ],
+      "salePercent": [
+        0,
+        25,
+        20
+      ],
+      "fakePrice": [
+        0,
+        7500,
+        7500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        190
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 173,
+      "name": "Sea Yacht",
+      "imageName": "",
+      "description": "Настоящая круизная яхта с несколькими каютами для длительных путешествий. Высокий статус на водной глади.",
+      "offerType": "universal",
+      "price": [
+        20000,
+        15000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        20000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        191
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 174,
+      "name": "Ocean Yacht",
+      "imageName": "",
+      "description": "Огромная супер-яхта. Главный символ финансового превосходства.",
+      "offerType": "universal",
+      "price": [
+        40000,
+        30000
+      ],
+      "salePercent": [
+        0,
+        25
+      ],
+      "fakePrice": [
+        0,
+        40000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        192
+      ],
+      "carColor1": 1,
+      "carColor2": 1,
+      "startTime": [
+        0,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 175,
+      "name": "ВАЗ 2111",
+      "market_name": "Одинадцатая",
+      "imageName": "",
+      "description": "Практичный универсал для ежедневных задач и перевозки больших грузов. Простая в обслуживании модель для практичных автолюбителей по доступной цене.",
+      "offerType": "universal",
+      "price": [
+        100,
+        75,
+        40
+      ],
+      "salePercent": [
+        0,
+        25,
+        60
+      ],
+      "fakePrice": [
+        0,
+        100,
+        100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        438
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 176,
+      "name": "ЗАЗ 968M",
+      "market_name": "АЗ 968",
+      "imageName": "",
+      "description": "Душевная легенда отечественного автопрома с задним расположением мотора. Отличная начальная точка для движения по городским улицам с особым характером.",
+      "offerType": "universal",
+      "price": [
+        10,
+        7,
+        8
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        10,
+        10
+      ],
+      "startTime": [
+        0,
+        1792893600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793152800,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        439
+      ]
+    },
+    {
+      "itemId": 177,
+      "name": "ВАЗ 1111",
+      "market_name": "АЗ 1111",
+      "imageName": "",
+      "description": "Компактный и маневренный городской хэтчбек для уверенной парковки в плотном потоке. Скромный расход топлива и максимальная доступность для старта.",
+      "offerType": "universal",
+      "price": [
+        15,
+        10,
+        11
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        15,
+        15
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        440
+      ]
+    },
+    {
+      "itemId": 178,
+      "name": "ВАЗ 2101",
+      "market_name": "Копейка",
+      "imageName": "",
+      "description": "Признанная икона классического движения и первая модель народного автопрома. Легендарный силуэт с высокой исторической ценностью для каждого коллекционера.",
+      "offerType": "universal",
+      "price": [
+        30,
+        21,
+        23
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        30,
+        30
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        441
+      ]
+    },
+    {
+      "itemId": 179,
+      "name": "ГАЗ Волга 2410",
+      "market_name": "АЗ 2410",
+      "imageName": "",
+      "description": "Представительский седан прошлого века со строгой геометрией кузова. Просторный салон и плавный ход для комфортного перемещения.",
+      "offerType": "universal",
+      "price": [
+        40,
+        28,
+        30
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        40,
+        40
+      ],
+      "startTime": [
+        0,
+        1793671200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793930400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        442
+      ]
+    },
+    {
+      "itemId": 180,
+      "name": "ВАЗ 2106",
+      "market_name": "Шестерка",
+      "imageName": "",
+      "description": "Настоящий символ уличной автокультуры и частый герой молодежного движения. Узнаваемый классический вид и доступная стоимость.",
+      "offerType": "universal",
+      "price": [
+        42,
+        29,
+        32
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        42,
+        42
+      ],
+      "startTime": [
+        0,
+        1793930400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794189600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        443
+      ]
+    },
+    {
+      "itemId": 181,
+      "name": "Volkswagen Golf GTI 2",
+      "market_name": "Goal 2",
+      "imageName": "",
+      "description": "Заряженная немецкая классика с духом спортивных соревнований 80-х годов. Компактный кузов и динамичный характер для ярких поездок.",
+      "offerType": "universal",
+      "price": [
+        70,
+        49,
+        53
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        70,
+        70
+      ],
+      "startTime": [
+        0,
+        1794448800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794708000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        444
+      ]
+    },
+    {
+      "itemId": 182,
+      "name": "ВАЗ 2107",
+      "market_name": "Семерка",
+      "imageName": "",
+      "description": "Стильный классический седан со строгой решеткой радиатора и задним приводом. Популярный выбор для любителей управляемого заноса.",
+      "offerType": "universal",
+      "price": [
+        75,
+        52,
+        56
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        75,
+        75
+      ],
+      "startTime": [
+        0,
+        1794708000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1794967200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        445
+      ]
+    },
+    {
+      "itemId": 183,
+      "name": "Москвич 2141",
+      "market_name": "Москва 2141",
+      "imageName": "",
+      "description": "Вместительный хэтчбек со стремительными линиями кузова. Надежный помощник для загородных поездок и ежедневного использования.",
+      "offerType": "universal",
+      "price": [
+        75,
+        52,
+        56
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        75,
+        75
+      ],
+      "startTime": [
+        0,
+        1795226400,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795485600,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        446
+      ]
+    },
+    {
+      "itemId": 184,
+      "name": "ВАЗ 21099",
+      "market_name": "АЗ 21099",
+      "imageName": "",
+      "description": "Флагманский седан семейства переднеприводных автомобилей 90-х годов. Популярный выбор со строгим силуэтом и хорошей динамикой.",
+      "offerType": "universal",
+      "price": [
+        75,
+        52,
+        56
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        75,
+        75
+      ],
+      "startTime": [
+        0,
+        1794967200,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795226400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        447
+      ]
+    },
+    {
+      "itemId": 185,
+      "name": "ВАЗ 2108",
+      "market_name": "Восьмерка",
+      "imageName": "",
+      "description": "Трехдверный динамичный хэтчбек, ставший базой для множества спортивных проектов. Спортивный характер и легкий кузов по умеренной стоимости.",
+      "offerType": "universal",
+      "price": [
+        85,
+        59,
+        64
+      ],
+      "salePercent": [
+        0,
+        30,
+        25
+      ],
+      "fakePrice": [
+        0,
+        85,
+        85
+      ],
+      "startTime": [
+        0,
+        1795485600,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        448
+      ]
+    },
+    {
+      "itemId": 186,
+      "name": "ВАЗ 2109",
+      "market_name": "Девятка",
+      "imageName": "",
+      "description": "Культовая пятидверная модель уличной сцены с отличной маневренностью. Проверенная временем классика городских автодорог.",
+      "offerType": "universal",
+      "price": [
+        90,
+        36,
+        68
+      ],
+      "salePercent": [
+        0,
+        60,
+        25
+      ],
+      "fakePrice": [
+        0,
+        90,
+        90
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        449
+      ]
+    },
+    {
+      "itemId": 187,
+      "name": "ВАЗ 2110",
+      "market_name": "Десятка",
+      "imageName": "",
+      "description": "Обтекаемый силуэт и новый уровень комфорта для своего времени. Практичный выбор для ежедневного передвижения по мегаполису.",
+      "offerType": "universal",
+      "price": [
+        95,
+        71,
+        38,
+        71
+      ],
+      "salePercent": [
+        0,
+        25,
+        60,
+        25
+      ],
+      "fakePrice": [
+        0,
+        95,
+        95,
+        95
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        450
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796004000,
+        1796263200
+      ],
+      "endTime": [
+        0,
+        1796004000,
+        1796263200,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 188,
+      "name": "ВАЗ 2114",
+      "market_name": "Четырка",
+      "imageName": "",
+      "description": "Популярный представитель молодежной автокультуры с обновленной передней оптикой. Отличная динамика и стильный городской вид.",
+      "offerType": "universal",
+      "price": [
+        97,
+        73,
+        39,
+        73
+      ],
+      "salePercent": [
+        0,
+        25,
+        60,
+        25
+      ],
+      "fakePrice": [
+        0,
+        97,
+        97,
+        97
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        451
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000
+      ]
+    },
+    {
+      "itemId": 189,
+      "name": "ВАЗ 2112",
+      "market_name": "Двенашка",
+      "imageName": "",
+      "description": "Динамичный 16-клапанный хэтчбек со спойлером и выразительным спортивным характером. Уверенное ускорение в городском потоке.",
+      "offerType": "universal",
+      "price": [
+        100,
+        75,
+        70
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        100,
+        100
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        452
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796868000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797040800
+      ]
+    },
+    {
+      "itemId": 190,
+      "name": "ВАЗ 2115",
+      "market_name": "Пятнашка",
+      "imageName": "",
+      "description": "Строгие линии кузова и спойлер на крышке багажника. Лаконичный отечественный седан для уверенных ежедневных поездок.",
+      "offerType": "universal",
+      "price": [
+        105,
+        79,
+        74
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        105,
+        105
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        453
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797040800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797300000
+      ]
+    },
+    {
+      "itemId": 191,
+      "name": "Volvo 242 DL",
+      "market_name": "242 DL",
+      "imageName": "",
+      "description": "Легендарный скандинавский двухдверный седан с монументальной прочностью. Признанная ретро-эстетика со строгими формами.",
+      "offerType": "universal",
+      "price": [
+        125,
+        94,
+        88
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        125,
+        125
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        454
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797300000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797559200
+      ]
+    },
+    {
+      "itemId": 192,
+      "name": "ВАЗ 2170",
+      "market_name": "АЗ 2170",
+      "imageName": "",
+      "description": "Флагманский статус отечественной уличной сцены и неизменный лидер стильных городских проектов. Отличная ценность и узнаваемость.",
+      "offerType": "universal",
+      "price": [
+        150,
+        113,
+        105
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        150,
+        150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        455
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797818400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798077600
+      ]
+    },
+    {
+      "itemId": 193,
+      "name": "BMW M3 E30",
+      "market_name": "Boomer 3 E30",
+      "imageName": "",
+      "description": "Первое поколение легендарной спортивной серии с богатым раллийным и трековым наследием. Настоящий раритет с высоким статусом.",
+      "offerType": "universal",
+      "price": [
+        150,
+        113,
+        105
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        150,
+        150
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        456
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1797559200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1797818400
+      ]
+    },
+    {
+      "itemId": 194,
+      "name": "Нива Urban",
+      "market_name": "Родина 4x4",
+      "imageName": "",
+      "description": "Современный вариант легендарного рамного внедорожника с полным приводом. Высокая проходимость и стиль для любых маршрутов.",
+      "offerType": "universal",
+      "price": [
+        175,
+        131,
+        122
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        175,
+        175
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        457
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798336800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798596000
+      ]
+    },
+    {
+      "itemId": 195,
+      "name": "UAZ Hunter",
+      "market_name": "Track 4x4",
+      "imageName": "",
+      "description": "Настоящий символ сурового внедорожного характера и беспрепятственных путешествий. Несокрушимый полный привод для дикой природы.",
+      "offerType": "universal",
+      "price": [
+        180,
+        135,
+        126
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        180,
+        180
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        458
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798596000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1798855200
+      ]
+    },
+    {
+      "itemId": 196,
+      "name": "Lada Granta",
+      "market_name": "АЗ Граната",
+      "imageName": "",
+      "description": "Народный фаворит современных городских улиц с тихим ходом и минимальным расходом. Практичное решение по скромной стоимости.",
+      "offerType": "universal",
+      "price": [
+        185,
+        139,
+        130
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        185,
+        185
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        459
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1798855200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799114400
+      ]
+    },
+    {
+      "itemId": 197,
+      "name": "Mazda Sedan 3",
+      "market_name": "Sedan 3",
+      "imageName": "",
+      "description": "Японская динамика и стремительный молодежный дизайн в выразительном кузове. Отличный баланс комфорта и управленческой точности.",
+      "offerType": "universal",
+      "price": [
+        190,
+        143,
+        133
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        190,
+        190
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        460
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799114400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799373600
+      ]
+    },
+    {
+      "itemId": 198,
+      "name": "Toyota Mark II",
+      "market_name": "Mark II",
+      "imageName": "",
+      "description": "Икона японской дрифт-культуры и легендарный представитель правого руля. Выдающийся заднеприводный седан с огромным авторитетом.",
+      "offerType": "universal",
+      "price": [
+        210,
+        158,
+        147
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        210,
+        210
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        461
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799373600
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799632800
+      ]
+    },
+    {
+      "itemId": 199,
+      "name": "Mercedes-Benz W124",
+      "market_name": "W124",
+      "imageName": "",
+      "description": "Эталон немецкой прочности и представительского стиля 90-х годов. Комфортный бизнес-класс со строгими лаконичными формами.",
+      "offerType": "universal",
+      "price": [
+        220,
+        165,
+        154
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        220,
+        220
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        462
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799632800
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1799892000
+      ]
+    },
+    {
+      "itemId": 200,
+      "name": "Jeep Grand Cherokee JZ",
+      "market_name": "Grand Big",
+      "imageName": "",
+      "description": "Мускулистый американский внедорожник с брутальной осанкой и богатой историей. Мощное пополнение автопарка для любых дорог.",
+      "offerType": "universal",
+      "price": [
+        225,
+        169,
+        158
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        225,
+        225
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        463
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1799892000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800151200
+      ]
+    },
+    {
+      "itemId": 201,
+      "name": "Audi 100 C4",
+      "market_name": "Aura 100",
+      "imageName": "",
+      "description": "Легендарный немецкий седан с высоким ресурсом агрегатов и тихим плавным ходом. Доступный билет в мир европейского комфорта.",
+      "offerType": "universal",
+      "price": [
+        260,
+        195,
+        182
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        260,
+        260
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        464
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800151200
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800410400
+      ]
+    },
+    {
+      "itemId": 202,
+      "name": "BMW M3 E36",
+      "market_name": "Boomer 3 E36",
+      "imageName": "",
+      "description": "Культовое спортивное купе 90-х годов с эталонной управляемостью и узнаваемым звуком. Ценный экземпляр для ценителей скорости.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        210
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        465
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1800410400
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1800669600
+      ]
+    },
+    {
+      "itemId": 203,
+      "name": "ЛуАЗ 969",
+      "market_name": "ЛАЗА 969",
+      "imageName": "",
+      "description": "Уникальный легкий вездеход с феноменальной проходимостью. Необычный ретро-проект для уверенного движения по сложному рельефу.",
+      "offerType": "universal",
+      "price": [
+        300,
+        225,
+        210
+      ],
+      "salePercent": [
+        0,
+        25,
+        30
+      ],
+      "fakePrice": [
+        0,
+        300,
+        300
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        466
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1801188000
+      ],
+      "endTime": [
+        0,
+        1796868000,
+        1801447200
+      ]
+    },
+    {
+      "itemId": 204,
+      "name": "Lada Vesta Sedan",
+      "market_name": "Nevesta 1.5",
+      "imageName": "",
+      "description": "Современная отечественная модель с яркой Х-графикой и сбалансированным салоном. Отличное решение для ежедневных поездок.",
+      "offerType": "universal",
+      "price": [
+        350,
+        262,
+        263
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        350,
+        350
+      ],
+      "startTime": [
+        0,
+        1793152800,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793412000,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        467
+      ]
+    },
+    {
+      "itemId": 205,
+      "name": "Mercedes-Benz E420 W210",
+      "market_name": "E420",
+      "imageName": "",
+      "description": "Узнаваемый «глазастый» представитель бизнес-класса с мощным V8. Высший уровень комфорта по привлекательной стоимости.",
+      "offerType": "universal",
+      "price": [
+        350,
+        262,
+        263
+      ],
+      "salePercent": [
+        0,
+        25,
+        25
+      ],
+      "fakePrice": [
+        0,
+        350,
+        350
+      ],
+      "startTime": [
+        0,
+        1793412000,
+        1795658400
+      ],
+      "endTime": [
+        0,
+        1793671200,
+        1796868000
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        468
+      ]
+    },
+    {
+      "itemId": 206,
+      "name": "Audi A6 C5",
+      "market_name": "Aura 6",
+      "imageName": "",
+      "description": "Элегантный немецкий седан с обтекаемым кузовом и технологичным полным приводом. Прекрасный показатель статуса и плавности хода.",
+      "offerType": "universal",
+      "price": [
+        500,
+        375,
+        225,
+        375
+      ],
+      "salePercent": [
+        0,
+        25,
+        55,
+        25
+      ],
+      "fakePrice": [
+        0,
+        500,
+        500,
+        500
+      ],
+      "priceCurrency": "bc",
+      "purchaseLimit": 0,
+      "shopAwardId": [
+        469
+      ],
+      "startTime": [
+        0,
+        1795658400,
+        1796263200,
+        1796522400
+      ],
+      "endTime": [
+        0,
+        1796263200,
+        1796522400,
+        1796868000
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "sectionId": 1,
+      "title": "Популярное",
+      "blockType": "grid_regular",
+      "layoutName": "4x2",
+      "order": 1000,
+      "itemIds": [
+        86,
+        130,
+        132,
+        129,
+        141,
+        160,
+        116,
+        131
+      ]
+    },
+    {
+      "sectionId": 2,
+      "title": "Все товары",
+      "blockType": "grid_catalog",
+      "layoutName": "",
+      "filter": "cars",
+      "order": 1001,
+      "itemIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ]
+    },
+    {
+      "sectionId": 3,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1792288800,
+      "endTime": 1792893600,
+      "order": 0,
+      "itemIds": [
+        90,
+        164,
+        3,
+        131
+      ]
+    },
+    {
+      "sectionId": 4,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1792893600,
+      "endTime": 1793152800,
+      "order": 1,
+      "itemIds": [
+        91,
+        51,
+        4,
+        176
+      ]
+    },
+    {
+      "sectionId": 5,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793152800,
+      "endTime": 1793412000,
+      "order": 2,
+      "itemIds": [
+        92,
+        33,
+        204,
+        177
+      ]
+    },
+    {
+      "sectionId": 6,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793412000,
+      "endTime": 1793671200,
+      "order": 3,
+      "itemIds": [
+        93,
+        170,
+        205,
+        178
+      ]
+    },
+    {
+      "sectionId": 7,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793671200,
+      "endTime": 1793930400,
+      "order": 4,
+      "itemIds": [
+        95,
+        34,
+        5,
+        179
+      ]
+    },
+    {
+      "sectionId": 8,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1793930400,
+      "endTime": 1794189600,
+      "order": 5,
+      "itemIds": [
+        94,
+        35,
+        6,
+        180
+      ]
+    },
+    {
+      "sectionId": 9,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794189600,
+      "endTime": 1794448800,
+      "order": 6,
+      "itemIds": [
+        96,
+        36,
+        8,
+        132
+      ]
+    },
+    {
+      "sectionId": 10,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794448800,
+      "endTime": 1794708000,
+      "order": 7,
+      "itemIds": [
+        161,
+        37,
+        7,
+        181
+      ]
+    },
+    {
+      "sectionId": 11,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794708000,
+      "endTime": 1794967200,
+      "order": 8,
+      "itemIds": [
+        149,
+        38,
+        9,
+        182
+      ]
+    },
+    {
+      "sectionId": 12,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1794967200,
+      "endTime": 1795226400,
+      "order": 9,
+      "itemIds": [
+        97,
+        39,
+        10,
+        184
+      ]
+    },
+    {
+      "sectionId": 13,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1795226400,
+      "endTime": 1795485600,
+      "order": 10,
+      "itemIds": [
+        98,
+        1,
+        11,
+        183
+      ]
+    },
+    {
+      "sectionId": 14,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1795485600,
+      "endTime": 1795658400,
+      "order": 11,
+      "itemIds": [
+        99,
+        135,
+        12,
+        185
+      ]
+    },
+    {
+      "sectionId": 15,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1795658400,
+      "endTime": 1796004000,
+      "order": 12,
+      "itemIds": [
+        144,
+        40,
+        13,
+        186
+      ]
+    },
+    {
+      "sectionId": 16,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796004000,
+      "endTime": 1796263200,
+      "order": 13,
+      "itemIds": [
+        146,
+        41,
+        14,
+        187
+      ]
+    },
+    {
+      "sectionId": 17,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796263200,
+      "endTime": 1796522400,
+      "order": 14,
+      "itemIds": [
+        152,
+        42,
+        206,
+        188
+      ]
+    },
+    {
+      "sectionId": 18,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796522400,
+      "endTime": 1796868000,
+      "order": 15,
+      "itemIds": [
+        150,
+        43,
+        15,
+        175
+      ]
+    },
+    {
+      "sectionId": 19,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1796868000,
+      "endTime": 1797040800,
+      "order": 16,
+      "itemIds": [
+        145,
+        44,
+        16,
+        189
+      ]
+    },
+    {
+      "sectionId": 20,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797040800,
+      "endTime": 1797300000,
+      "order": 17,
+      "itemIds": [
+        100,
+        45,
+        17,
+        190
+      ]
+    },
+    {
+      "sectionId": 21,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797300000,
+      "endTime": 1797559200,
+      "order": 18,
+      "itemIds": [
+        153,
+        165,
+        19,
+        191
+      ]
+    },
+    {
+      "sectionId": 22,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797559200,
+      "endTime": 1797818400,
+      "order": 19,
+      "itemIds": [
+        160,
+        143,
+        18,
+        193
+      ]
+    },
+    {
+      "sectionId": 23,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1797818400,
+      "endTime": 1798077600,
+      "order": 20,
+      "itemIds": [
+        159,
+        171,
+        21,
+        192
+      ]
+    },
+    {
+      "sectionId": 24,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798077600,
+      "endTime": 1798336800,
+      "order": 21,
+      "itemIds": [
+        101,
+        147,
+        141,
+        133
+      ]
+    },
+    {
+      "sectionId": 25,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798336800,
+      "endTime": 1798596000,
+      "order": 22,
+      "itemIds": [
+        102,
+        166,
+        20,
+        194
+      ]
+    },
+    {
+      "sectionId": 26,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798596000,
+      "endTime": 1798855200,
+      "order": 23,
+      "itemIds": [
+        103,
+        46,
+        23,
+        195
+      ]
+    },
+    {
+      "sectionId": 27,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1798855200,
+      "endTime": 1799114400,
+      "order": 24,
+      "itemIds": [
+        172,
+        47,
+        22,
+        196
+      ]
+    },
+    {
+      "sectionId": 28,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799114400,
+      "endTime": 1799373600,
+      "order": 25,
+      "itemIds": [
+        104,
+        52,
+        142,
+        197
+      ]
+    },
+    {
+      "sectionId": 29,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799373600,
+      "endTime": 1799632800,
+      "order": 26,
+      "itemIds": [
+        105,
+        136,
+        163,
+        198
+      ]
+    },
+    {
+      "sectionId": 30,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799632800,
+      "endTime": 1799892000,
+      "order": 27,
+      "itemIds": [
+        106,
+        53,
+        24,
+        199
+      ]
+    },
+    {
+      "sectionId": 31,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1799892000,
+      "endTime": 1800151200,
+      "order": 28,
+      "itemIds": [
+        107,
+        54,
+        25,
+        200
+      ]
+    },
+    {
+      "sectionId": 32,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800151200,
+      "endTime": 1800410400,
+      "order": 29,
+      "itemIds": [
+        108,
+        55,
+        26,
+        201
+      ]
+    },
+    {
+      "sectionId": 33,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800410400,
+      "endTime": 1800669600,
+      "order": 30,
+      "itemIds": [
+        109,
+        56,
+        27,
+        202
+      ]
+    },
+    {
+      "sectionId": 34,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800669600,
+      "endTime": 1800928800,
+      "order": 31,
+      "itemIds": [
+        110,
+        167,
+        134,
+        2
+      ]
+    },
+    {
+      "sectionId": 35,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1800928800,
+      "endTime": 1801188000,
+      "order": 32,
+      "itemIds": [
+        111,
+        137,
+        28,
+        169
+      ]
+    },
+    {
+      "sectionId": 36,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1801188000,
+      "endTime": 1801447200,
+      "order": 33,
+      "itemIds": [
+        112,
+        57,
+        29,
+        203
+      ]
+    },
+    {
+      "sectionId": 37,
+      "title": "Доступно сейчас",
+      "blockType": "grid_regular",
+      "layoutName": "specialLike",
+      "startTime": 1801447200,
+      "endTime": 1801706400,
+      "order": 34,
+      "itemIds": [
+        113,
+        58,
+        31,
+        131
+      ]
+    }
+  ]
+}

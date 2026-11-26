@@ -1,0 +1,326 @@
+﻿{
+  "gameplay": {
+    "round": {
+      "aim_timeout_sec": 45.0,
+      "aim_timer_urgent_thr_sec": 10.0,
+      "aim_timer_caption_text": "Время",
+      "force_first_person_camera": true,
+      "skip_available": true
+    },
+    "crane": {
+      "rope_min_length_m": 3.5,
+      "rope_max_length_m": 12.0,
+      "hoist_speed_m_per_sec": 2.0,
+      "yaw_manual_speed_deg_per_sec": 13.0,
+      "yaw_auto_speed_deg_per_sec": 18.0,
+      "telescope_speed_m_per_sec": 2.5,
+      "hoist_ease_dur_sec": 0.4,
+      "yaw_ease_dur_sec": 0.2,
+      "telescope_ease_dur_sec": 0.2,
+      "inner_ring_reach_m": 0.0,
+      "outer_ring_reach_m": 7.0
+    },
+    "rings": {
+      "inner": {
+        "radius": 12.3,
+        "angular_speed_deg_per_sec": 45.0,
+        "slot_center_angles_deg": [0.0, 60.0, 120.0, 180.0, 240.0, 300.0]
+      },
+      "outer": {
+        "radius": 18.1,
+        "angular_speed_deg_per_sec": -30.0,
+        "slot_center_angles_deg": [0.0, 36.0, 72.0, 108.0, 144.0, 180.0, 216.0, 252.0, 288.0, 324.0]
+      },
+      "ease_in_dur_sec": 0.7
+    },
+    "stopping": {
+      "pickup_descent_dur_sec": 4.25,
+      "active_ring_stop_lead_sec": 0.15,
+      "inactive_ring_variance_sec": 0.5
+    },
+    "skip": {
+      "final_descent_distance_m": 3.0,
+      "skip_button_text": "Пропустить"
+    },
+    "exit": {
+      "countdown_sec": 15.0,
+      "countdown_message": "Выйди из крана до окончания таймера.",
+      "leave_button_text": "Выйти"
+    },
+    "claim": {
+      "claim_timeout_sec": 20.0,
+      "countdown_message": "Контейнер перемещен. Следуй к нему и забери награду до окончания времени.",
+      "pending_prize_message": "Сначала забери награду из отмеченного контейнера.",
+      "owner_3d_text": "Владелец: %s",
+      "owner_3d_text_height_m": 3.5
+    },
+    "transitions": {
+      "fade_out_dur_sec": 0.35,
+      "fade_in_dur_sec": 0.6
+    }
+  },
+  "awardType": [
+    {"type": "vehicle", "name": "Транспортное средство"},
+    {"type": "skin", "name": "Одежда или скин персонажа"},
+    {"type": "accessory", "name": "Аксессуар"},
+    {"type": "soft", "name": "Игровая валюта"},
+    {"type": "event_currency", "name": "Ивентовая валюта"}
+  ],
+  "awards": [
+    {"id": "v_bentley_continental_gt", "type": "vehicle", "internalId": 261, "name": "Bentley Continental GT", "marketName": "Materic", "rarity": 5},
+    {"id": "v_mercedes_eqs580", "type": "vehicle", "internalId": 260, "name": "Mercedes-Benz EQS580", "marketName": "G6", "rarity": 5},
+    {"id": "v_bmw_750li", "type": "vehicle", "internalId": 269, "name": "BMW 7-Series 750Li", "marketName": "Boomer 7 750Li", "rarity": 5},
+    {"id": "v_li9", "type": "vehicle", "internalId": 558, "name": "Li9", "marketName": "Lision 9", "rarity": 4},
+    {"id": "v_nissan_teana_j32", "type": "vehicle", "internalId": 489, "name": "Nissan Teana J32", "marketName": "Tiаna 32 J", "rarity": 3},
+    {"id": "v_tesla_roadster", "type": "vehicle", "internalId": 557, "name": "Tesla Roadster", "marketName": "Electra Roadster", "rarity": 5},
+    {"id": "v_mercedes_s650", "type": "vehicle", "internalId": 228, "name": "Mercedes-Benz MB S650", "marketName": "S650", "rarity": 5},
+    {"id": "v_porsche_cayenne_s", "type": "vehicle", "internalId": 296, "name": "Porsche Cayenne S", "marketName": "Canyone", "rarity": 5},
+    {"id": "v_toyota_prius_2018", "type": "vehicle", "internalId": 358, "name": "Toyota Prius 2018", "marketName": "Premierus", "rarity": 3},
+    {"id": "v_rolls_royce_phantom", "type": "vehicle", "internalId": 233, "name": "Rolls-Royce Phantom", "marketName": "Sapphire", "rarity": 5},
+    {"id": "v_ferrari_488_pista", "type": "vehicle", "internalId": 289, "name": "Ferrari 488 Pista", "marketName": "488 Pizza", "rarity": 5},
+    {"id": "v_audi_rs6_c8", "type": "vehicle", "internalId": 319, "name": "Audi RS6 C8", "marketName": "Aura Road 6S", "rarity": 5},
+    {"id": "v_mercedes_e63_w212", "type": "vehicle", "internalId": 273, "name": "Mercedes-Benz E63 W212", "marketName": "E63", "rarity": 4},
+    {"id": "v_toyota_camry_xv55", "type": "vehicle", "internalId": 293, "name": "Toyota Camry XV55", "marketName": "Camrita 55", "rarity": 3},
+    {"id": "s_emelya", "type": "skin", "internalId": 464, "name": "Емеля", "marketName": "Емеля", "rarity": 2},
+    {"id": "s_flower_healer", "type": "skin", "internalId": 449, "name": "Знахарь цветочный", "marketName": "Знахарь цветочный", "rarity": 3},
+    {"id": "s_citadel_maester", "type": "skin", "internalId": 439, "name": "Мейстер цитадели", "marketName": "Мейстер цитадели", "rarity": 3},
+    {"id": "s_wizard", "type": "skin", "internalId": 443, "name": "Маг волшебник", "marketName": "Маг волшебник", "rarity": 3},
+    {"id": "a_happy_pumpkin", "type": "accessory", "internalId": 660, "name": "Весёлая тыква", "marketName": "Весёлая тыква", "rarity": 2},
+    {"id": "a_zombie_mask", "type": "accessory", "internalId": 662, "name": "Маска Вампир", "marketName": "Маска Вампир", "rarity": 2},
+    {"id": "a_witch_mask", "type": "accessory", "internalId": 147, "name": "Белая маска ( плачущая )", "marketName": "Белая маска ( плачущая )", "rarity": 2},
+    {"id": "a_broom", "type": "accessory", "internalId": 150, "name": "Метла", "marketName": "Метла", "rarity": 2},
+    {"id": "event_cur_1k", "type": "event_currency", "amount": [1000, 1000], "name": "Монеты ×1000", "marketName": "Монеты ×1000", "rarity": 1},
+    {"id": "event_cur_2k", "type": "event_currency", "amount": [2000, 2000], "name": "Монеты ×2000", "marketName": "Монеты ×2000", "rarity": 2},
+    {"id": "event_cur_3k", "type": "event_currency", "amount": [3000, 3000], "name": "Монеты ×3000", "marketName": "Монеты ×3000", "rarity": 2},
+    {"id": "event_cur_10k", "type": "event_currency", "amount": [10000, 10000], "name": "Монеты ×10000", "marketName": "Монеты ×10000", "rarity": 4},
+    {"id": "soft_100k", "type": "soft", "amount": [100000, 100000], "name": "Рубли: 100 000", "marketName": "Рубли: 100 000", "rarity": 1},
+    {"id": "soft_250k", "type": "soft", "amount": [250000, 250000], "name": "Рубли: 250 000", "marketName": "Рубли: 250 000", "rarity": 2},
+    {"id": "soft_500k", "type": "soft", "amount": [500000, 500000], "name": "Рубли: 500 000", "marketName": "Рубли: 500 000", "rarity": 3},
+    {"id": "soft_1m", "type": "soft", "amount": [1000000, 1000000], "name": "Рубли: 1 000 000", "marketName": "Рубли: 1 000 000", "rarity": 4}
+  ],
+  "awardModels": [
+    {"awardType": "accessory", "rarity": [1], "modelId": 100408},
+    {"awardType": "accessory", "rarity": [2], "modelId": 100410},
+    {"awardType": "accessory", "rarity": [3], "modelId": 100412},
+    {"awardType": "skin", "rarity": [1, 2], "modelId": 100414},
+    {"awardType": "skin", "rarity": [3, 4], "modelId": 100416},
+    {"awardType": "skin", "rarity": [5], "modelId": 100418},
+    {"awardType": "soft", "rarity": [1, 2, 3, 4, 5], "modelId": 43334},
+    {"awardType": "event_currency", "rarity": [1, 2, 3, 4, 5], "modelId": 43334}
+  ],
+  "containers": {
+    "mass": 900.0,
+    "door_animation_dur_sec": 0.6,
+    "defaultTextureName": "H26_ContComGrey_C",
+    "closedObjModel": 43246,
+    "objModel": 100393,
+    "doorModelL": 100395,
+    "doorModelR": 100394,
+    "doors": {
+      "cordsDoorLeftClosed": [-1.58534, -4.86842, 0.378041, 0.0, 0.0, 0.0],
+      "cordsDoorRightClosed": [1.58323, -4.87325, 0.378041, 0.0, 0.0, 0.0],
+      "cordsDoorLeftOpened": [-1.58534, -4.86842, 0.378041, 0.0, 0.0, -145.0],
+      "cordsDoorRightOpened": [1.58323, -4.87325, 0.378041, 0.0, 0.0, 145.0]
+    },
+    "types": [
+      {
+        "id": "container_type_blue",
+        "textureRemap": [ "cont_contcomita_c", "H26_ContComBlue_C" ],
+        "textureOverlayRemap": ["cranelocation/h26_contempty_c", "H26_ContSpider_C" ],
+        "awards": [
+          {"id": "v_bentley_continental_gt", "dropWeight": 1},
+          {"id": "v_mercedes_eqs580", "dropWeight": 1},
+          {"id": "v_bmw_750li", "dropWeight": 1},
+          {"id": "v_li9", "dropWeight": 1},
+          {"id": "v_nissan_teana_j32", "dropWeight": 8},
+          {"id": "s_emelya", "dropWeight": 40},
+          {"id": "s_flower_healer", "dropWeight": 60},
+          {"id": "s_citadel_maester", "dropWeight": 60},
+          {"id": "s_wizard", "dropWeight": 60},
+          {"id": "a_happy_pumpkin", "dropWeight": 60},
+          {"id": "a_zombie_mask", "dropWeight": 60},
+          {"id": "a_witch_mask", "dropWeight": 60},
+          {"id": "a_broom", "dropWeight": 60},
+          {"id": "event_cur_1k", "dropWeight": 150},
+          {"id": "event_cur_2k", "dropWeight": 50},
+          {"id": "event_cur_3k", "dropWeight": 60},
+          {"id": "event_cur_10k", "dropWeight": 10},
+          {"id": "soft_100k", "dropWeight": 150},
+          {"id": "soft_250k", "dropWeight": 50},
+          {"id": "soft_500k", "dropWeight": 50},
+          {"id": "soft_1m", "dropWeight": 8}
+        ]
+      },
+      {
+        "id": "container_type_purple",
+        "textureRemap": [ "cont_contcomita_c", "H26_ContComPurple_C" ],
+        "textureOverlayRemap": [ "cranelocation/h26_contempty_c", "H26_ContClown_C" ],
+        "awards": [
+          {"id": "v_tesla_roadster", "dropWeight": 1},
+          {"id": "v_mercedes_s650", "dropWeight": 1},
+          {"id": "v_porsche_cayenne_s", "dropWeight": 1},
+          {"id": "v_li9", "dropWeight": 1},
+          {"id": "v_toyota_prius_2018", "dropWeight": 8},
+          {"id": "s_emelya", "dropWeight": 40},
+          {"id": "s_flower_healer", "dropWeight": 60},
+          {"id": "s_citadel_maester", "dropWeight": 60},
+          {"id": "s_wizard", "dropWeight": 60},
+          {"id": "a_happy_pumpkin", "dropWeight": 60},
+          {"id": "a_zombie_mask", "dropWeight": 60},
+          {"id": "a_witch_mask", "dropWeight": 60},
+          {"id": "a_broom", "dropWeight": 60},
+          {"id": "event_cur_1k", "dropWeight": 150},
+          {"id": "event_cur_2k", "dropWeight": 50},
+          {"id": "event_cur_3k", "dropWeight": 60},
+          {"id": "event_cur_10k", "dropWeight": 10},
+          {"id": "soft_100k", "dropWeight": 150},
+          {"id": "soft_250k", "dropWeight": 50},
+          {"id": "soft_500k", "dropWeight": 50},
+          {"id": "soft_1m", "dropWeight": 8}
+        ]
+      },
+      {
+        "id": "container_type_red",
+        "textureRemap": [ "cont_contcomita_c", "H26_ContComRed_C" ],
+        "textureOverlayRemap": [ "cranelocation/h26_contempty_c", "H26_ContBat_C" ],
+        "awards": [
+          {"id": "v_rolls_royce_phantom", "dropWeight": 1},
+          {"id": "v_ferrari_488_pista", "dropWeight": 1},
+          {"id": "v_audi_rs6_c8", "dropWeight": 1},
+          {"id": "v_mercedes_e63_w212", "dropWeight": 1},
+          {"id": "v_toyota_camry_xv55", "dropWeight": 8},
+          {"id": "s_emelya", "dropWeight": 40},
+          {"id": "s_flower_healer", "dropWeight": 60},
+          {"id": "s_citadel_maester", "dropWeight": 60},
+          {"id": "s_wizard", "dropWeight": 60},
+          {"id": "a_happy_pumpkin", "dropWeight": 60},
+          {"id": "a_zombie_mask", "dropWeight": 60},
+          {"id": "a_witch_mask", "dropWeight": 60},
+          {"id": "a_broom", "dropWeight": 60},
+          {"id": "event_cur_1k", "dropWeight": 150},
+          {"id": "event_cur_2k", "dropWeight": 50},
+          {"id": "event_cur_3k", "dropWeight": 60},
+          {"id": "event_cur_10k", "dropWeight": 10},
+          {"id": "soft_100k", "dropWeight": 150},
+          {"id": "soft_250k", "dropWeight": 50},
+          {"id": "soft_500k", "dropWeight": 50},
+          {"id": "soft_1m", "dropWeight": 8}
+        ]
+      }
+    ]
+  },
+  "integration": {
+    "crane_spawn_pos": [-2118.37, -2318.04, 3.26276],
+    "offloadZone": [-2118.37, -2318.04, 3.26276, 50],
+    "attempt": {
+      "ticket_resource_id": 1140,
+      "ticket_required_message": "Для игры в «Кран Фортуны» тебе необходим талон «%s». Его можно получить в первый pay day в день, Black Pass и Ленте События.",
+      "access_restriction_message": "Для участия в «Кране Фортуны» ты не должен находиться на работе в профессии, быть арестован или в состоянии погони."
+    },
+    "world_routing": {
+      "max_virtual_instances": 35,
+      "all_slots_busy_message": "К сожалению, все места заняты. Попробуй чуть позже.",
+      "start_failed_message": "Не удалось начать игру в «Кран Фортуны»."
+    },
+    "delivery_slots": [
+      {"id": 1, "cords": [-2142.18, -2334.96, 3.1391, 0.0, 0.0, -55.0], "player_spawn_pos_angle": [-2150.265715, -2340.621678, 3.1391, 305], "interaction_pos_radius": [-2146.169954, -2337.753796, 3.1391, 3]},
+      {"id": 2, "cords": [-2138.93, -2338.84, 3.13924, 0.0, 0.0, -45.0], "player_spawn_pos_angle": [-2145.909734, -2345.819734, 3.13924, 315], "interaction_pos_radius": [-2142.3742, -2342.2842, 3.13924, 3]},
+      {"id": 3, "cords": [-2135.05, -2342.09, 3.13937, 0.0, 0.0, -35.0], "player_spawn_pos_angle": [-2140.711678, -2350.175715, 3.13937, 325], "interaction_pos_radius": [-2137.843796, -2346.079954, 3.13937, 3]},
+      {"id": 4, "cords": [-2130.66, -2344.62, 3.13925, 0.0, 0.0, -25.0], "player_spawn_pos_angle": [-2134.831595, -2353.566015, 3.13925, 335], "interaction_pos_radius": [-2132.718504, -2349.034476, 3.13925, 3]},
+      {"id": 5, "cords": [-2125.97, -2346.3, 3.13912, 0.0, 0.0, -15.0], "player_spawn_pos_angle": [-2128.52476, -2355.834494, 3.13912, 345], "interaction_pos_radius": [-2127.230665, -2351.004865, 3.13912, 3]},
+      {"id": 6, "cords": [-2115.86, -2347.23, 3.13918, 0.0, 0.0, 5.0], "player_spawn_pos_angle": [-2114.9997, -2357.063273, 3.13918, 5], "interaction_pos_radius": [-2115.435479, -2352.0823, 3.13918, 3]},
+      {"id": 7, "cords": [-2110.87, -2346.35, 3.15087, 0.0, 0.0, 15.0], "player_spawn_pos_angle": [-2108.31524, -2355.884494, 3.15087, 15], "interaction_pos_radius": [-2109.609335, -2351.054865, 3.15087, 3]},
+      {"id": 8, "cords": [-2106.11, -2344.62, 3.13929, 0.0, 0.0, 25.0], "player_spawn_pos_angle": [-2101.938405, -2353.566015, 3.13929, 25], "interaction_pos_radius": [-2104.051496, -2349.034476, 3.13929, 3]},
+      {"id": 9, "cords": [-2101.73, -2342.09, 3.13914, 0.0, 0.0, 35.0], "player_spawn_pos_angle": [-2096.907560, -2348.819764, 3.13914, 35], "interaction_pos_radius": [-2098.936204, -2346.079954, 3.13914, 3]},
+      {"id": 10, "cords": [-2097.85, -2338.84, 3.13946, 0.0, 0.0, 45.0], "player_spawn_pos_angle": [-2091.512771, -2344.925217, 3.13946, 45], "interaction_pos_radius": [-2094.4058, -2342.2842, 3.13946, 3]}
+    ],
+    "target_slot": [-2120.91, -2347.75, 3.59129, 0.0, 0.0, -5.0],
+    "npc": {
+      "modelId": 43262,
+      "npc_pos_radius": [-2145.41, -2354.19, 5.25272, 3.0],
+      "waypoint_pos": [-2145.41, -2354.19, 3.25272]
+    }
+  },
+  "presentation": {
+    "camera_roles": {
+      "cabin_camera_id": "craneOfFortune1pp",
+      "work_camera_id": "craneOfFortune3ppNear",
+      "overview_camera_id": "craneOfFortune3ppFar"
+    },
+    "npc_interaction": {
+      "title_text": "Кран Фортуны",
+      "greeting_phrase_text": "TBD",
+      "interaction_3d_text": "Подойди для взаимодействия",
+      "select_button_text": "Выбрать",
+      "close_button_text": "Закрыть",
+      "back_button_text": "Назад",
+      "play_button_text": "Сыграть",
+      "talons_count_text": "Талонов: %d",
+      "rules_button_text": "Правила игры",
+      "rewards_button_text": "Награды",
+      "rewards_title_text": "Награды",
+      "container_type_1_button_text": "Синий контейнер",
+      "container_type_1_title_text": "Синий контейнер",
+      "container_type_1_rewards_description": "{FFFFFF}Одна из возможных наград:\n\n{E8D5A8}Автомобили:\n{FFFFFF}Materic\nG6\nBoomer 7 750Li\nLision 9\nTiаna 32 J\n\n{CCDDF2}Скины:\n{FFFFFF}Емеля\nЗнахарь\nМейстер\nМаг\n\n{DECDEB}Аксессуары:\n{FFFFFF}Весёлая тыква\nМаска Вампир\nБелая маска ( плачущая )\nМетла\n\n{CDE5D2}Монеты:\n{FFFFFF}1 000 / 2 000 / 3 000 / 10 000\n{E2E2E2}Рубли:\n{FFFFFF}100 000 / 250 000 / 500 000 / 1 000 000",
+      "container_type_2_button_text": "Фиолетовый контейнер",
+      "container_type_2_title_text": "Фиолетовый контейнер",
+      "container_type_2_rewards_description": "{FFFFFF}Одна из возможных наград:\n\n{E8D5A8}Автомобили:\n{FFFFFF}Electra Roadster\nS650\nCanyone\nLision 9\nPremierus\n\n{CCDDF2}Скины:\n{FFFFFF}Емеля\nЗнахарь\nМейстер\nМаг\n\n{DECDEB}Аксессуары:\n{FFFFFF}Весёлая тыква\nМаска Вампир\nБелая маска ( плачущая )\nМетла\n\n{CDE5D2}Монеты:\n{FFFFFF}1 000 / 2 000 / 3 000 / 10 000\n{E2E2E2}Рубли:\n{FFFFFF}100 000 / 250 000 / 500 000 / 1 000 000",
+      "container_type_3_button_text": "Красный контейнер",
+      "container_type_3_title_text": "Красный контейнер",
+      "container_type_3_rewards_description": "{FFFFFF}Одна из возможных наград:\n\n{E8D5A8}Автомобили:\n{FFFFFF}Sapphire\n488 Pizza\nAura Road 6S\nE63\nCamrita 55\n\n{CCDDF2}Скины:\n{FFFFFF}Емеля\nЗнахарь\nМейстер\nМаг\n\n{DECDEB}Аксессуары:\n{FFFFFF}Весёлая тыква\nМаска Вампир\nБелая маска ( плачущая )\nМетла\n\n{CDE5D2}Монеты:\n{FFFFFF}1 000 / 2 000 / 3 000 / 10 000\n{E2E2E2}Рубли:\n{FFFFFF}100 000 / 250 000 / 500 000 / 1 000 000",
+      "attraction_phrase_change_interval_sec": 150.0,
+      "attraction_phrases": [
+        "{FFE0A3}Вижу дорогу дальнюю, груз тяжелый, награду скорую!",
+        "{E2CCFF}Тайну имени тебе открою: тройка, семерка, тачка!",
+        "{FFE0A3}Будущее твое тяжелое — девятьсот килограммов!",
+        "{BDE5FF}Скилл или рандом? Да!",
+        "{FFD0B5}Автомобиль не роскошь, а главный приз!",
+        "{E2CCFF}Расскажу, что было, что будет, а что в контейнере — рандом покажет!",
+        "{BDE5FF}Тяжелый дроп. Буквально!",
+        "{BDE5FF}От каждого по талону, каждому по девятьсот килограммов!",
+        "{E2CCFF}Спойлеров не будет. Контейнер закрыт!",
+        "Тихо, не спеша, без лишней суеты кран распределял удачу среди населения.",
+        "{FFD0B5}Тачка, это ты? Нет, это контейнер.",
+        "{BDE5FF}Плюс вайб, если дернешь кран!",
+        "{FFD0B5}Вижу редкий дроп! А нет, показалось. Или нет?!",
+        "{E2CCFF}Гача-боги смотрят на тебя!",
+        "{BDE5FF}Если выпадет что-то обычное — мы этого разговора не помним!",
+        "{BDE5FF}У тебя 100% шанс получить... что-нибудь!",
+        "{E2CCFF}Вселенная отправила тебе пуш: «Забери лут!»",
+        "{FFE0A3}Карты легли идеально! Это подозрительно!",
+        "{FFE0A3}Предрекаю финансовый успех! Но не для всех!",
+        "{BDE5FF}У меня KPI и план по контейнерам... Не подведи!"
+      ]
+    },
+    "tutorial": {
+      "slides": [
+        {
+          "title": "Кран Фортуны",
+          "text": "Управляй краном, чтобы достать контейнер с одной из возможных наград. Список для каждого типа контейнера доступен в разделе <font color='#ffc700'>«Награды»</font>. На каждую игру <font color='#ffc700'>тратится талон «%s»</font>.",
+          "imageName": "tutorial_craneoffortune_01.png"
+        },
+        {
+          "title": "Управление",
+          "text": "<font color='#ffc700'>Поворачивай кран и изменяй вылет стрелы</font>, чтобы выбрать контейнер нужного типа, затем <font color='#ffc700'>нажми кнопку захвата</font>. Контейнеры продолжат движение до полной остановки. <font color='#ffc700'>Магнит захватит</font> контейнер, который окажется под ним <font color='#ffc700'>после остановки</font>.",
+          "imageName": "tutorial_craneoffortune_02.png"
+        },
+        {
+          "title": "Получение награды",
+          "text": "После захвата дальнейший перенос выполняется <font color='#ffc700'>автоматически</font>. Подойди к доставленному контейнеру и <font color='#ffc700'>забери приз</font>.",
+          "imageName": "tutorial_craneoffortune_03.png"
+        }
+      ]
+    }
+  },
+   "sounds": [
+    {"id": 1, "name_file": "Event/CraneFortuneGreeting.ogg", "loop": 0, "comment": "Приветственная реплика Fortune Teller при взаимодействии"},
+    {"id": 2, "name_file": "Event/CraneFortuneEnter.ogg", "loop": 0, "comment": "Подтверждение входа игрока в кран"},
+    {"id": 3, "name_file": "Event/CraneFortuneRingsLoop.ogg", "loop": 1, "comment": "Циклический звук вращения колец"},
+    {"id": 4, "name_file": "Event/CraneFortuneMechanismLoop.ogg", "loop": 1, "comment": "Циклический звук механизма крана при повороте, телескопировании и движении лебёдки"},
+    {"id": 5, "name_file": "Event/CraneFortuneMagnetAttach.ogg", "loop": 0, "comment": "Металлический звук прикрепления контейнера к магниту"},
+    {"id": 6, "name_file": "Event/CraneFortuneContainerPlace.ogg", "loop": 0, "comment": "Отпускание и установка контейнера на площадку"},
+    {"id": 7, "name_file": "Event/CraneFortuneDoors.ogg", "loop": 0, "comment": "Движение дверей контейнера выдачи при открытии и закрытии"},
+    {"id": 8, "name_file": "Event/CraneFortuneReward.ogg", "loop": 0, "comment": "Фанфара при фактической выдаче награды"},
+    {"id": 9, "name_file": "Event/SFX_ContainerFight_Timer.ogg", "loop": 0, "comment": "Тик таймера прицеливания в красной зоне"}
+  ]
+}

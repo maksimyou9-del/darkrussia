@@ -1,0 +1,262 @@
+﻿{
+  "special": [
+    {
+      "type": "big",
+      "coords": [1, 1]
+    },
+    {
+      "type": "middle",
+      "coords": [3, 1],
+      "bgImage": "bg_donate2_case_card.png"
+    },
+    {
+      "type": "small",
+      "coords": [3, 2],
+      "bgImage": "img_currency_BC_1.png"
+    },
+    {
+      "type": "small",
+      "coords": [4, 2]
+    }
+  ],
+
+  "specialLike": [
+    {
+      "type": "big",
+      "coords": [1, 1],
+      "bgImage": "bg_donate2_itemcadr_large.png"
+    },
+    {
+      "type": "middle",
+      "coords": [3, 1],
+      "bgImage": "bg_donate2_itemcadr_medium.png"
+    },
+    {
+      "type": "small",
+      "coords": [3, 2]
+    },
+    {
+      "type": "small",
+      "coords": [4, 2]
+    }
+  ],
+
+  "2big": [
+    {
+      "type": "big",
+      "coords": [1, 1],
+      "bgImage": "img_donate_bandle_newcomer.png"
+    },
+    {
+      "type": "big",
+      "coords": [3, 1],
+      "bgImage": "img_donate_bandle_major.png"
+    }
+  ],
+  "kish1": [
+    {
+      "type": "big",
+      "coords": [1, 1],
+      "bgImage": "img_donate_bandle_newcomer.png"
+    },
+    {
+      "type": "big",
+      "coords": [3, 1],
+      "bgImage": "img_donate_bandle_kish1.png"
+    }
+  ],
+  "kish2": [
+    {
+      "type": "big",
+      "coords": [1, 1],
+      "bgImage": "img_donate_bandle_kish1.png"
+    },
+    {
+      "type": "big",
+      "coords": [3, 1],
+      "bgImage": "img_donate_bandle_kish2.png"
+    }
+  ],
+  "kish3": [
+    {
+      "type": "big",
+      "coords": [1, 1],
+      "bgImage": "img_donate_bandle_newcomer.png"
+    },
+    {
+      "type": "big",
+      "coords": [3, 1],
+      "bgImage": "img_donate_bandle_kish1.png"
+    }
+  ],
+  "blackFriday": [
+    {
+      "type": "middle",
+      "coords": [1, 1],
+      "bgImage": "img_donate_bandle_case1.png"
+    },
+    {
+      "type": "big",
+      "coords": [3, 1],
+      "bgImage": "img_donate_bandle_macan1"
+    },
+    {
+      "type": "middle",
+      "coords": [1, 2],
+      "bgImage": "img_donate_bandle_case2.png"
+    }
+  ],
+  "4x2": [
+    {
+      "type": "small",
+      "coords": [1, 1]
+    },
+    {
+      "type": "small",
+      "coords": [2, 1]
+    },
+    {
+      "type": "small",
+      "coords": [3, 1]
+    },
+    {
+      "type": "small",
+      "coords": [4, 1]
+    },
+    {
+      "type": "small",
+      "coords": [1, 2]
+    },
+    {
+      "type": "small",
+      "coords": [2, 2]
+    },
+    {
+      "type": "small",
+      "coords": [3, 2]
+    },
+    {
+      "type": "small",
+      "coords": [4, 2]
+    }
+  ],
+  "replenishmentCustom": [
+    {
+      "type": "small",
+      "coords": [1, 1],
+      "bgImage": "img_currency_BC_1.png"
+    },
+    {
+      "type": "small",
+      "coords": [2, 1],
+      "bgImage": "img_currency_BC_2.png"
+    },
+    {
+      "type": "small",
+      "coords": [3, 1],
+      "bgImage": "img_currency_BC_3.png"
+    },
+    {
+      "type": "small",
+      "coords": [4, 1],
+      "bgImage": "img_currency_BC_4.png"
+    },
+    {
+      "type": "small",
+      "coords": [1, 2],
+      "bgImage": "img_currency_BC_5.png"
+    },
+    {
+      "type": "small",
+      "coords": [2, 2],
+      "bgImage": "img_currency_BC_6.png"
+    },
+    {
+      "type": "small",
+      "coords": [3, 2],
+      "bgImage": "img_currency_BC_7.png"
+    },
+    {
+      "type": "small",
+      "coords": [4, 2]
+    }
+  ],
+  "replenishmentWithoutCustom": [
+  {
+    "type": "small",
+    "coords": [1, 1],
+    "bgImage": "img_currency_BC_1.png"
+  },
+  {
+    "type": "small",
+    "coords": [2, 1],
+    "bgImage": "img_currency_BC_2.png"
+  },
+  {
+    "type": "small",
+    "coords": [3, 1],
+    "bgImage": "img_currency_BC_3.png"
+  },
+  {
+    "type": "small",
+    "coords": [4, 1],
+    "bgImage": "img_currency_BC_4.png"
+  },
+  {
+    "type": "small",
+    "coords": [1, 2],
+    "bgImage": "img_currency_BC_5.png"
+  },
+  {
+    "type": "small",
+    "coords": [2, 2],
+    "bgImage": "img_currency_BC_6.png"
+  },
+  {
+    "type": "middle",
+    "coords": [3, 2],
+    "bgImage": "img_currency_BC_7.png"
+  }
+],
+"4x2Ruble": [
+    {
+      "type": "small",
+      "coords": [1, 1],
+      "bgImage": "img_currency_ruble_1.png"
+    },
+    {
+      "type": "small",
+      "coords": [2, 1],
+      "bgImage": "img_currency_ruble_2.png"
+    },
+    {
+      "type": "small",
+      "coords": [3, 1],
+      "bgImage": "img_currency_ruble_3.png"
+    },
+    {
+      "type": "small",
+      "coords": [4, 1],
+      "bgImage": "img_currency_ruble_4.png"
+    },
+    {
+      "type": "small",
+      "coords": [1, 2],
+      "bgImage": "img_currency_ruble_5.png"
+    },
+    {
+      "type": "small",
+      "coords": [2, 2],
+      "bgImage": "img_currency_ruble_6.png"
+    },
+    {
+      "type": "small",
+      "coords": [3, 2],
+      "bgImage": "img_currency_ruble_7.png"
+    },
+    {
+      "type": "small",
+      "coords": [4, 2]
+    }
+  ]
+}

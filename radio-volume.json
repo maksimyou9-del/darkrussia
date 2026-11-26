@@ -1,0 +1,6 @@
+{
+  "defaultVolume": 0.5,
+  "maxVolumeGain": 0.75,
+  "userVolumeScale": 1.0,
+  "serverVolumeScale": 1.0
+}

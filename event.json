@@ -1,0 +1,941 @@
+﻿{
+    "music"          : {
+        "hubMusic": {
+            "music" : "Event/Season7HubMusic.ogg",
+            "coords": [-2123.92, -2376.57, 4.56, 80.0]
+        },
+        "uiMusic" : "Event/Season7MainScreen.ogg"
+    },
+    "gps"            : {
+        "gpsBtnText"  : "Событие Продавец Кошмаров",
+        "gpsBtnCoords": [-2117.970458, -2388.626708, 5.133314]
+    },
+    "greenZone"      : {
+        "isEnable": true,
+        "coords"  : [-2123.92, -2376.57, 4.56, 105.0]
+    },
+    "offloadZone"    : {
+        "isEnable": true,
+        "coords"  : [
+            [-2209.96, -2440.71, -2080.81, -2300.40]
+        ]
+    },
+    "noCollisionZone": {
+        "isEnable": true,
+        "coords"  : [
+            [-2209.96, -2413.71, -2080.81, -2300.40]
+        ]
+    },
+    "hubAutoCoords"  : [
+        {
+            "id": 28799,
+            "vinyl": "remapttbody117",
+            "color": [1, 36],
+            "bodykit": [2751, 2752, 2753,2754],
+            "coords": [-2159.97, -2408.57, 8.96, 0.0, 0.0, 66.9],
+            "collisionObjectModelId": 43320,
+            "collisionObjectPosition": [-2159.94, -2408.57, 6.45557, 0.0, 0.0, 0.0]
+        },
+        {
+            "id"     : 28801,
+            "vinyl"  : "remapttbody119",
+            "color"  : [1, 0],
+            "bodykit": [2772,2774,2776,2777,2779,2780,2781],
+            "coords" : [-2161.11, -2401.66, 8.20351, 0.0, 0.0, 95.0]
+        },
+        {
+            "id"     : 28792,
+            "vinyl"  : "remapssbody131",
+            "color"  : [1, 13],
+            "bodykit": [2806,2808,2809,2810,2811,2813,2815,2817,2818,2819],
+            "coords" : [-2166.03, -2412.33, 8.22188, 0.0, 0.0, 35.0]
+        },
+               {
+            "id": 28798,
+            "vinyl": "remapttbody120",
+            "color": [1, 36],
+            "bodykit": [2738,2739,2740,2741,2742],
+            "coords": [-2203.43, -2397.7, 5.52928, 0.0, 0.0, 9.0],
+            "collisionObjectModelId": 43321,
+            "collisionObjectPosition": [-2205.74, -2397.36, 3.30707, 0.0, 0.0, 0.0]
+        },
+                {
+            "id"     : 28797,
+            "vinyl"  : "remapttbody118",
+            "color"  : [1, 8],
+            "bodykit": [2727,2728,2729,2730,2731,2732,2733,2734,2735,2736,2737],
+            "coords" : [-2208.04, -2397.02, 5.39385, 0.0, 0.0, -5.8]
+        } 
+    ],
+
+    "npc"            : ["npcSpawn", "npcMinigame1", "npcMinigame2", "npcMinigame3", "npcEventStore"],
+
+    "currencyText"   : {"currencyText1": "Продавец кошмаров", "currencyText2": "Монеты"},
+    "Properties"     : [
+        {
+            "eventId": 7,
+            "miniGamesId": [1, 2, 3],
+            "dates": [1780884000, 1796263200],
+            "questOpenDate": 1767837600,
+            "color": "#4A3080",
+            "color2": "#4A3080",
+            "name": "Продавец кошмаров",
+            "bgImage": "bg_event.png",
+            "icMenuImage": "ic_menu_event.png",
+            "icImage": "ic_event.png",
+            "bpOfferImage": "ru/img_bpofferimage.png",
+            "bpMultiplier": 2,
+            "bpLimit": 2000,
+            "lastChanceImage": "ru/img_lvlofferimage.png",
+            "offerImage": "ru/img_offerimage.png",
+            "offerCost": 239,
+            "offerValue": 1000,
+            "eventCurrencyId": 23,
+            "eventCurrencyOfferName": "Монет",
+            "eventMainObjectName": "Шапито"
+        }
+    ],
+    "Settings"       : [
+        {
+            "id"          : 1,
+            "name"        : "ПРОДАВЕЦ КОШМАРОВ",
+            "icImage"     : "ic_event.svg",
+            "objectGrades": [0, 25, 49],
+            "objectImages": ["img_event_grade_1.png", "img_event_grade_2.png", "img_event_grade_3.png"]
+        },
+        {
+            "id"          : 2,
+            "name"        : "ЗАДАНИЯ",
+            "icImage"     : "ic_checklist.svg",
+            "objectImages": ["img_daily_tasks.png", "img_unique_tasks.png"]
+        },
+        {
+            "id"          : 3,
+            "name"        : "РЕЙТИНГ",
+            "icImage"     : "ic_reward.svg",
+            "objectImages": ["bg_rating_event.png"]
+        },
+        {
+            "id"          : 4,
+            "name"        : "МИНИ ИГРЫ",
+            "icImage"     : "ic_game.svg",
+            "objectImages": ["img_minigame_1.png", "img_minigame_2.png", "img_minigame_3.png"]
+        }
+    ],
+    "EventLevel"     : [
+    {
+        "id": 1,
+        "cost": 1000,
+        "name": "5 BC",
+        "description": "5 BC",
+        "rarity": 1,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 5
+    },
+    {
+        "id": 2,
+        "cost": 1000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 3,
+        "cost": 2000,
+        "name": "X10 ПЫЛЬ",
+        "description": "X10 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 4,
+        "cost": 2000,
+        "name": "10 000 Р",
+        "description": "10 000 Р",
+        "rarity": 2,
+        "typeId": 2,
+        "internalId": 0,
+        "count": 10000
+    },
+    {
+        "id": 5,
+        "cost": 2000,
+        "name": "ЕЖЕДНЕВНЫЙ",
+        "description": "ЕЖЕДНЕВНЫЙ КЕЙС X1",
+        "rarity": 1,
+        "typeId": 4,
+        "internalId": 1,
+        "count": 1
+    },
+    {
+        "id": 6,
+        "cost": 3000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 7,
+        "cost": 3000,
+        "name": "КЕЙС ГОНЩИКА",
+        "description": "КЕЙС С БИЛЕТАМИ ГОНЩИКА",
+        "rarity": 3,
+        "typeId": 4,
+        "internalId": 26,
+        "count": 1,
+        "typeReward": 1
+    },
+    {
+        "id": 8,
+        "cost": 3000,
+        "name": "5 BC",
+        "description": "5 BC",
+        "rarity": 2,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 5
+    },
+    {
+        "id": 9,
+        "cost": 3000,
+        "name": "5 EXP",
+        "description": "5 EXP",
+        "rarity": 2,
+        "typeId": 1,
+        "internalId": 0,
+        "count": 5
+    },
+    {
+        "id": 10,
+        "cost": 5000,
+        "name": "ТАЛОН КРАНА",
+        "description": "ОДНО ПОСЕЩЕНИЕ КРАНА",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 1140,
+        "count": 1,
+        "typeReward": 1,
+        "imageName": "img_ticket_halloween_2026.png"
+    },
+    {
+        "id": 11,
+        "cost": 5000,
+        "name": "X10 ПЫЛЬ",
+        "description": "X10 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 12,
+        "cost": 5000,
+        "name": "БОМЖА X1",
+        "description": "КЕЙС БОМЖА X1",
+        "rarity": 2,
+        "typeId": 4,
+        "internalId": 2,
+        "count": 1
+    },
+    {
+        "id": 13,
+        "cost": 5000,
+        "name": "10 BC",
+        "description": "10 BC",
+        "rarity": 2,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 14,
+        "cost": 5000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 15,
+        "cost": 8000,
+        "name": "ЗАЩИТА ОТ УПЫРЕЙ",
+        "description": "РЮКЗАК ЗАЩИТА ОТ УПЫРЕЙ",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 1135,
+        "count": 1,
+        "typeReward": 1,
+        "imageName": "acs_100505.png"
+    },
+    {
+        "id": 16,
+        "cost": 8000,
+        "name": "X15 ПЫЛЬ",
+        "description": "X15 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 15
+    },
+    {
+        "id": 17,
+        "cost": 8000,
+        "name": "15 000 Р",
+        "description": "15 000 Р",
+        "rarity": 2,
+        "typeId": 2,
+        "internalId": 0,
+        "count": 15000
+    },
+    {
+        "id": 18,
+        "cost": 8000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 19,
+        "cost": 8000,
+        "name": "5 EXP",
+        "description": "5 EXP",
+        "rarity": 2,
+        "typeId": 1,
+        "internalId": 0,
+        "count": 5
+    },
+    {
+        "id": 20,
+        "cost": 8000,
+        "name": "ТАЛОН КРАНА",
+        "description": "ОДНО ПОСЕЩЕНИЕ КРАНА",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 1140,
+        "count": 1,
+        "imageName": "img_ticket_halloween_2026.png"
+    },
+    {
+        "id": 21,
+        "cost": 8000,
+        "name": "10 BC",
+        "description": "10 BC",
+        "rarity": 2,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 22,
+        "cost": 8000,
+        "name": "5 EXP",
+        "description": "5 EXP",
+        "rarity": 2,
+        "typeId": 1,
+        "internalId": 0,
+        "count": 5
+    },
+    {
+        "id": 23,
+        "cost": 8000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 24,
+        "cost": 8000,
+        "name": "X15 ПЫЛЬ",
+        "description": "X15 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 15
+    },
+    {
+        "id": 25,
+        "cost": 8000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 26,
+        "cost": 8000,
+        "name": "ЕЖЕДНЕВНЫЙ",
+        "description": "ЕЖЕДНЕВНЫЙ КЕЙС X1",
+        "rarity": 1,
+        "typeId": 4,
+        "internalId": 1,
+        "count": 1
+    },
+    {
+        "id": 27,
+        "cost": 8000,
+        "name": "10 BC",
+        "description": "10 BC",
+        "rarity": 2,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 28,
+        "cost": 8000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 29,
+        "cost": 8000,
+        "name": "X20 ПЫЛЬ",
+        "description": "X20 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 20
+    },
+    {
+        "id": 30,
+        "cost": 10000,
+        "name": "БЕЗУМНЫЙ КОНЮХ",
+        "description": "БЕЗУМНЫЙ КОНЮХ",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 134,
+        "count": 5500150,
+        "typeReward": 1,
+        "imageName": "sk_5500150.png"
+    },
+    {
+        "id": 31,
+        "cost": 10000,
+        "name": "30 000 Р",
+        "description": "30 000 Р",
+        "rarity": 2,
+        "typeId": 2,
+        "internalId": 0,
+        "count": 30000
+    },
+    {
+        "id": 32,
+        "cost": 10000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 33,
+        "cost": 10000,
+        "name": "10 BC",
+        "description": "10 BC",
+        "rarity": 2,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 34,
+        "cost": 10000,
+        "name": "X20 ПЫЛЬ",
+        "description": "X20 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 20
+    },
+    {
+        "id": 35,
+        "cost": 10000,
+        "name": "GOLD 48Ч",
+        "description": "VIP GOLD НА 48Ч",
+        "rarity": 2,
+        "typeId": 9,
+        "internalId": 2,
+        "count": 48
+    },
+    {
+        "id": 36,
+        "cost": 10000,
+        "name": "ЕЖЕДНЕВНЫЙ",
+        "description": "ЕЖЕДНЕВНЫЙ КЕЙС X1",
+        "rarity": 1,
+        "typeId": 4,
+        "internalId": 1,
+        "count": 1
+    },
+    {
+        "id": 37,
+        "cost": 10000,
+        "name": "1000 BP EXP",
+        "description": "1000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 1000
+    },
+    {
+        "id": 38,
+        "cost": 10000,
+        "name": "50 000 Р",
+        "description": "50 000 Р",
+        "rarity": 3,
+        "typeId": 2,
+        "internalId": 0,
+        "count": 50000
+    },
+    {
+        "id": 39,
+        "cost": 10000,
+        "name": "ЕЖЕДНЕВНЫЙ",
+        "description": "ЕЖЕДНЕВНЫЙ КЕЙС X1",
+        "rarity": 1,
+        "typeId": 4,
+        "internalId": 1,
+        "count": 1
+    },
+    {
+        "id": 40,
+        "cost": 12000,
+        "name": "ТАЛОН КРАНА",
+        "description": "ОДНО ПОСЕЩЕНИЕ КРАНА",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 1140,
+        "count": 1,
+        "typeReward": 1,
+        "imageName": "img_ticket_halloween_2026.png"
+    },
+    {
+        "id": 41,
+        "cost": 12000,
+        "name": "100 000 Р",
+        "description": "100 000 Р",
+        "rarity": 3,
+        "typeId": 2,
+        "internalId": 0,
+        "count": 100000
+    },
+    {
+        "id": 42,
+        "cost": 12000,
+        "name": "2000 BP EXP",
+        "description": "2000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 2000
+    },
+    {
+        "id": 43,
+        "cost": 12000,
+        "name": "10 BC",
+        "description": "10 BC",
+        "rarity": 2,
+        "typeId": 3,
+        "internalId": 0,
+        "count": 10
+    },
+    {
+        "id": 44,
+        "cost": 12000,
+        "name": "X20 ПЫЛЬ",
+        "description": "X20 ПЫЛЬ",
+        "rarity": 1,
+        "typeId": 21,
+        "internalId": 0,
+        "count": 20
+    },
+    {
+        "id": 45,
+        "cost": 15000,
+        "name": "ТАЛОН КРАНА",
+        "description": "ОДНО ПОСЕЩЕНИЕ КРАНА",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 1140,
+        "count": 1,
+        "typeReward": 1,
+        "imageName": "img_ticket_halloween_2026.png"
+    },
+    {
+        "id": 46,
+        "cost": 15000,
+        "name": "2000 BP EXP",
+        "description": "2000 BP EXP",
+        "rarity": 1,
+        "typeId": 10,
+        "internalId": 0,
+        "count": 2000
+    },
+    {
+        "id": 47,
+        "cost": 15000,
+        "name": "АВТОКЕЙС 2.0",
+        "description": "АВТОКЕЙС 2.0",
+        "rarity": 4,
+        "typeId": 4,
+        "internalId": 4,
+        "count": 1,
+        "typeReward": 1
+    },
+    {
+        "id": 48,
+        "cost": 15000,
+        "name": "A-S CLASS 24Ч",
+        "description": "КЕЙС A-S CLASS 24Ч",
+        "rarity": 2,
+        "typeId": 4,
+        "internalId": 28,
+        "count": 1
+    },
+    {
+        "id": 49,
+        "cost": 15000,
+        "name": "150 000 Р",
+        "description": "150 000 Р",
+        "rarity": 3,
+        "typeId": 2,
+        "internalId": 0,
+        "count": 150000
+    },
+    {
+        "id": 50,
+        "cost": 15000,
+        "name": "GMC Syclone",
+        "nameStore": "Gen Storm",
+        "description": "GMC Syclone",
+        "descriptionStore": "Gen Storm",
+        "rarity": 4,
+        "typeId": 5,
+        "internalId": 28797,
+        "count": 0,
+        "subCount": 280,
+        "typeReward": 1,
+        "imageName": "veh_28797.png"
+    },
+    {
+        "id": 51,
+        "cost": 15000,
+        "name": "ТАЛОН КРАНА",
+        "description": "ОДНО ПОСЕЩЕНИЕ КРАНА",
+        "rarity": 4,
+        "typeId": 11,
+        "internalId": 1140,
+        "count": 1,
+        "typeReward": 1,
+        "imageName": "img_ticket_halloween_2026.png"
+    }
+],
+    "LimitUpgrades"  : [
+        {"id":  0, "multEventRes": 1  , "limitEventRes": 1000                                          },
+        {"id":  1, "multEventRes": 1.1, "limitEventRes": 1050, "costSoft":   4900, "eventResGift":  200},
+        {"id":  2, "multEventRes": 1.2, "limitEventRes": 1100, "costSoft":   9900, "eventResGift":  250},
+        {"id":  3, "multEventRes": 1.3, "limitEventRes": 1150, "costSoft":  14900, "eventResGift":  350},
+        {"id":  4, "multEventRes": 1.4, "limitEventRes": 1200, "costSoft":  19900, "eventResGift":  450},
+        {"id":  5, "multEventRes": 1.5, "limitEventRes": 1300, "costSoft":  24900, "eventResGift":  550},
+        {"id":  6, "multEventRes": 1.6, "limitEventRes": 1350, "costSoft":  29900, "eventResGift":  650},
+        {"id":  7, "multEventRes": 1.7, "limitEventRes": 1400, "costSoft":  34900, "eventResGift":  750},
+        {"id":  8, "multEventRes": 1.8, "limitEventRes": 1500, "costSoft":  39900, "eventResGift":  850},
+        {"id":  9, "multEventRes": 1.9, "limitEventRes": 1550, "costSoft":  44900, "eventResGift":  950},
+        {"id": 10, "multEventRes": 2  , "limitEventRes": 1600, "costSoft":  49900, "eventResGift": 1050},
+        {"id": 11, "multEventRes": 2.1, "limitEventRes": 1700, "costSoft":  54900, "eventResGift": 1200},
+        {"id": 12, "multEventRes": 2.2, "limitEventRes": 1800, "costSoft":  59900, "eventResGift": 1300},
+        {"id": 13, "multEventRes": 2.3, "limitEventRes": 1850, "costSoft":  64900, "eventResGift": 1400},
+        {"id": 14, "multEventRes": 2.4, "limitEventRes": 1950, "costSoft":  69900, "eventResGift": 1550},
+        {"id": 15, "multEventRes": 2.5, "limitEventRes": 2050, "costSoft":  74900, "eventResGift": 1650},
+        {"id": 16, "multEventRes": 2.6, "limitEventRes": 2150, "costSoft":  79900, "eventResGift": 1800},
+        {"id": 17, "multEventRes": 2.7, "limitEventRes": 2250, "costSoft":  84900, "eventResGift": 1900},
+        {"id": 18, "multEventRes": 2.8, "limitEventRes": 2350, "costSoft":  89900, "eventResGift": 2050},
+        {"id": 19, "multEventRes": 2.9, "limitEventRes": 2450, "costSoft":  94900, "eventResGift": 2200},
+        {"id": 20, "multEventRes": 3  , "limitEventRes": 2550, "costSoft":  99900, "eventResGift": 2350},
+        {"id": 21, "multEventRes": 3.1, "limitEventRes": 2700, "costSoft": 104900, "eventResGift": 2500},
+        {"id": 22, "multEventRes": 3.2, "limitEventRes": 2800, "costSoft": 109900, "eventResGift": 2650},
+        {"id": 23, "multEventRes": 3.3, "limitEventRes": 2950, "costSoft": 114900, "eventResGift": 2800},
+        {"id": 24, "multEventRes": 3.4, "limitEventRes": 3050, "costSoft": 119900, "eventResGift": 2950},
+        {"id": 25, "multEventRes": 3.5, "limitEventRes": 3200, "costSoft": 124900, "eventResGift": 3100},
+        {"id": 26, "multEventRes": 3.6, "limitEventRes": 3350, "costSoft": 129900, "eventResGift": 3300},
+        {"id": 27, "multEventRes": 3.7, "limitEventRes": 3500, "costSoft": 134900, "eventResGift": 3450},
+        {"id": 28, "multEventRes": 3.8, "limitEventRes": 3650, "costSoft": 139900, "eventResGift": 3650},
+        {"id": 29, "multEventRes": 3.9, "limitEventRes": 3850, "costSoft": 144900, "eventResGift": 3800},
+        {"id": 30, "multEventRes": 4  , "limitEventRes": 4000, "costSoft": 149900, "eventResGift": 4000}
+    ],
+    "RatingRewards"  : [
+        {
+            "id"        : 1,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 2,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 3,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 4,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 5,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 6,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 7,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 8,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 9,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        },
+        {
+            "id"        : 10,
+            "name"      : "Veritas RS III",
+            "nameStore" : "Ventaris SP-3",
+            "rarity"    : 5,
+            "typeId"    : 5,
+            "internalId": 28798,
+            "count"     : 0,
+            "imageName" : "veh_28798.png",
+            "subCount": 281
+        }
+    ],
+    "Tasks"          : [
+        {
+            "id": 1,
+            "typeId": 1,
+            "typeName": "Особое",
+            "description": "Прокачайте BlackPass до 10 уровня",
+            "requirementDescription": "Прокачено:",
+            "count": 10,
+            "award": 5000,
+            "typeBtn": 3
+        },
+        {
+            "id": 2,
+            "typeId": 1,
+            "typeName": "Особое",
+            "description": "Купите BlackPass",
+            "requirementDescription": "Куплено:",
+            "count": 1,
+            "award": 20000,
+            "typeBtn": 3
+        },
+        {
+            "id": 3,
+            "typeId": 1,
+            "typeName": "Особое",
+            "description": "Откройте 10 кейсов события",
+            "requirementDescription": "Открыто:",
+            "count": 10,
+            "award": 25000,
+            "typeBtn": 4
+        },
+        {
+            "id": 4,
+            "typeId": 1,
+            "typeName": "Особое",
+            "description": "Сыграйте в мини игры события 20 раз",
+            "requirementDescription": "Сыграно:",
+            "count": 20,
+            "award": 5000,
+            "typeBtn": 5
+        },
+        {
+            "id": 5,
+            "typeId": 1,
+            "typeName": "Особое",
+            "description": "Заработайте 50 000 Монет",
+            "requirementDescription": "Заработано:",
+            "count": 50000,
+            "award": 5000,
+            "typeBtn": 5
+        },
+        {
+            "id": 6,
+            "typeId": 1,
+            "typeName": "Особое",
+            "description": "Потратьте 10 000 BC",
+            "requirementDescription": "Потрачено:",
+            "count": 10000,
+            "award": 20000,
+            "typeBtn": 2
+        },
+        {
+            "id": 7,
+            "typeId": 2,
+            "typeName": "Ежедневное",
+            "description": "Сыграйте в любую мини игру события 1 раз",
+            "requirementDescription": "Сыграно:",
+            "count": 1,
+            "award": 300,
+            "typeBtn": 5
+        },
+        {
+            "id": 8,
+            "typeId": 2,
+            "typeName": "Ежедневное",
+            "description": "Победите в мини игре Нехорошая Квартира 1 раз",
+            "requirementDescription": "Выполнено:",
+            "count": 1,
+            "award": 1000,
+            "typeBtn": 5
+        },
+        {
+            "id": 9,
+            "typeId": 2,
+            "typeName": "Ежедневное",
+            "description": "Победите в мини игре Проклятая деревня 1 раз",
+            "requirementDescription": "Собрано:",
+            "count": 1,
+            "award": 1000,
+            "typeBtn": 5
+        },
+        {
+            "id": 10,
+            "typeId": 2,
+            "typeName": "Ежедневное",
+            "description": "Прокачайте 1 уровень BLACK PASS",
+            "requirementDescription": "Прокачено:",
+            "count": 1,
+            "award": 500,
+            "typeBtn": 3
+        }
+    ],
+    "MiniGames"      : [
+        {"id": 16, "playable": 1, "name": "Проклятая деревня", "imageName": "img_minigame_2.png"},
+        {"id": 15, "playable": 1, "name": "Гонки на выживание", "imageName": "img_minigame_1.png"},
+        {"id": 17, "playable": 1, "name": "Нехорошая квартира", "imageName": "img_minigame_3.png"}          
+    ],
+    "Tutorial"       : [
+        {
+            "id": 1,
+            "header": "<font color=\"#FFC700\">Шапито</font>",
+            "imageName": "ru/img_event_tutorial_1.png",
+            "description": "<font color=\"#FFC700\">Шапито</font> будет расти по мере того, как вы выполняете задания, участвуете в мини играх события и зарабатываете <font color=\"#FFC700\">Монеты</font>. За каждый уровень Вы получите ценную награду.<br> <font color=\"#E2310C\">Важно:</font> заработать <font color=\"#FFC700\">Монеты</font> можно только играя во время события<font color=\"#FFC700\"> Продавец Кошмаров</font>."
+        },
+        {
+            "id": 2,
+            "header": "<font color=\"#FFC700\">Рейтинг</font>",
+            "imageName": "ru/img_event_tutorial_2.png",
+            "description": "Зарабатывайте <font color=\"#FFC700\">Монеты</font>, чтобы получать очки рейтинга. Чем выше Ваше положение в таблице рейтинга, тем ценнее награды Вы можете получить.<br> <font color=\"#E2310C\">Важно:</font> все награды рейтинга  <font color=\"#FFC700\">уникальные</font>, и выдаются в конце события."
+        },
+        {
+            "id": 3,
+            "header": "<font color=\"#FFC700\">Задания</font>",
+            "imageName": "ru/img_event_tutorial_3.png",
+            "description": "Выполняйте <font color=\"#FFC700\">Ежедневные</font> и <font color=\"#FFC700\">Особые</font> задания и получайте <font color=\"#FFC700\">Монеты</font> для прогресса <font color=\"#FFC700\">Шапито</font>.<br> <font color=\"#E2310C\">Важно:</font> <font color=\"#FFC700\">Ежедневные</font> задания обновляются каждый день. <font color=\"#FFC700\">Особые</font> задания выполняются один раз за все событие. Благодаря ним вы можете заработать сразу большое количество <font color=\"#FFC700\">Монет</font>."
+        },
+        {
+            "id": 4,
+            "header": "<font color=\"#FFC700\">Мини игры</font>",
+            "imageName": "ru/img_event_tutorial_4.png",
+            "description": "Мини игры — это особые активности, доступные <font color=\"#FFC700\">только во время события</font>. Играя в них, вы зарабатываете <font color=\"#FFC700\">Монеты</font>.<br> Дневной лимит <font color=\"#FFC700\">Монет</font> с мини игр можно увеличить, чтобы зарабатывать больше <font color=\"#FFC700\">Монет</font>. <br><br><font color=\"#E2310C\">Важно:</font> благодаря <font color=\"#FFC700\">BLACK PASS Premium</font> вы сможете сильно увеличить свой лимит <font color=\"#FFC700\">Монет</font>,<br> и быстрее получить <font color=\"#FFC700\">уникальные призы</font>."
+        },
+        {
+            "id": 5,
+            "header": "<font color=\"#FFC700\">Кейсы</font>",
+            "imageName": "ru/img_event_tutorial_5.png",
+            "description": "Открывайте <font color=\"#FFC700\">Кейсы события</font>!<br>Помимо уникальных наград, вы можете получить еще больше <font color=\"#FFC700\">Монет</font> для прогресса <font color=\"#FFC700\">Шапито</font>."
+        }
+    ]
+}

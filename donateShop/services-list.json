@@ -1,0 +1,185 @@
+﻿[
+  {
+    "serviceId": 1,
+    "serviceName": "Изменить имя"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Снять варн"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Все лицензии"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Быстрое лечение"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Изменить имя семьи"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Передать семью"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Военный билет"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Звуковой комплект +30 дней"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Доп. слот на дом"
+  },
+  {
+    "serviceId": 10,
+    "serviceName": "Доп. слот на бизнес"
+  },
+  {
+    "serviceId": 11,
+    "serviceName": "Пониженный износ на 30 дней"
+  },
+  {
+    "serviceId": 12,
+    "serviceName": "Вечная мед. карта"
+  },
+  {
+    "serviceId": 13,
+    "serviceName": "Мед. карта"
+  },
+  {
+    "serviceId": 14,
+    "serviceName": "Повышение законности",
+    "packages": [
+      {
+        "count": 10,
+        "price": 5,
+        "priceCurrency": "bc",
+        "salePercent": 0,
+        "fakePrice": 0
+      },
+      {
+        "count": 40,
+        "price": 19,
+        "priceCurrency": "bc",
+        "salePercent": 5,
+        "fakePrice": 20
+      },
+      {
+        "count": 100,
+        "price": 39,
+        "priceCurrency": "bc",
+        "salePercent": 22,
+        "fakePrice": 50
+      },
+      {
+        "count": 250,
+        "price": 89,
+        "priceCurrency": "bc",
+        "salePercent": 29,
+        "fakePrice": 125
+      },
+      {
+        "count": 500,
+        "price": 169,
+        "priceCurrency": "bc",
+        "salePercent": 32,
+        "fakePrice": 250
+      }
+    ]
+  },
+  {
+    "serviceId": 15,
+    "serviceName": "Доп. слот на авто в семью",
+    "packages": [
+      {
+        "count": 1,
+        "price": 299,
+        "priceCurrency": "bc",
+        "salePercent": 0,
+        "fakePrice": 0
+      },
+      {
+        "count": 3,
+        "price": 819,
+        "priceCurrency": "bc",
+        "salePercent": 9,
+        "fakePrice": 897
+      },
+      {
+        "count": 5,
+        "price": 1299,
+        "priceCurrency": "bc",
+        "salePercent": 13,
+        "fakePrice": 1495
+      },
+      {
+        "count": 10,
+        "price": 1999,
+        "priceCurrency": "bc",
+        "salePercent": 33,
+        "fakePrice": 2990
+      },
+      {
+        "count": 25,
+        "price": 3199,
+        "priceCurrency": "bc",
+        "salePercent": 57,
+        "fakePrice": 7475
+      }
+    ]
+  },
+  {
+    "serviceId": 16,
+    "serviceName": "Доп. слот на авто",
+    "packages": [
+      {
+        "count": 1,
+        "price": 99,
+        "priceCurrency": "bc",
+        "salePercent": 0,
+        "fakePrice": 0
+      },
+      {
+        "count": 3,
+        "price": 279,
+        "priceCurrency": "bc",
+        "salePercent": 7,
+        "fakePrice": 297
+      },
+      {
+        "count": 5,
+        "price": 399,
+        "priceCurrency": "bc",
+        "salePercent": 20,
+        "fakePrice": 495
+      },
+      {
+        "count": 10,
+        "price": 699,
+        "priceCurrency": "bc",
+        "salePercent": 30,
+        "fakePrice": 990
+      },
+      {
+        "count": 25,
+        "price": 1499,
+        "priceCurrency": "bc",
+        "salePercent": 40,
+        "fakePrice": 2475
+      }
+    ]
+  },
+  {
+    "serviceId": 17,
+    "serviceName": "Номера на авто"
+  },
+  {
+    "serviceId": 18,
+    "serviceName": "Номер телефона"
+  }
+]

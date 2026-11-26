@@ -1,0 +1,49 @@
+﻿{
+    "crane_tools": [
+        {
+            "id" : 0,
+            "model_id" : 43072,
+            "name" : "basic_spreader",
+            "type" : "spreader",
+            "sensor_position" : [0,0,-1.1],
+            "attachment_point_offset" : [0,0,-2],
+            "rotation": [0, 0, 90],
+            "mass" : 1000.0,
+            "turnMass" : 100000,
+            "airResistance" : 1.0,
+            "yawTurnSpeed" : 1.0,
+            "linear_damping" : 1.35,
+            "angular_damping" : 1.0
+        },
+        {
+            "id" : 1,
+            "model_id" : 43072,
+            "name" : "shiny_spreader",
+            "type" : "spreader",
+            "sensor_position" : [0,0,0],
+            "attachment_point_offset" : [0,0,0],
+            "rotation": [0, 0, 0],
+            "mass" : 500.0,
+            "turnMass" : 100000,
+            "airResistance" : 1.0,
+            "yawTurnSpeed" : 1.0,
+            "linear_damping" : 1.0,
+            "angular_damping" : 1.0
+        },
+        {
+            "id" : 2,
+            "model_id" : 43072,
+            "name" : "diamond_spreader",
+            "type" : "spreader",
+            "sensor_position" : [0,0,0],
+            "attachment_point_offset" : [0,0,0],
+            "rotation": [0, 0, 0],
+            "mass" : 500.0,
+            "turnMass" : 100000,
+            "airResistance" : 1.0,
+            "yawTurnSpeed" : 1.0,
+            "linear_damping" : 1.0,
+            "angular_damping" : 1.0
+        }
+    ]
+}
